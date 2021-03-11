@@ -1,3 +1,4 @@
 Data/raw_data
 __pycache__/
 /journal
+/diagnostic.data
