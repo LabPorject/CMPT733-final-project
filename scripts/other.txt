@@ -1,0 +1,55 @@
+{
+   "keywords_id":[
+      780,
+      1820,
+      1938,
+      3389,
+      10159,
+      12554,
+      167234,
+      192494,
+      192913
+   ],
+   "keywords_name":[
+      "kung fu",
+      "trip",
+      "sword",
+      "warrior woman",
+      "computer animation",
+      "dragon",
+      "vietnamese",
+      "south asian",
+      "warrior"
+   ],
+   "top_10_cast_popularity_mean":7.9577,
+   "casts":[
+      "Kelly Marie Tran",
+      "Awkwafina",
+      "Sung Kang",
+      "Alan Tudyk",
+      "Benedict Wong"
+   ],
+   "top_5_cast_popularity":[
+      12.536,
+      11.363,
+      10.835,
+      10.049,
+      8.928
+   ],
+   "top_5_crew_popularity_mean":2.1683999999999997,
+   "crews":[
+      "Qui Nguyen",
+      "Don Hall",
+      "Jennifer Lee",
+      "Jared Bush",
+      "Kiel Murray"
+   ],
+   "top_5_crew_popularity":[
+      2.557,
+      2.479,
+      2.152,
+      1.96,
+      1.694
+   ],
+   "director":"Don Hall"
+}

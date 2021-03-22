@@ -1,0 +1,85 @@
+{
+   "imdb_id":"tt5109280",
+   "id":527774,
+   "title":"Raya and the Last Dragon",
+   "vote_average":8.4,
+   "vote_count":1512,
+   "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+   "genre_ids":[
+      16,
+      12,
+      14,
+      10751,
+      28
+   ],
+   "original_language":"en",
+   "popularity":4577.358,
+   "release_date":"2021-03-03",
+   "overview":"Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+   "budget":0,
+   "revenue":56482606,
+   "runtime":107,
+   "status":"Released",
+   "tagline":"A quest to save her world.",
+   "company_id":[
+      2,
+      6125
+   ],
+   "company_name":[
+      "Walt Disney Pictures",
+      "Walt Disney Animation Studios"
+   ],
+   "keywords_id":[
+      780,
+      1820,
+      1938,
+      3389,
+      10159,
+      12554,
+      167234,
+      192494,
+      192913
+   ],
+   "keywords_name":[
+      "kung fu",
+      "trip",
+      "sword",
+      "warrior woman",
+      "computer animation",
+      "dragon",
+      "vietnamese",
+      "south asian",
+      "warrior"
+   ],
+   "top_10_cast_popularity_mean":7.9577,
+   "casts":[
+      "Kelly Marie Tran",
+      "Awkwafina",
+      "Sung Kang",
+      "Alan Tudyk",
+      "Benedict Wong"
+   ],
+   "top_5_cast_popularity":[
+      12.536,
+      11.363,
+      10.835,
+      10.049,
+      8.928
+   ],
+   "top_5_crew_popularity_mean":2.1683999999999997,
+   "crews":[
+      "Qui Nguyen",
+      "Don Hall",
+      "Jennifer Lee",
+      "Jared Bush",
+      "Kiel Murray"
+   ],
+   "top_5_crew_popularity":[
+      2.557,
+      2.479,
+      2.152,
+      1.96,
+      1.694
+   ],
+   "director":"Don Hall"
+}

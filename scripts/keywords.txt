@@ -1,0 +1,41 @@
+{
+   "id":527774,
+   "keywords":[
+      {
+         "id":780,
+         "name":"kung fu"
+      },
+      {
+         "id":1820,
+         "name":"trip"
+      },
+      {
+         "id":1938,
+         "name":"sword"
+      },
+      {
+         "id":3389,
+         "name":"warrior woman"
+      },
+      {
+         "id":10159,
+         "name":"computer animation"
+      },
+      {
+         "id":12554,
+         "name":"dragon"
+      },
+      {
+         "id":167234,
+         "name":"vietnamese"
+      },
+      {
+         "id":192494,
+         "name":"south asian"
+      },
+      {
+         "id":192913,
+         "name":"warrior"
+      }
+   ]
+}
