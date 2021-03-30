@@ -104,13 +104,13 @@ def parseMoreInfo(movie):
     crew = movie.credits()['crew']
     df = pd.DataFrame(crew)
     df = df.drop_duplicates(subset=['name'])
-    top_5_crew = df.sort_values(['popularity'], ascending=False).head(5)
-    midict['top_5_crew_popularity_mean'] = top_5_crew['popularity'].mean()
-    midict['crews'] = top_5_crew['name'].tolist()
-    midict['top_5_crew_popularity'] = top_5_crew['popularity'].tolist()
-    hasDirector = top_5_crew[top_5_crew['job'] == 'Director']['name'].count() > 0
+    top_10_crew = df.sort_values(['popularity'], ascending=False).head(10)
+    midict['top_10_crew_popularity_mean'] = top_10_crew['popularity'].mean()
+    midict['crews'] = top_10_crew['name'].tolist()
+    midict['top_10_crew_popularity'] = top_10_crew['popularity'].tolist()
+    hasDirector = top_10_crew[top_10_crew['job'] == 'Director']['name'].count() > 0
     if hasDirector:
-        director = top_5_crew[top_5_crew['job'] == 'Director']['name'].values[0]
+        director = top_10_crew[top_10_crew['job'] == 'Director']['name'].values[0]
     else:
         director = 'None'
     midict['director'] = director
