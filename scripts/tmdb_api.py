@@ -53,7 +53,7 @@ def parseFindBasic(responses, imdb_id):
     fdict = {}
     fdict['imdb_id'] = imdb_id
     attr_list = ['id', 'title', 'vote_average', 'vote_count', 'poster_path', \
-                'genre_ids', 'original_language', 'popularity', 'release_date']
+                'genre_ids', 'original_language', 'popularity', 'release_date','original_title']
     for a in attr_list:
         fdict[a] =  responses['movie_results'][0][a]
     fdict['genre_ids'] = list(map(genre_map, fdict['genre_ids']))
@@ -75,7 +75,7 @@ Parse the basic inforation with MOVIE() API call
 MOVIE() will only return more detailed information
 """
 def parseMovies(movie):
-    attr_list = ['budget', 'revenue', 'runtime', 'status', 'tagline']
+    attr_list = ['budget', 'revenue', 'runtime', 'status', 'tagline','adult','homepage']
     mdict = {}
     movie = movie.info()
     for a in attr_list:
