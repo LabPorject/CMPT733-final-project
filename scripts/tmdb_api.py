@@ -75,11 +75,14 @@ Parse the basic inforation with MOVIE() API call
 MOVIE() will only return more detailed information
 """
 def parseMovies(movie):
-    attr_list = ['budget', 'revenue', 'runtime', 'status', 'tagline','adult','homepage']
+    attr_list = ['budget', 'revenue', 'runtime', 'status', 'tagline', \
+                'adult','homepage','belongs_to_collection']
     mdict = {}
     movie = movie.info()
     for a in attr_list:
         mdict[a] = movie[a]
+    if (movie['belongs_to_collection']) != None:
+        mdict['belongs_to_collection'] = movie['belongs_to_collection']['name']
     mdict['company_id'] = [i['id'] for i in movie['production_companies']]
     mdict['company_name'] = [i['name'] for i in movie['production_companies']]
     # print(mdict)
@@ -141,7 +144,7 @@ getInfoIMDB(imdb_id) will return basic movie information and movie reviews
 """
 if __name__ == '__main__':
     # imdb_id = 'tt5491994'
-    imdb_id = 'tt12361974'
+    imdb_id = 'tt0974015'
     results = getInfoIMDB(imdb_id)
     if results != None:
         minfo, mreview = results
