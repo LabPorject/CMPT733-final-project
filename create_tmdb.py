@@ -29,4 +29,3 @@ for p in imdb_cursor:
     except:
         print(p['_id'])
 
-        kill 16993
