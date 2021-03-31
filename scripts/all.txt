@@ -1,0 +1,104 @@
+{
+   "imdb_id":"tt12361974",
+   "id":791373,
+   "title":"Zack Snyder's Justice League",
+   "vote_average":8.7,
+   "vote_count":4032,
+   "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+   "genre_ids":[
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+   ],
+   "original_language":"en",
+   "popularity":9701.638,
+   "release_date":"2021-03-18",
+   "original_title":"Zack Snyder's Justice League",
+   "overview":"Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+   "budget":70000000,
+   "revenue":0,
+   "runtime":242,
+   "status":"Released",
+   "tagline":"",
+   "adult":false,
+   "homepage":"https://www.hbomax.com/zacksnydersjusticeleague",
+   "company_id":[
+      174,
+      114152,
+      507,
+      128064,
+      9993,
+      103376,
+      444
+   ],
+   "company_name":[
+      "Warner Bros. Pictures",
+      "The Stone Quarry",
+      "Atlas Entertainment",
+      "DC Films",
+      "DC Entertainment",
+      "Access Entertainment",
+      "Dune Entertainment"
+   ],
+   "keywords_id":[
+      849,
+      9715,
+      9717,
+      155030,
+      229266,
+      253072,
+      265979
+   ],
+   "keywords_name":[
+      "dc comics",
+      "superhero",
+      "based on comic",
+      "superhero team",
+      "dc extended universe",
+      "justice league",
+      "superhero teamup"
+   ],
+   "num_of_cast":121,
+   "top_10_cast_popularity_mean":21.3173,
+   "casts":[
+      "Gal Gadot",
+      "Henry Cavill",
+      "Zack Snyder",
+      "Ben Affleck",
+      "Amy Adams"
+   ],
+   "top_5_cast_popularity":[
+      40.745,
+      28.531,
+      28.265,
+      25.156,
+      23.551
+   ],
+   "top_10_crew_popularity_mean":9.2914,
+   "crews":[
+      "Zack Snyder",
+      "Ben Affleck",
+      "Christopher Nolan",
+      "Jerry Siegel",
+      "Wesley Coller",
+      "Bob Kane",
+      "Chris Terrio",
+      "Damon Caro",
+      "Geoff Johns",
+      "Glenn Ennis"
+   ],
+   "top_10_crew_popularity":[
+      28.265,
+      25.156,
+      12.953,
+      4.888,
+      4.331,
+      4.253,
+      4.14,
+      3.331,
+      2.853,
+      2.744
+   ],
+   "director":"Zack Snyder"
+}
