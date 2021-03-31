@@ -101,12 +101,14 @@ def parseMoreInfo(movie):
     midict['num_of_cast'] = len(df.index)
     top_10_cast = df.sort_values(['popularity'], ascending=False).head(10)
     midict['top_10_cast_popularity_mean'] = top_10_cast['popularity'].mean()
-    midict['casts'] = top_10_cast.head(5)['name'].tolist()
-    midict['top_5_cast_popularity'] = top_10_cast.head(5)['popularity'].tolist()
+    midict['casts'] = top_10_cast['name'].tolist()
+    midict['top_10_cast_popularity'] = top_10_cast['popularity'].tolist()
 
     crew = movie.credits()['crew']
     df = pd.DataFrame(crew)
     df = df.drop_duplicates(subset=['name'])
+    midict['num_of_crew'] = len(df.index)
+    midict['writer'] = df[df['known_for_department'] == 'Writing']['name'].tolist()
     top_10_crew = df.sort_values(['popularity'], ascending=False).head(10)
     midict['top_10_crew_popularity_mean'] = top_10_crew['popularity'].mean()
     midict['crews'] = top_10_crew['name'].tolist()
@@ -144,12 +146,12 @@ getInfoIMDB(imdb_id) will return basic movie information and movie reviews
 """
 if __name__ == '__main__':
     # imdb_id = 'tt5491994'
-    imdb_id = 'tt0974015'
+    imdb_id = 'tt2850386'
     results = getInfoIMDB(imdb_id)
     if results != None:
         minfo, mreview = results
         print(minfo)
-        print()
-        print(mreview)
+        # print()
+        # print(mreview)
 
 
