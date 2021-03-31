@@ -36,12 +36,12 @@ def getInfoIMDB(imdb_id):
         return None
     elif not isTv:
         all_info = parseFindBasic(results, imdb_id)
-        movie = tmdb.Movies(all_info['id'])
+        movie = tmdb.Movies(all_info['tmdb_id'])
         details = parseMovies(movie)
         all_info.update(details)
         more_info = parseMoreInfo(movie)
         all_info.update(more_info)
-        mreview = getReviews(movie,all_info['id'],imdb_id)
+        mreview = getReviews(movie,all_info['tmdb_id'],imdb_id)
         return (json.dumps(all_info),mreview)
     return None
     
@@ -51,12 +51,17 @@ FIND() will only return very basic information
 """
 def parseFindBasic(responses, imdb_id):
     fdict = {}
-    fdict['imdb_id'] = imdb_id
+    fdict['_id'] = imdb_id
     attr_list = ['id', 'title', 'vote_average', 'vote_count', 'poster_path', \
                 'genre_ids', 'original_language', 'popularity', 'release_date','original_title']
+
     for a in attr_list:
         fdict[a] =  responses['movie_results'][0][a]
-    fdict['genre_ids'] = list(map(genre_map, fdict['genre_ids']))
+    fdict['tmdb_id'] = fdict.pop('id')
+    fdict['primaryTitle'] = fdict.pop('title')
+    fdict['originalTitle'] = fdict.pop('original_title')
+
+    fdict['genres'] = list(map(genre_map, fdict['genre_ids']))
     fdict['poster_path'] = POSTER_PREFIX + fdict['poster_path'][1:]
     fdict['overview'] =  responses['movie_results'][0]['overview']
     return fdict
@@ -81,6 +86,9 @@ def parseMovies(movie):
     movie = movie.info()
     for a in attr_list:
         mdict[a] = movie[a]
+    mdict['runtimeMinutes'] = mdict.pop('runtime')
+    mdict['isAdult'] = mdict.pop('adult')
+
     if (movie['belongs_to_collection']) != None:
         mdict['belongs_to_collection'] = movie['belongs_to_collection']['name']
     mdict['company_id'] = [i['id'] for i in movie['production_companies']]
@@ -108,7 +116,7 @@ def parseMoreInfo(movie):
     df = pd.DataFrame(crew)
     df = df.drop_duplicates(subset=['name'])
     midict['num_of_crew'] = len(df.index)
-    midict['writer'] = df[df['known_for_department'] == 'Writing']['name'].tolist()
+    midict['Writers'] = df[df['known_for_department'] == 'Writing']['name'].tolist()
     top_10_crew = df.sort_values(['popularity'], ascending=False).head(10)
     midict['top_10_crew_popularity_mean'] = top_10_crew['popularity'].mean()
     midict['crews'] = top_10_crew['name'].tolist()
@@ -118,7 +126,7 @@ def parseMoreInfo(movie):
         director = top_10_crew[top_10_crew['job'] == 'Director']['name'].values[0]
     else:
         director = 'None'
-    midict['director'] = director
+    midict['Directors'] = director
     return midict
 
 """
@@ -151,7 +159,7 @@ if __name__ == '__main__':
     if results != None:
         minfo, mreview = results
         print(minfo)
-        # print()
-        # print(mreview)
+        print()
+        print(mreview)
 
 
