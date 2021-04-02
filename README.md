@@ -19,7 +19,9 @@ aws s3 cp s3://data-aoligei/Data-Apr1-Beta/Data.zip .
 ```
 unzip Data.zip
 ```
-
+```
+pip install pymongo
+```
 ```
 docker-compose up -d
 ```
