@@ -4,3 +4,5 @@ journal/
 diagnostic.data/
 .ipynb_checkpoints/
 nohup.out
+Data/
+Data.zip
