@@ -1,0 +1,112 @@
+{
+   "_id":"tt2850386",
+   "vote_average":7.5,
+   "vote_count":1836,
+   "poster_path":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+   "genre_ids":[
+      10751,
+      14,
+      16,
+      35
+   ],
+   "original_language":"en",
+   "popularity":840.888,
+   "release_date":"2020-11-25",
+   "tmdb_id":529203,
+   "primaryTitle":"The Croods: A New Age",
+   "originalTitle":"The Croods: A New Age",
+   "genres":[
+      "Family",
+      "Fantasy",
+      "Animation",
+      "Comedy"
+   ],
+   "overview":"Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+   "budget":65000000,
+   "revenue":135076090,
+   "status":"Released",
+   "tagline":"The future ain't what it used to be.",
+   "homepage":"https://www.dreamworks.com/movies/the-croods-2",
+   "belongs_to_collection":"The Croods Collection",
+   "runtimeMinutes":95,
+   "isAdult":false,
+   "company_id":[
+      33,
+      521
+   ],
+   "company_name":[
+      "Universal Pictures",
+      "DreamWorks Animation"
+   ],
+   "keywords_id":[
+      9663,
+      10159,
+      201947
+   ],
+   "keywords_name":[
+      "sequel",
+      "computer animation",
+      "prehistory"
+   ],
+   "num_of_cast":12,
+   "top_10_cast_popularity_mean":10.0846,
+   "casts":[
+      "Nicolas Cage",
+      "Ryan Reynolds",
+      "Peter Dinklage",
+      "Emma Stone",
+      "Catherine Keener",
+      "Leslie Mann",
+      "Cloris Leachman",
+      "Tara Strong",
+      "Chris Sanders",
+      "Clark Duke"
+   ],
+   "top_10_cast_popularity":[
+      26.886,
+      18.047,
+      11.334,
+      10.74,
+      7.373,
+      6.193,
+      5.807,
+      5.65,
+      4.979,
+      3.837
+   ],
+   "num_of_crew":11,
+   "Writers":[
+      "Kirk DeMicco",
+      "Paul Fisher",
+      "Dan Hageman",
+      "Kevin Hageman",
+      "Joel Crawford",
+      "Bob Logan"
+   ],
+   "top_10_crew_popularity_mean":2.0705,
+   "crews":[
+      "Chris Sanders",
+      "John Cleese",
+      "Mark Mothersbaugh",
+      "Kirk DeMicco",
+      "Joel Crawford",
+      "Paul Fisher",
+      "Bob Logan",
+      "Mark Swift",
+      "Dan Hageman",
+      "Kevin Hageman"
+   ],
+   "top_10_crew_popularity":[
+      4.979,
+      4.901,
+      3.422,
+      1.407,
+      1.4,
+      1.021,
+      0.972,
+      0.923,
+      0.84,
+      0.84
+   ],
+   "Directors":"Joel Crawford"
+}

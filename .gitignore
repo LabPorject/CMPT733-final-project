@@ -1,0 +1,9 @@
+raw_data/
+__pycache__/
+journal/
+diagnostic.data/
+.ipynb_checkpoints/
+nohup.out
+Data/
+Data.zip
+*.zip
