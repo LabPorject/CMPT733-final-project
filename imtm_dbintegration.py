@@ -48,7 +48,7 @@ def main():
     tmdb_collection.update_many( {}, { '$rename': { "vote_count": "tmdb_numVotes" } } )
 
     #project out 'release_date': 0, 'primaryTitle': 0, 'originalTitle': 0, 'isAdult': 0
-    tmdb_iterator = tmdb_collection.find({}, {'release_date': 0, 'primaryTitle': 0, 'originalTitle': 0, 'isAdult': 0})
+    tmdb_iterator = tmdb_collection.find({}, {'primaryTitle': 0, 'originalTitle': 0, 'isAdult': 0})
 
     for tmovie in tmdb_iterator:
         _id = tmovie['_id']
