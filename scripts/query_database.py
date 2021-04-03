@@ -24,7 +24,8 @@ def get_combined(release_year_cutoff=None, drop_lst=None, sample_size=None):
             print('release_year need to be int')
             return -1
         else:
-            pipeline.append( { '$match': { 'release_year': { '$gte': release_year_cutoff } } } )
+            pipeline.append( {'$addFields':{'release_year_int':{ '$toInt':"$release_year"}}} )
+            pipeline.append( { '$match': { 'release_year_int': { '$gte': release_year_cutoff } } } )
     
     if drop_lst:
         if type(drop_lst) != list:
@@ -43,7 +44,9 @@ def get_combined(release_year_cutoff=None, drop_lst=None, sample_size=None):
             pipeline.append( { '$limit' : sample_size } )    
             
     cursor = all_collection.aggregate(pipeline)
-    return pd.DataFrame(cursor)
+    df = pd.DataFrame(cursor)
+    df['release_year'] = df['release_year'].astype(float)
+    return df
 
 
 # Note: _id refers to IMDB id
