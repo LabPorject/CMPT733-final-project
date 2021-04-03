@@ -13,7 +13,7 @@ cd CMPT733-final-project
 Edit docker-compose file "bind-mount source" location accordingly
 Edit .aws/credentials & configs
 ```
-aws s3 cp s3://data-aoligei/Data-Apr1-Beta/Data.zip .
+aws s3 cp s3://data-aoligei/Data-Apr3/Data.zip .
 ```
 
 ```
