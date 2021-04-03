@@ -34,6 +34,9 @@ mongo-express web-front end: http://localhost:8081/
 ##### interaction with the database has been encapsulated in scripts/query_database.py
 see dummy.py as an example
 
+#### Note:
+all "\_id" in mongodb collections are all refering to IMDB id.
+
 ### Data source:
 https://grouplens.org/datasets/movielens/latest/
 
