@@ -14,6 +14,6 @@ tpot.fit(X_train, y_train)
 print(tpot.score(X_test, y_test))
 tpot.export('tpot_pipeline.py')
 
-Pkl_Filename = "auto_tpot.pkl"
-with open(Pkl_Filename, 'wb') as file:  
-    pickle.dump(tpot, file)
+# Pkl_Filename = "auto_tpot.pkl"
+# with open(Pkl_Filename, 'wb') as file:  
+#     pickle.dump(tpot, file)
