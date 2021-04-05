@@ -35,7 +35,8 @@ def optimal_num_features(X,y):
     plt.xlabel('Number of features selected', fontsize=14, labelpad=20)
     plt.ylabel('Score', fontsize=14, labelpad=20)
     plt.plot(range(1, len(rfecv.grid_scores_) + 1), rfecv.grid_scores_, color='#303F9F', linewidth=3)
-    plt.show()
+    # plt.show()
+    plt.savefig('02.png')
     # print(rfecv.estimator_.feature_importances_)
     return rfecv
 
@@ -50,7 +51,8 @@ def plotFeaturesRanking(rfecv,X):
     plt.barh(range(len(indices)), importances[indices], color='b', align='center')
     plt.yticks(range(len(indices)), [features[i] for i in indices])
     plt.xlabel('Relative Importance')
-    plt.show()
+    # plt.show()
+    plt.savefig('01.png')
 
 if __name__ == '__main__':
     df = pd.read_csv('./pred_input.csv')
