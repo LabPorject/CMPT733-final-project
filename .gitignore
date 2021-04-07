@@ -7,3 +7,4 @@ nohup.out
 Data/
 Data.zip
 *.zip
+.DS_Store
