@@ -73,6 +73,16 @@ def genres_apply(xs, glist):
                 gl.append(0)
     return gl      
 
+
+def topRated(field,df,sizes):
+    dfe = df.explode(field).groupby(field).agg(mean_rate=('imdb_avgRating','mean'), \
+                                                   c_count = (field,'size'))
+    dfe = dfe[dfe['c_count'] > 3]
+    dfe.dropna(subset=['mean_rate'],inplace=True)
+    tops = dfe.sort_values('mean_rate', ascending=False).reset_index()
+    lows = dfe.sort_values('mean_rate', ascending=True).reset_index()
+    return tops.head(sizes), lows.head(sizes)
+
 def director_writer_top(xs, tops):
     cnt = 0
     if isinstance(xs,float):
@@ -82,7 +92,16 @@ def director_writer_top(xs, tops):
             if x in tops:
                 cnt += 1
     return cnt
-    
+
+def genres_mean_runtimes(xs, df, rmedian):
+    sum_runt = 0.0
+    if isinstance(xs,float):
+        return rmedian
+    else:
+        for x in xs:
+            sum_runt += df.loc[str(x)]['mean_runtimes']
+    return sum_runt / len(xs)
+
 if __name__ == '__main__':
     # df = qd.get_combined()
     # casts = df[['casts','top_10_cast_popularity']]

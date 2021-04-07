@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestRegressor
 
 def random_search_param(param_dict, model, cv, X, y, name):
     print(f'***********STARTING***********')
-    search = RandomizedSearchCV(model, param_dict, n_iter=10, scoring='neg_mean_absolute_error', cv=cv, random_state=1)
+    search = RandomizedSearchCV(model, param_dict, n_iter=500, scoring='neg_mean_absolute_error', cv=cv, random_state=1)
     result = search.fit(X, y)
     print(f'***********{name}***********')
     print('Best Score: %s' % result.best_score_)
