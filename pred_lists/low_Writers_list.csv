@@ -1,0 +1,5209 @@
+Writers,mean_rate,c_count
+Trevor Payer,1.3666666666666667,9
+David A. Lloyd,1.56,5
+Ted Chalmers,2.025,8
+Salvador Valverde Calvo,2.05,4
+David Michael Latt,2.2166666666666663,6
+Carlos Perez,2.216666666666667,6
+Keith Parker,2.4142857142857146,7
+David S. Sterling,2.425,4
+Selim Çiprut,2.5,4
+Barry Massoni,2.5125,8
+Safak Güçlü,2.5714285714285716,7
+Hank Woon Jr.,2.7,4
+Geoff Meed,2.7750000000000004,4
+Anthony Werley,2.9,4
+Christian Viel,2.94,5
+Bill Hanstock,2.9799999999999995,5
+Michael Roesch,2.983333333333333,6
+Mariusz Pujszo,3.0200000000000005,5
+Terry Lee Coker,3.025,4
+Brent Huff,3.075,4
+Antony Smith,3.0999999999999996,4
+Flávio de Souza,3.0999999999999996,11
+Antonio Olivas,3.1,4
+Vinu Kiriyath,3.1,5
+Shannon Holiday,3.1428571428571423,7
+John Oak Dalton,3.142857142857143,7
+Peter Scheerer,3.1799999999999997,5
+John Klyza,3.2249999999999996,4
+Carl Lindbergh,3.25,4
+Robert Conway,3.2714285714285714,7
+George Clarke,3.325,4
+L.M. Kit Carson,3.325,4
+Eric Forsberg,3.3285714285714287,7
+David C. Hayes,3.3428571428571425,7
+John Orrichio,3.35,4
+Kemal Kenan Ergen,3.3833333333333333,6
+Rajan Kiriyath,3.3999999999999995,7
+Wagner de Assis,3.4000000000000004,6
+Phillip J. Roth,3.4125000000000005,8
+Andrew Jones,3.4217391304347826,23
+Tair Mamedov,3.45,4
+Alper Kivicim,3.4555555555555557,9
+Irfan Saruhan,3.4571428571428577,7
+Nestor Katanya,3.46,5
+Jeff O'Brien,3.477777777777778,9
+Jeffrey Giles,3.483333333333334,6
+Ross Boyask,3.5,4
+D. Glase Lomond,3.5,6
+Ryan Bellgardt,3.5,4
+Conrad Glover,3.5,4
+Jonathan Willis,3.5,6
+Gianluca Bomprezzi,3.5000000000000004,7
+Melonys,3.514285714285714,7
+Abbe Ac,3.5200000000000005,5
+Hans Iveberg,3.5200000000000005,5
+Evzen Gogela,3.525,4
+Andrew Helm,3.5250000000000004,4
+Hassan Ansarian,3.55,4
+Jacob Cooney,3.55,4
+William Butler,3.5500000000000003,6
+Shukor Mohaideen,3.5500000000000003,6
+Rafael Jordan,3.5555555555555554,9
+Michael Lurie,3.56,5
+Jeff Miller,3.572727272727273,11
+Murat Toktamisoglu,3.575,4
+Matthew Jason Walsh,3.5800000000000005,10
+Aaron Mirtes,3.5999999999999996,6
+Suzanne Cabot,3.6000000000000005,4
+Christopher Jolley,3.611111111111111,9
+Lawrence Sara,3.625,4
+Karan Razdan,3.6399999999999997,5
+Marian Batavier,3.6500000000000004,4
+Ken Del Vecchio,3.6700000000000004,10
+Garry Charles,3.6714285714285713,7
+Roberto del Piccolo,3.675,4
+Jeremy M. Inman,3.675,4
+Scott Martin,3.6999999999999997,6
+Farhad Bhiwandiwala,3.716666666666667,6
+Cameron Larson,3.725,4
+Phillip Barron,3.725,4
+Stephen Langford,3.725,8
+Ahmed El-Beh,3.7250000000000005,4
+Lony Ruhmann,3.7285714285714286,7
+BC Fourteen,3.7473684210526317,19
+Jason Henne,3.75,4
+Pavel Karnaukhov,3.75,4
+Eli Dorsey,3.75,4
+Wes Miller,3.7599999999999993,5
+Harry Alan Towers,3.7624999999999997,8
+Steve Latshaw,3.769230769230769,13
+Ryan Lieske,3.7750000000000004,4
+Christopher Hatton,3.7750000000000004,4
+Gino Capone,3.7750000000000004,4
+Aaron Strongoni,3.783333333333333,6
+Carlos De Los Rios,3.7833333333333337,6
+Peter Jobin,3.7874999999999996,8
+Marek Kalis,3.8,10
+Gero Giglio,3.8,5
+Jason Friedberg,3.809090909090909,11
+Aaron Seltzer,3.809090909090909,11
+Aakash Kaushik,3.8249999999999997,4
+Anders Lennberg,3.825,4
+Robin Thirumala,3.8333333333333335,6
+Kai E. Bogatzki,3.8400000000000007,5
+Randall Frakes,3.8428571428571425,7
+Segundo Altolaguirre,3.8499999999999996,4
+Shabbir Boxwala,3.8600000000000003,5
+Aviv Elham,3.8625000000000003,8
+Kent Roudebush,3.87,10
+Adam Ahlbrandt,3.875,4
+Sergey Plotov,3.875,4
+Fadzil Zahari,3.875,4
+Lizze Gordon,3.875,4
+Joel Silverman,3.8750000000000004,4
+Josh Hodgins,3.8750000000000004,4
+Dan Garcia,3.88,5
+Charlie Steeds,3.885714285714286,7
+Chris W. Freeman,3.888888888888889,9
+Lo Malinke,3.9,4
+Scott Windhauser,3.9,7
+Mark A. Altman,3.9,5
+Scotty Mullen,3.9222222222222225,9
+Dinesh Pallath,3.925,4
+David Dittlinger,3.925,4
+Cecil Chambers,3.925,4
+Delondra Williams,3.925,4
+Delondra Mesa,3.925,4
+Elena Isaeva,3.925,4
+Kevin Sommerfield,3.925,4
+August White,3.9375000000000004,8
+William Langlois,3.94,5
+Sholom Gelt,3.9499999999999997,8
+Christopher Saint Booth,3.95,4
+Raffaele Picchio,3.95,4
+Peter Sullivan,3.963636363636364,11
+Azhari Mohd Zain,3.9749999999999996,8
+Alice Wang,3.9799999999999995,5
+Trevor Wright,3.9799999999999995,5
+Guo Jingming,3.9857142857142853,7
+Evan Tylor,3.9875000000000003,8
+Umesh Shukla,4.0,5
+Michael David Pate,4.0,4
+Jeremiah Campbell,4.0,4
+Jose Prendes,4.0200000000000005,5
+Marcel Bystron,4.0200000000000005,5
+Bilal Kalyoncu,4.0249999999999995,4
+Pankaj Trivedi,4.0249999999999995,4
+Mark A. Knudsen,4.025,4
+Emílio Boechat,4.025,4
+Michael Hamilton-Wright,4.028571428571429,7
+Chris Hyde,4.033333333333333,9
+Steven Paul,4.033333333333334,9
+George Saunders,4.033333333333334,12
+Sergey Torchilin,4.039999999999999,5
+Arzu Yurtseven,4.04,5
+Murat Ferhat,4.04,5
+Mike Watt,4.04,5
+Garnet Campbell,4.05,4
+Martin L. Kelley,4.050000000000001,4
+James Crow,4.057142857142857,7
+Uday Krishna,4.0600000000000005,5
+Warren Croyle,4.071428571428572,7
+Jake Kennedy,4.074999999999999,4
+Lars Detlefsen,4.074999999999999,4
+Sukhmani Sadana,4.075,4
+Ery Sofid,4.078947368421052,19
+James Portolese,4.1,4
+Timothy Dolan,4.1,4
+Vanessa Walder,4.1,5
+Ghorban Mohammadpour,4.1,4
+Alan Donnes,4.1000000000000005,4
+Lisa Baget,4.1000000000000005,4
+James Felix McKenney,4.1000000000000005,6
+V.C. Ashok,4.114285714285714,7
+Kraig Wenman,4.114285714285714,7
+Matt Stuertz,4.125,4
+Bradley Marcus,4.125,4
+Kevin Marcus,4.125,4
+Matthew Ryan Fischer,4.14,5
+John Penney,4.142857142857143,7
+Aaron Pope,4.1454545454545455,11
+Rolfe Kanefsky,4.148,25
+Shiv Singh,4.1499999999999995,4
+Nate Atkins,4.1499999999999995,4
+Dmitriy Lemeshev,4.15,4
+Barry Keating,4.15,6
+Domonic Muir,4.15,10
+Anvita Dutt Guptan,4.15,4
+Harry Glennon,4.15,4
+Bryan Brewer,4.15,4
+Thomas Glud,4.157142857142857,7
+Jameson Wa-Fan Lam,4.159999999999999,10
+Ray Cooney,4.16,5
+K. Gireesh Kumar,4.16,5
+Ilona Lepkowska,4.166666666666666,6
+Bart Ruspoli,4.175,4
+Carlo J. Caparas,4.175,4
+Freddie Hutton-Mills,4.175,4
+Nicole Jones-Dion,4.175,4
+E.L. James,4.175,4
+Gergely Litkai,4.175,4
+Saeid Shahi,4.175,4
+Jens Korse,4.175,4
+Mark Hosack,4.175000000000001,4
+Raimund Huber,4.180000000000001,5
+Bolu Khan,4.180000000000001,5
+Keith Kjornes,4.199999999999999,8
+Virag Mishra,4.199999999999999,8
+Sören Olsson,4.2,5
+Paul Matthews,4.2,7
+Alok Upadhyay,4.2,4
+Sxv'leithan Essex,4.2,5
+Siby K Thomas,4.2,6
+Gianluca Curti,4.2,4
+Tomonori Sasaki,4.2,4
+Paul Tomborello,4.2,4
+Xavier Robles,4.2,4
+Jeff Solema,4.216666666666668,6
+Joe Lujan,4.22,5
+Milan Konjevic,4.225,4
+S. Sachindra,4.225,4
+Jaroslav Sauer,4.225,4
+Marcelo Madureira,4.225,4
+Larry Madill,4.225,4
+William Osborne,4.225,4
+Raqueeb Alam,4.2250000000000005,4
+Matthew Wilder,4.2250000000000005,4
+Daive Cohen,4.228571428571429,7
+Ted Geoghegan,4.23,10
+Nilesh Girkar,4.233333333333333,6
+Mark E. Swinton,4.24,5
+Sanjeev Duggal,4.24,5
+Jose Rosete,4.25,4
+Emanuel Booz,4.25,6
+Ryan Finnerty,4.25,4
+Richard Switzer,4.25,8
+Petr Nepovím,4.25,4
+Robbie Ribspreader,4.25,4
+Les Weldon,4.257142857142857,7
+Sai Kabir,4.26,5
+Ivan Kapitonov,4.26,10
+Jace Anderson,4.2615384615384615,13
+Boaz Davidson,4.261538461538462,13
+Dennis Joseph,4.2625,8
+Robert Dean Klein,4.266666666666667,6
+Maude Michaud,4.2749999999999995,4
+Hans Rodionoff,4.275,4
+Luca D'Alisera,4.275,4
+Marc Small,4.275,4
+Kim Fuller,4.275,4
+Davie Fairbanks,4.275,4
+Yiu-Wang Ho,4.275,4
+Mychal Simka,4.275,8
+Anders Jacobsson,4.275,4
+Christian Piers Betley,4.279999999999999,5
+Amit Khan,4.279999999999999,5
+Koji Steven Sakai,4.279999999999999,5
+Pablo Vázquez,4.279999999999999,5
+Don Michael Paul,4.283333333333333,6
+Paul A. Birkett,4.285714285714286,7
+Adam Weis,4.299999999999999,7
+Alice O'Fredericks,4.3,4
+Alexandre Valente,4.3,4
+Tim LaHaye,4.3,4
+Thadd Turner,4.3,5
+Zach Chassler,4.3,4
+Scott Zakarin,4.3,4
+Chi-Hang Chan,4.300000000000001,4
+Ryan Stevens Harris,4.316666666666666,6
+Damián Romay,4.319999999999999,5
+Chris Kobin,4.325,4
+Dominik Matwiejczyk,4.325,4
+Tanveer Khan,4.325,8
+Aman Jaffery,4.325,4
+Michele Pacitto,4.325,4
+Stephen Fromkin,4.325,4
+Yoshinobu Fujioka,4.34,5
+Adam Gierasch,4.35,14
+Roy Koriakin,4.35,4
+Clelia Castaldo,4.35,4
+Anwar Khan,4.35,8
+Kaloor Dennis,4.35,8
+Loris Peota,4.35,4
+Allen Covert,4.35,4
+Ernst Gonlag,4.35,4
+Shanrah Wakefield,4.3500000000000005,4
+Yaroslav Lukashevich,4.3500000000000005,6
+Sophie Tilson,4.3500000000000005,4
+Marc Morgenstern,4.36,5
+Evan Jacobs,4.366666666666666,6
+Ikram Akhtar,4.366666666666667,12
+Ruslan Baltzer,4.366666666666667,6
+Domenico Saverni,4.37,10
+Mike Le,4.375,4
+Joachim Masannek,4.375,8
+Armando Ríos,4.375,4
+Jason Harlow,4.375,4
+Glenn Ciano,4.375,4
+Anne Vince,4.375,4
+Alper Erze,4.380000000000001,5
+Scott Jeffrey,4.383333333333333,6
+Chris Denk,4.383333333333333,6
+Mudassar Aziz,4.383333333333334,6
+Gregory Gieras,4.385714285714285,7
+Emil Braginskiy,4.3999999999999995,4
+Alberto G. Rodriguez,4.3999999999999995,4
+Brett Bentman,4.3999999999999995,6
+Anna McRoberts,4.3999999999999995,4
+Luciano Martino,4.3999999999999995,4
+Abbas Dalal,4.4,5
+Drew Cullingham,4.4,4
+Marcia Ellett,4.4,5
+Carlos Enrique Taboada,4.4,4
+John V. Soto,4.4,5
+Claudio Fragasso,4.4,4
+Rossella Drudi,4.4,4
+Krishna Poojappura,4.408333333333332,12
+Steven Palmer Peterson,4.4125,8
+Jesús Franco,4.416666666666667,12
+Alessandro Bencivenni,4.416666666666667,12
+Kushal Ved Bakshi,4.42,5
+C. Courtney Joyner,4.42,10
+James Cullen Bressack,4.420000000000001,25
+Neil Elman,4.422222222222222,9
+Julia Neumann,4.425,4
+Jay Black,4.425,4
+Michael Obel,4.425,4
+Halina Pawlowská,4.425,4
+Sabine Leipert,4.425,4
+Scott Swan,4.425,4
+Frederick Bailey,4.425000000000001,4
+Subodh Chopra,4.4399999999999995,5
+Sethu,4.4399999999999995,10
+Jeffrey Lee Hollis,4.449999999999999,4
+Israel Luna,4.449999999999999,6
+Anand Raj Anand,4.449999999999999,8
+Manny Valera,4.45,4
+Maurizio Costanzo,4.45,4
+Abbas Hirapurwala,4.45,4
+S. Sachinder,4.45,4
+Mohammad Hadi Karimi,4.45,4
+Brian Patrick O'Toole,4.45,6
+Praful Parekh,4.457142857142856,14
+Stephen Johnston,4.457142857142857,7
+Saikrishna,4.4625,8
+Meor Shariman,4.471428571428571,7
+Mushtaq Sheikh,4.471428571428571,7
+Antonio Macia,4.475,4
+Justin Stanley,4.475,4
+Matthew Hope,4.475,4
+Leonardo Benvenuti,4.475,4
+Prince Bagdasarian,4.475,4
+Sean Huze,4.475,4
+Dan Palmer,4.4750000000000005,4
+Bernd Eilert,4.4799999999999995,5
+Brian Williams,4.48,5
+Sutanu Gupta,4.48888888888889,9
+J. Pallassery,4.499999999999999,13
+Yash Gawli,4.499999999999999,5
+Dorian Cleavenger,4.499999999999999,5
+Khalid Azmi,4.5,5
+Chris Lancey,4.5,5
+Ivan Milborrow,4.5,4
+Dago García,4.5,16
+David Liljeblad,4.5,4
+Gavin Scott,4.500000000000001,5
+Suraj,4.5125,8
+Leonid Margolin,4.514285714285714,7
+Sean Hood,4.516666666666667,6
+Sameer Arora,4.5200000000000005,5
+Vikramraj,4.5249999999999995,4
+Michael Rasmussen,4.525,4
+Ersan Özer,4.525,4
+Princeton Holt,4.525,4
+Aditya Dhar,4.525,4
+Shawn Rasmussen,4.525,4
+Zhe Dong,4.525,4
+Loris Curci,4.525,4
+Kenny Yakkel,4.528571428571429,7
+Scott Schirmer,4.528571428571429,7
+Michael Stokes,4.533333333333332,6
+Bobby Khan,4.533333333333334,9
+Gabriele Albanesi,4.539999999999999,5
+Larry Garrett,4.54,5
+Dan Bush,4.542857142857143,7
+Anselm Chan,4.542857142857144,7
+Anne K. Black,4.544444444444444,9
+Robert Irvin,4.55,4
+Carlton Holder,4.55,8
+Virland Stan Harris,4.55,4
+Lionel Dutemple,4.550000000000001,4
+Brockton McKinney,4.56,5
+Mikhail Zubko,4.5600000000000005,5
+Angel E. Pariente,4.5600000000000005,5
+Keith Shaw,4.562500000000001,8
+Ravi Shankar Jaiswal,4.571428571428571,7
+Enrico Vanzina,4.574193548387096,31
+Richard Beattie,4.574999999999999,8
+Tony Wash,4.575,4
+J.A. Steel,4.575,4
+Liam O'Donnell,4.575,4
+Farhad Tohidi,4.575,12
+Sandro Ventura,4.577777777777778,9
+Vasiliy Rovenskiy,4.577777777777778,9
+John Wesley Norton,4.58,5
+Miraq Mirza,4.583333333333333,6
+Dardano Sacchetti,4.583333333333333,6
+Michael Shear,4.583333333333333,6
+A. C. Mugil,4.6,4
+Paul Duran,4.6,4
+Yoshimasa Akamatsu,4.6,4
+Cody Knotts,4.6,4
+Carolina García,4.6,4
+Marques Houston,4.6,5
+Jake Wade Wall,4.6000000000000005,6
+Paul Lalonde,4.6125,8
+Serkan Altunigne,4.614285714285715,7
+Mark Young,4.616666666666667,6
+Juan Vicente Pozuelo,4.616666666666667,6
+Mahesh Mithra,4.619999999999999,5
+Bettina Börgerding,4.62,5
+Asghar Abdollahi,4.62,5
+Kamal Ahmed,4.62,5
+M. Jeevan,4.62,5
+Tim Rasmussen,4.62,5
+Mayur Puri,4.621739130434783,23
+Fung Lam,4.622222222222223,9
+Hriday Dubey,4.625,4
+Raul Inglis,4.625,4
+Donald Martin,4.625,4
+Augusto Caminito,4.625,4
+David Wilson,4.625,4
+Shane Dax Taylor,4.625,4
+Raaj Shaandilyaa,4.625,4
+Salvatore Scarico,4.625,4
+John Patus,4.628571428571429,7
+Eduardo Castrillo,4.64,5
+Pablo Fernández Vázquez,4.64,5
+Mehboob,4.640000000000001,5
+Jerry B. Jenkins,4.640000000000001,5
+KU. Karthik,4.640000000000001,5
+Jeffrey Schenck,4.641176470588236,17
+M. Salim,4.641666666666667,12
+Shiraz Ahmed,4.64375,16
+Carolina Castro,4.6499999999999995,6
+Babak Kaydan,4.6499999999999995,6
+Louise Monclair,4.6499999999999995,6
+Imtiaz Patel,4.65,8
+Sameer,4.65,46
+Nancy Leopardi,4.65,8
+Justin Partridge,4.65,8
+Christopher James Miller,4.65,4
+Joel Soisson,4.65,12
+Geoff Rodkey,4.65,4
+Mariusz Kuczewski,4.65,4
+Rick Alvarez,4.65,4
+Milap Zaveri,4.656000000000001,25
+Kyle Kramer,4.659999999999999,5
+Joaquín Górriz,4.66,5
+Amy Callaway,4.66,5
+John Doolan,4.66,10
+Joel Souza,4.66,5
+Sap Sam Chan,4.666666666666666,6
+Mark Anthony Galluzzo,4.674999999999999,4
+Hideshi Hino,4.675,4
+Stefano Pomilia,4.675,4
+Paula Goldberg,4.675,4
+Joe Lewis,4.675000000000001,4
+Jason Bourque,4.675000000000001,4
+Sükrü Üçpinar,4.68,5
+Cristian Toledo,4.68,5
+Richard Preston Jr.,4.68,5
+Piero De Bernardi,4.685714285714285,7
+Michael D. Sellers,4.685714285714286,7
+Po On Leung,4.687500000000001,8
+Shabbir Ahmed,4.687999999999999,25
+Neal Marshall Stevens,4.688888888888889,9
+S. Suresh Babu,4.6899999999999995,10
+Maksim Stishov,4.699999999999999,6
+Jean-Marie Duprez,4.699999999999999,4
+Hanna Wesierska,4.7,5
+Nicanor Loreti,4.7,6
+Nazri M. Annuar,4.7,5
+Radhakrishnan,4.7,4
+Phil Flores,4.7,6
+Gus Silber,4.7,4
+Michael Bachochin,4.7,4
+Chan Pang-Chun,4.7,5
+David Bond,4.7,4
+Sean Catherine Derek,4.7,7
+Jason-Shane Scott,4.7,4
+Giovanni Bognetti,4.7,6
+Mark Jones,4.7,4
+George A. Romero,4.7,5
+Kynan Griffin,4.707692307692309,13
+S.N. Swamy,4.709090909090908,11
+Hussain Dalal,4.70909090909091,11
+Sun Hui East,4.7124999999999995,8
+Regner Grasten,4.716666666666666,6
+Tyler W. Konney,4.720000000000001,10
+Tony Trov,4.725,4
+John Stefan Olsen,4.725,4
+Paul Tarantino,4.725,4
+Vladimir Vardunas,4.725,4
+Ezhil,4.725,8
+Martin Jern,4.725,4
+Diane Fine,4.725,4
+Nana Grinshtein,4.725,4
+Alessandro Riccardi,4.725,4
+Bibi Naceri,4.725,4
+Suparn Verma,4.7272727272727275,11
+Tushar Hiranandani,4.731578947368421,19
+Y.V. Rajesh,4.733333333333333,6
+Adam Lawson,4.733333333333333,6
+Kiran Kotrial,4.736363636363636,11
+Herman Weigel,4.739999999999999,5
+Hai-shu Li,4.74,5
+Zafer Külünk,4.74,5
+Kjetil Indregard,4.74,5
+Jim Agnew,4.74,5
+Łukasz Barczyk,4.74,5
+Oxide Chun Pang,4.75,4
+Ross Bagdasarian,4.75,4
+Yash Keswani,4.75,10
+Benjamin Guedj,4.75,4
+Ed Dougherty,4.75,6
+Rajeev Kaul,4.750000000000001,20
+Simon Boyes,4.754545454545455,11
+Jalees Sherwani,4.75625,16
+Michael Baumgarten,4.757142857142858,7
+Richard Brandes,4.76,5
+Rico Chung Kai-Cheong,4.76,5
+Justin Edgar,4.76,5
+Mark Wu,4.7625,8
+Sanjay Masoomm,4.76896551724138,29
+Luca Biglione,4.77,10
+Michael Winnick,4.771428571428572,7
+Andrea Cavaletto,4.773333333333334,15
+José Carlos de Oliveira,4.775,4
+Carmen Chaves Gastaldo,4.775,4
+David Leo Schultz,4.775,4
+Cheriyan Kalpakavadi,4.775,4
+Philippe Guillard,4.775,8
+Vinay,4.777777777777778,9
+Cüneyt Inay,4.779999999999999,5
+Rahil Qazi,4.779999999999999,5
+Emil Nikogosyan,4.78,5
+Aleksandr Markin,4.78,5
+Robin Christian,4.783333333333334,6
+Kumaar,4.784090909090909,44
+Brazily Anne Yamada,4.8,4
+Dennis Jürgensen,4.8,6
+Jim Hemphill,4.8,4
+Avni Özgürel,4.8,4
+Chit Ka-Kei,4.8,4
+Cory Udler,4.8,6
+Germano Tarricone,4.8,5
+Stephen Biro,4.8,4
+Medhat El Adl,4.8,4
+Josh Miller,4.800000000000001,6
+Huriyyah Muhammad,4.800000000000001,4
+Darryl Quarles,4.800000000000001,4
+Cody Calahan,4.8100000000000005,10
+Alexandre Dumas,4.8125,8
+Antonio Tentori,4.812500000000001,8
+Ali Tanriverdi,4.814285714285714,7
+Oktay Ortabasi,4.819999999999999,5
+Michael Varrati,4.819999999999999,5
+Curro Royo,4.82,5
+Benoît Drousie,4.82,5
+William Shockley,4.82,5
+Aleksey Karaulov,4.82,5
+B. Luciano Barsuglia,4.82,5
+Rob York,4.824999999999999,4
+Travis Campbell,4.824999999999999,4
+Lucio Massa,4.824999999999999,4
+Darren Flaxstone,4.825,4
+Rajesh Chawla,4.825,8
+Joey Curtis,4.825,4
+Brian Gottlieb,4.825,4
+Stewart Sparke,4.825,4
+Chris LaMont,4.825,4
+Bjarne Reuter,4.825,4
+Leila Larijani,4.825,4
+Rumi Jaffery,4.826923076923076,26
+Scott Phillips,4.84,5
+Jack Snyder,4.840000000000001,5
+Ashley Scott Meyers,4.8428571428571425,7
+Joaquín Andújar,4.842857142857143,7
+Matthieu Le Naour,4.844444444444445,9
+Alexandre Coquelle,4.844444444444445,9
+Robin Bhatt,4.846511627906977,43
+Yasutoshi Murakawa,4.85,4
+Eric Stolze,4.85,4
+Nathaniel Nose,4.85,6
+Sean Hogan,4.85,8
+Shawn Justice,4.85,4
+Pankaj Kapoor,4.85,4
+Zachary Weintraub,4.85,8
+Peter Cameron,4.85,4
+Carter Crocker,4.85,4
+Tooru Shinohara,4.8500000000000005,4
+Anne-Marie Olesen,4.8500000000000005,6
+Vadim Sveshnikov,4.8500000000000005,6
+Daisuke Hosaka,4.8500000000000005,4
+Kulachat Jitkhachornwanich,4.8500000000000005,4
+Sareta Cheathem,4.8500000000000005,4
+Vishal Dadlani,4.855555555555556,9
+Girish Dhamija,4.857692307692309,26
+Sajid,4.863157894736841,19
+Nicolás López,4.863636363636363,22
+Trent Haaga,4.866666666666666,6
+J.S. Cardone,4.866666666666666,9
+Jim Dwyer,4.872727272727272,11
+Travis Cluff,4.875,4
+Chris Lofing,4.875,4
+Meir Zarchi,4.875,4
+David Chirchirillo,4.875,4
+Dénes Orosz,4.875,4
+Gareth Maxwell Roberts,4.875,4
+Mani Baghbani,4.875,4
+Matthew M. Howe,4.88,5
+Nikolaj Peyk,4.88,5
+Maria Stilde Ambruzzi,4.88,5
+Mohamed Samy,4.88,5
+Pat Casey,4.88,5
+Cristóbal Garrido,4.88,5
+Barbara Kymlicka,4.880000000000001,5
+Evelyn Afnilia,4.880000000000001,5
+Bunty Rathore,4.881818181818183,11
+Florence Quentin,4.883333333333333,6
+Cezary Harasimowicz,4.883333333333334,6
+M. Muthaiah,4.883333333333334,6
+Adam Mason,4.884615384615385,13
+Søren Frellesen,4.885714285714285,14
+Piotr Wereśniak,4.885714285714286,7
+Aleksey Timm,4.887499999999999,8
+T.A. Razak,4.890909090909091,11
+Tadashi Nohara,4.8999999999999995,5
+Tikhon Kornev,4.8999999999999995,9
+Daniel Armando,4.8999999999999995,6
+Johnny Hartmann,4.8999999999999995,6
+Joseph Barbera,4.8999999999999995,7
+Max Botkin,4.8999999999999995,4
+Andrey Yakovlev,4.8999999999999995,6
+Nicolás Onetti,4.8999999999999995,6
+William Hanna,4.8999999999999995,7
+Ashwani Dhir,4.9,4
+Mia Couto,4.9,4
+Jerry Rapp,4.9,4
+Mili Roque Pitt,4.9,4
+Joel Cohen,4.9,6
+Shyam Goel,4.907692307692308,13
+Jake Helgren,4.907692307692308,13
+Yunus Sajawal,4.908823529411763,34
+Lorenzo De Luca,4.9111111111111105,9
+Dilip Shukla,4.9125,16
+Sreenivasan,4.914285714285714,7
+Vibha Singh,4.9142857142857155,14
+Chad Law,4.915384615384616,13
+Radhika Anand,4.916666666666667,6
+Farhad Samji,4.916666666666667,24
+Rohit Malhotra,4.916666666666667,6
+Krishna Murali Posani,4.92,5
+Sergey Ashkenazi,4.92,5
+Barry W. Blaustein,4.92,5
+Paul Gerstenberger,4.92,5
+Chris Sivertson,4.921428571428572,14
+Raghuvir Shekhawat,4.922222222222222,9
+Anil Pandey,4.925,4
+Cai Shen Ning,4.925,4
+Parviz Shahbazi,4.925,4
+Santiago Gil,4.925,4
+Kundan Shah,4.925,4
+Zhora Kryzhovnikov,4.925000000000001,4
+Marc de Chauveron,4.928571428571429,7
+Javed Siddiqui,4.929999999999999,20
+Alessandro Pondi,4.933333333333334,9
+K.K. Singh,4.933333333333334,9
+Lam Fung,4.933333333333334,6
+Greg Mellott,4.933333333333334,6
+Ken'ichi Fujiwara,4.936363636363636,11
+Rajan Agarwal,4.938461538461539,13
+Benjamin Carr,4.9399999999999995,5
+Ben Rekhi,4.9399999999999995,5
+Marius Sørvik,4.9399999999999995,5
+Naeem-Ejaz,4.9399999999999995,5
+Vangelis Seitanidis,4.942857142857143,7
+Hidehiro Ito,4.945454545454545,11
+Ryan Callaway,4.949999999999999,8
+Johnny O'Reilly,4.949999999999999,4
+Dennis Cooper,4.949999999999999,4
+Seth M. Sherwood,4.95,4
+Bertrand Blier,4.95,6
+Blaine Chiappetta,4.95,4
+Dong Zhe,4.95,4
+Jaume Balagueró,4.95,4
+Ufuk Bayram,4.95,4
+Daniel Petrie Jr.,4.95,4
+Mario Ponce,4.95,4
+Tim Tori,4.95,4
+Lauris Gundars,4.95,4
+Anthony Steven Giordano,4.95,4
+Djamel Bensalah,4.957142857142857,7
+Laurent Courtiaud,4.959999999999999,5
+Julien Carbon,4.959999999999999,5
+Kim-Fung Cheng,4.96,5
+Sudhakar Sharma,4.9624999999999995,8
+Brooke Purdy,4.966666666666666,6
+Arshad Sayed,4.966666666666667,9
+Romain Lévy,4.966666666666667,9
+Fire Lee Ka-Wing,4.975,4
+Kenny Golde,4.975,4
+Sayeed Qadri,4.975,8
+Yoshiyuki Morita,4.975,4
+Ole Lund Kirkegaard,4.975,4
+Cheuk-Hon Szeto,4.975,4
+Tara Lynn Marcelle,4.975,4
+Ryûta Miyake,4.975,4
+Neeraj Pathak,4.9750000000000005,8
+Michael Z. Gordon,4.9750000000000005,4
+Michael Hurst,4.977777777777778,9
+Veligonda Srinivas,4.977777777777778,9
+Kwok Kin-Lok,4.98,5
+Kin-Lok Kwok,4.98,5
+Mathias Gavarry,4.983333333333333,6
+John Adams,4.983333333333333,6
+Peter Barsocchini,4.985714285714286,7
+Andrey Kureychik,4.986666666666666,15
+Jason Faller,4.988888888888889,9
+Roman Kachanov,4.999999999999999,7
+Varma Praveen,4.999999999999999,5
+Joan Ripollés,5.0,4
+Tsung-han Tsai,5.0,5
+Rizal Ashreff,5.0,6
+Svyatoslav Podgaevsky,5.0,5
+Chi Y. Lee,5.0,4
+Patricia F. Sáenz,5.0,4
+Manu Díaz,5.0,5
+Sze-To Cheuk-Hon,5.0,5
+Knister,5.0,4
+Orlando R. Mendoza,5.0,4
+T.A. Shahid,5.0,7
+Francisco Javier López,5.0,4
+A.K. Sajan,5.0,7
+Antonio Rubio,5.0,4
+Mark Slater,5.0,7
+Peter Filardi,5.0,4
+Craig Clyde,5.0,9
+Gabriele Walther,5.0,8
+Edry Abdul Halim,5.0,4
+Sean Ryan,5.000000000000001,5
+Sanjay Chhel,5.006666666666667,15
+Vikram Bhatt,5.008333333333334,12
+Oniroku Dan,5.01,10
+Tommy Blaze,5.014285714285714,7
+Aleksey Kazakov,5.014285714285714,7
+E.L. Katz,5.016666666666667,6
+Sampath Nandi,5.016666666666667,6
+Anthony Jaswinski,5.0200000000000005,5
+Jean-Paul Bathany,5.022222222222222,9
+Debra Sullivan,5.0249999999999995,4
+Sreedhar Seepana,5.0249999999999995,12
+Adam Marcus,5.0249999999999995,4
+Fabien Suarez,5.0249999999999995,8
+Danno Kristoper C. Mariquit,5.0249999999999995,8
+Man Choi Lee,5.025,4
+Derek Zemrak,5.025,4
+Thammanoon Sukulboontanom,5.025,4
+Ángeles Hernández,5.025,4
+Robert Malkani,5.025,4
+Christine Conradt,5.025,16
+Bram Stoker,5.026666666666666,15
+Vera Fyodorova,5.033333333333333,6
+Roberto Santiago,5.033333333333333,12
+August Strindberg,5.033333333333334,6
+Lars Mering,5.034999999999998,20
+Sachin Bhowmick,5.0375000000000005,8
+Arun Bhairav,5.039999999999999,5
+Kei Ôishi,5.04,5
+Veli-Pekka Hänninen,5.040000000000001,5
+Harris Goldberg,5.040000000000001,5
+Daniel Myrick,5.040000000000001,5
+Guillermo Amoedo,5.045454545454546,11
+Elan Mastai,5.05,6
+Rob Warren Thomas,5.05,4
+Ya Liu,5.05,4
+Kee-To Lam,5.05,4
+Sakhar 1 kg,5.05,4
+Mark Gibson,5.05,4
+Brian Cleveland,5.05,4
+Dan Berghofer,5.05,4
+Chiu-Wing Lam,5.050000000000001,4
+Lucía Etxebarría,5.050000000000001,4
+Andrey Zhitkov,5.050000000000001,4
+Owen Egerton,5.050000000000001,4
+Jason Noto,5.050000000000001,4
+Alan B. McElroy,5.055555555555555,9
+Paolo Logli,5.055555555555556,9
+Jeff Buhler,5.057142857142857,7
+Clive Barker,5.06,5
+Link Ling,5.06,5
+Kim Henkel,5.0600000000000005,5
+Ivan Turgenev,5.0600000000000005,5
+John Pogue,5.0625,8
+Marco Martani,5.065714285714284,35
+Edward L. Plumb,5.066666666666667,6
+Sheldon Lettich,5.075,4
+Alper Kivilcim,5.075,4
+Alfredo Arciero,5.075,4
+Vipul Binjola,5.075,4
+Holly May Opee,5.075000000000001,4
+Baskoro Adi Wuryanto,5.077777777777778,9
+Ahmed Abdel Fattah,5.08,5
+Reghunath Paleri,5.08,5
+Doug Taylor,5.08,5
+Ib Kastrup,5.08,5
+Dmitriy Zverkov,5.08,5
+Fausto Brizzi,5.0815789473684205,38
+Siby K. Thomas,5.0826086956521745,23
+Stéphane Kazandjian,5.084615384615385,13
+Ben Ketai,5.1,4
+Jón Atli Jónasson,5.1,6
+J.T. Petty,5.1,5
+Theresa Rebeck,5.1,4
+Christopher Borrelli,5.1,4
+Jeremy Slater,5.1,5
+Shantanu Ray Chhibber,5.1,4
+Takeshi Sone,5.1,5
+Bennett Yellin,5.1,4
+David Guglielmo,5.1,8
+M.D. Shridhar,5.1,4
+Sonja Shillito,5.1,4
+Claudia Boderke,5.1,13
+Simon Lewis,5.1,4
+Sheershak Anand,5.1,4
+Rafeeq Ahammed,5.1000000000000005,8
+Greg DePaul,5.1000000000000005,4
+Rich Mallery,5.1000000000000005,6
+Ronnie Christensen,5.1000000000000005,4
+Edgar Allan Poe,5.109523809523809,21
+Miu-Kei Ho,5.11,10
+Issei Shibata,5.1125,8
+Steven Shea,5.1125,8
+Elfie Donnelly,5.1125,8
+Roberto Angel Salcedo,5.12,5
+Shawn Wayans,5.12,5
+Ignacio Rinza,5.122222222222223,9
+Matt Rager,5.124999999999999,4
+Germán Val,5.125,8
+Karl Mueller,5.125,4
+Carlo Collodi,5.125,4
+Toni D'Angelo,5.125,4
+Sooraj Barjatya,5.125,4
+Mark Wheaton,5.125,4
+Anna Kazejak,5.125,4
+Melinda Nolen,5.125,4
+Wong Ho-Wa,5.125,4
+Paulo Cursino,5.126315789473684,19
+Sajid Samji,5.126315789473684,19
+Gerrit Hermans,5.128571428571428,7
+Riccardo Irrera,5.133333333333333,6
+Alla Krinitsyna,5.133333333333334,6
+Evan Law,5.133333333333334,6
+Miguel Tejada-Flores,5.133333333333334,6
+B.A. Madhu,5.133333333333334,6
+Miguel Ángel Fernández,5.133333333333334,6
+Preston A. Whitmore II,5.1375,8
+Anne-Louise Verboon,5.139999999999999,5
+Farrukh Dhondy,5.14,5
+Marcin Baczynski,5.140000000000001,5
+Simon Barrett,5.141666666666667,12
+Jamie Nash,5.144444444444444,9
+Arthur Johansen,5.1499999999999995,4
+Peter Gaulke,5.1499999999999995,6
+Ishita Moitra,5.1499999999999995,10
+Vince Di Meglio,5.1499999999999995,6
+Doug Langdale,5.1499999999999995,4
+Aleksandr Vampilov,5.15,4
+Rosana Ferrão,5.15,4
+Minako Daira,5.15,4
+Tan-Ching Yeh,5.15,4
+Joshua Oppenheimer,5.15,4
+Thomas Dean Donnelly,5.15,4
+Ernest Riera,5.15,4
+Arturo Pérez-Reverte,5.15,4
+Yasunari Kawabata,5.15,6
+Anya Koek,5.15,4
+Rebecca Sonnenshine,5.15,4
+Antonio Trashorras,5.155555555555555,9
+Laurent Chalumeau,5.157142857142857,7
+Rampo Edogawa,5.1571428571428575,7
+Amol Shetge,5.1571428571428575,7
+Jay Basu,5.159999999999999,5
+Diego Ayala,5.159999999999999,10
+René Martín,5.159999999999999,5
+Jose C. Garcia de Letona,5.159999999999999,5
+Santosh Saroj,5.159999999999999,5
+Cynthia Curnan,5.16,5
+Mauro Graiani,5.16,5
+Runnian Dong,5.16,5
+Rasa Bugavicute-Pece,5.16,5
+Wong Jing,5.161428571428573,70
+Jun'ya Katô,5.1625000000000005,8
+Rajasimha,5.163636363636364,11
+Dev Kohli,5.166666666666666,6
+Daryn Tufts,5.166666666666667,6
+Udaykrishnan,5.173076923076924,26
+Seth Walther,5.175,4
+Anil Panachooran,5.175,4
+Randall Fontana,5.175,4
+Mustapha Boudellah,5.175,4
+Keiko Kanome,5.175,4
+Sarah Daly,5.175,4
+Mikayel Stamboltsyan,5.175000000000001,4
+Chien Shih-Keng,5.175000000000001,4
+Manoj Yadav,5.175000000000001,4
+Brian McAuley,5.175000000000001,4
+Sergey Lukyanenko,5.175000000000001,4
+Alessandro Leone,5.175000000000001,4
+Valérie Perrin,5.175000000000001,4
+K. Subhash,5.175000000000001,4
+Jing Wong,5.179166666666666,24
+Osamu Fukutani,5.18,5
+Kazuo Umezu,5.18,10
+Haluk Özenç,5.18,5
+Todd Farmer,5.180000000000001,5
+Oren Peli,5.183333333333334,6
+Carlos Valdemar,5.1850000000000005,20
+Sinikka Nopola,5.190909090909091,11
+Tiina Nopola,5.190909090909091,11
+Nader Salah El Din,5.191666666666666,12
+Anees Bazmee,5.193333333333333,15
+Rajesh Jayaraman,5.199999999999999,9
+Alex van Galen,5.199999999999999,4
+Anshuman Pratyush,5.199999999999999,4
+Robbie Studsor,5.199999999999999,4
+Tubaldini Shelling,5.199999999999999,4
+Jay Davis,5.199999999999999,4
+Edgardo Viereck,5.2,4
+Arnaud Lemort,5.2,4
+James Greer,5.2,5
+Boris Vian,5.2,4
+Bo Zhu,5.2,4
+Irfan Siddiqui,5.2,8
+Céline Guyot,5.2,5
+Philippe de Chauveron,5.2,12
+David H. Steinberg,5.2,6
+Lawrence Cheng,5.2,6
+Nathan Ives,5.2,4
+Ichirô Kusuno,5.2,4
+Tiziana Martini,5.2,5
+Babu Janardhanan,5.2,6
+Jorgen Klubien,5.2,4
+Gustavo Moheno,5.2,8
+Joona Tena,5.2,5
+Debra Hill,5.2,5
+Jonathan Bernstein,5.2,5
+Xiao-Xiao Liang,5.2,4
+Chris Chow,5.2,5
+Enrica Guidotti,5.2,4
+Vadim Shmelyov,5.200000000000001,4
+Michael Arlen Ross,5.200000000000001,4
+Seiji Chiba,5.21,10
+Yûsuke Yamada,5.214285714285714,14
+Jeffrey Lau,5.215384615384616,13
+Ina Bruhn,5.216666666666667,6
+Joseph Nasser,5.218750000000001,16
+Mahesh Bhatt,5.218750000000001,16
+Ramil Yamaleyev,5.22,5
+Bahadir Özdener,5.220000000000001,5
+Rishi Virmani,5.220000000000001,5
+Marie Garel-Weiss,5.220000000000001,5
+Fuad Ibragimbekov,5.220000000000001,5
+Vahidéa Mohammadi,5.222222222222222,9
+Edgardo González Amer,5.225,4
+Raakhee Punjabi,5.225,4
+Jason Kabolati,5.225,4
+Dominique Gauriaud,5.225,4
+Jaroslaw Sokól,5.225,4
+Adhi Narayana,5.225,4
+Adriana Marzagalli,5.225,4
+Brett Simmons,5.225,4
+Martín Casariego,5.225,4
+Vibeke Idsøe,5.225,4
+Martin Guyot,5.225,4
+Rodrigo Ordoñez,5.225,4
+Sven Severin,5.225,4
+Virginie Despentes,5.2250000000000005,4
+Straw Weisman,5.228571428571429,7
+Venkat Raghavan,5.233333333333333,6
+Bey Logan,5.233333333333333,6
+Nisar Akhtar,5.233333333333333,6
+Ken Sanders,5.233333333333333,12
+Bryan Dick,5.233333333333333,6
+Ilya Tilkin,5.233333333333334,6
+Pablo Lago,5.2375,8
+Enid Blyton,5.237500000000001,8
+Shagufta Rafique,5.23888888888889,18
+Tim Sullivan,5.239999999999999,5
+Clémence de Biéville,5.24,5
+Chris Anastassiades,5.24,5
+Buddy Johnson,5.24,5
+Phil Beauman,5.24,5
+Laurent Chouchan,5.242857142857143,7
+Sean Patrick O'Reilly,5.242857142857143,7
+Shinichi Fujita,5.244444444444444,9
+Christopher R. Mihm,5.246153846153846,13
+Peer Klehmet,5.249999999999999,10
+Philip Koch,5.25,4
+Domenico Costanzo,5.25,4
+Amirhossein Saghafi,5.25,4
+Jun Tsugita,5.25,14
+Matthew Berkowitz,5.25,4
+Hark Tsui,5.25,6
+Alyson Fouse,5.25,4
+Hee Ann Ho,5.25,4
+Takashi Shimizu,5.25,6
+Nancy Oeswein,5.25,4
+Toshimichi Ohkawa,5.25,4
+Stephen Hughes,5.25,4
+Jørgen Kastrup,5.25,4
+Debbie Isitt,5.250000000000001,4
+Carl Austin,5.250000000000001,8
+Hriday Lani,5.257142857142858,7
+Josh Stolberg,5.258333333333333,12
+Prasad Thota,5.26,10
+Milos Macourek,5.26,5
+David S. Olivas,5.26,5
+DJ Pooh,5.26,5
+Andrew P. Aguilar,5.26,5
+Antonio Sánchez,5.26,5
+Rohit G. Banawlikar,5.26,5
+James Wong,5.266666666666667,6
+Sylvio Gonçalves,5.266666666666667,9
+Joanne Reay,5.266666666666667,6
+Amir Hafizi,5.266666666666667,6
+Law Yiu-Fai,5.2666666666666675,12
+Junji Ito,5.269230769230769,13
+Rene Belmonte,5.27,10
+Peter Tsi,5.271428571428571,7
+Kazuto Okada,5.2749999999999995,8
+Piero Guerrera,5.2749999999999995,4
+Ugur Güvercin,5.2749999999999995,4
+Murat Kepez,5.2749999999999995,4
+Shigeru Mizuki,5.2749999999999995,4
+Ramana Madhesh,5.2749999999999995,4
+Dirk Blackman,5.2749999999999995,4
+Oleg Sirotkin,5.275,4
+Oleg Presnyakov,5.275,4
+Elena Rayskaya,5.275,4
+Fabrice Roger-Lacan,5.275,12
+Julien War,5.275,4
+Liza Marklund,5.275,4
+Chuck Conry,5.275,4
+Ashwni Dhir,5.275,4
+Tony Leech,5.275,4
+Vladimir Presnyakov,5.275,4
+Mehdi Karampoor,5.275,4
+Rita Benis,5.275,4
+Kevin Sampson,5.275,4
+Scott Fivelson,5.275,4
+Daniel Schwarz,5.275,4
+Joseph Pepitone,5.279999999999999,5
+David Mandel,5.279999999999999,5
+Billy Pepitone,5.279999999999999,5
+Dinno Erece,5.279999999999999,5
+Olga Pogodina-Kuzmina,5.279999999999999,5
+Borja Cobeaga,5.28,5
+Thorsten Wettcke,5.28,5
+Shih-Keng Chien,5.281818181818182,11
+Riccardo Cassini,5.283333333333334,6
+Guy Laurent,5.283333333333334,12
+Denis Rodimin,5.2846153846153845,13
+Alpha Habon,5.285714285714286,7
+Nivas,5.285714285714286,7
+Panchhi Jalonvi,5.2875,8
+Patrick Kong,5.287878787878787,33
+Jeff Hare,5.288888888888888,9
+Fred Wolf,5.288888888888889,9
+Ramiro García Bogliano,5.288888888888889,9
+Irina Pivovarova,5.288888888888889,9
+Mateo Iribarren,5.291666666666667,12
+Robert Louis Stevenson,5.293333333333334,15
+Angel Pulido,5.299999999999999,10
+Prawaal Raman,5.299999999999999,7
+Claudia Levay,5.3,4
+Marteinn Thorisson,5.3,5
+Mark Perez,5.3,5
+Richard Goudreau,5.3,6
+Natsuhiko Kyôgoku,5.3,5
+Melissa Rosenberg,5.3,6
+Badri,5.3,6
+Colin Minihan,5.3,7
+Michal Viewegh,5.3,7
+Juan Carlos Rubio,5.3,7
+Naoko Nishida,5.3,8
+Shinichi Koga,5.3,4
+Oliver Huzly,5.3,8
+Paul T. Murray,5.3,6
+Jeanne Le Guillou,5.3,4
+Mark Lamprell,5.3,5
+Gilles Laurent,5.300000000000001,6
+Robert D. Miles,5.300000000000001,4
+Sandra L. Martin,5.300000000000001,6
+Esat Ozcan,5.300000000000001,6
+Federico Moccia,5.300000000000001,11
+K. Raghavendra Rao,5.300000000000001,4
+B. Unnikrishnan,5.314285714285714,14
+Jason Campbell,5.314285714285715,14
+Min-Hun Fung,5.314285714285715,7
+Nitin Raikwar,5.316666666666666,6
+Ed Decter,5.316666666666667,6
+Sylvie Verheyde,5.316666666666667,6
+Shu Huan,5.319999999999999,5
+Katerina Bei,5.32,5
+Aritra Sengupta,5.32,5
+Roman Nepomnyashchiy,5.32,5
+K K Binojee,5.32,5
+Alexandr Boyarsky,5.32,5
+Jennifer Harrington,5.32,5
+L. Frank Baum,5.32,5
+Evan Oppenheimer,5.32,5
+David Ronn,5.322222222222222,9
+Jay Scherick,5.322222222222222,9
+Thomas Springer,5.324999999999999,4
+Dan Cohen,5.324999999999999,4
+Amy Rardin,5.325,4
+Jim Davis,5.325,4
+Luke Piotrowski,5.325,4
+Ho-Wah Wong,5.325,4
+Khosrow Naghibi,5.325,4
+Ram Patil,5.325,4
+Pinchas Perry,5.325,4
+Seppo Vesiluoma,5.325,4
+Ben Collins,5.325,4
+Ping Lumpraploeng,5.325,4
+Jessica O'Toole,5.325,4
+Gustavo Hernández,5.325000000000001,4
+Everett De Roche,5.325000000000001,4
+Marudhuri Raja,5.326923076923077,26
+M. Rajesh,5.328571428571428,7
+Soumik Sen,5.328571428571428,7
+Volfango De Biasi,5.329999999999999,10
+Willem Wennekers,5.333333333333333,6
+Jeffrey Reddick,5.333333333333333,9
+Kenneth Lemm,5.333333333333333,6
+Konstantin Murzenko,5.333333333333333,6
+Siva Akula,5.333333333333333,6
+Gianluca Ansanelli,5.338461538461539,13
+Paul Maar,5.34,5
+Alejandro Montiel,5.34,10
+Hank Nelken,5.340000000000001,5
+Matthew Read,5.340000000000001,5
+Sergey Kaluzhanov,5.341666666666666,12
+N.K. Salil,5.341666666666668,24
+Cécile Sellam,5.342857142857143,7
+Sebastian Wehlings,5.345454545454545,11
+H.P. Lovecraft,5.349999999999999,26
+Nicholas Lund-Ulrich,5.35,4
+Sujit Sen,5.35,4
+Steve Allrich,5.35,4
+Paul Auster,5.35,4
+Selami Genli,5.35,4
+Andrei Stefanescu,5.35,4
+Michael Berk,5.35,4
+Jingling Li,5.35,4
+Arto Paasilinna,5.35,4
+Rae Brunton,5.35,4
+Sanjeev Puri,5.3500000000000005,4
+Andrzej Saramonowicz,5.3500000000000005,6
+Oleksandr Beliak,5.3500000000000005,4
+Prashant Ingole,5.3500000000000005,6
+Gregory Poirier,5.357142857142857,7
+Stephenie Meyer,5.357142857142857,7
+Gary Young,5.357142857142857,7
+Bibeth Orteza,5.358333333333333,12
+Sean Keller,5.359999999999999,5
+David Loughery,5.359999999999999,5
+Massimo Morini,5.359999999999999,5
+Ryuho Okawa,5.359999999999999,5
+Jaydeep Sarkar,5.36,5
+Maksim Sveshnikov,5.36,10
+Sebastian Rotstein,5.36,5
+Mark Neveldine,5.3625,8
+Tony Giglio,5.366666666666667,6
+Sameer Anjaan,5.368749999999999,32
+Edoardo Maria Falcone,5.369230769230769,13
+Joe Vitale,5.37,10
+Saurabh Shukla,5.375,4
+José Antonio Varela,5.375,4
+Yûsuke Moriguchi,5.375,4
+Sebastian Gutierrez,5.375,4
+Brent Baum,5.375,4
+Cheung Chi-Kwong,5.375,4
+Stefano Tummolini,5.375,4
+Tim Ogletree,5.375,4
+Keith Cooper,5.377777777777777,9
+Mika Karttunen,5.377777777777777,9
+A. Sarkunam,5.38,5
+Juliet Snowden,5.38,5
+Victor Miller,5.38,5
+Gô Nagai,5.383333333333333,12
+Steve Moore,5.383333333333333,6
+Mirna Nogueira,5.383333333333334,6
+Michael Ferris,5.385714285714285,7
+Jimmy George,5.385714285714285,7
+J. David Stem,5.387499999999999,8
+Vasa,5.3875,8
+Bijesh Jayarajan,5.3875,8
+Mathieu Oullion,5.388888888888888,9
+Andrey Zolotarev,5.39,10
+Belal Fadl,5.391666666666668,12
+Michael Walker,5.3999999999999995,6
+Mark Polish,5.3999999999999995,4
+Pattukottai Prabhakar,5.3999999999999995,8
+Xiaoyang Ding,5.3999999999999995,7
+Kôji Suzuki,5.3999999999999995,11
+Ronnie Thompson,5.3999999999999995,5
+Anuradha Tiwari,5.3999999999999995,6
+Adriana Pelusi,5.3999999999999995,5
+Harry Elfont,5.4,5
+James Patterson,5.4,5
+Brent Goldberg,5.4,5
+Karl Gajdusek,5.4,5
+Ben Garant,5.4,4
+Srikanth Vissa,5.4,4
+Luc Déry,5.4,5
+Deborah Kaplan,5.4,5
+M. Sindhuraj,5.4,10
+Scott Gordon,5.4,4
+Renée Simonsen,5.4,5
+David Wagner,5.4,5
+Christian Martin,5.4,4
+Teresa Ciabatti,5.400000000000001,6
+Kevin Bernhardt,5.407692307692307,13
+Chinaza Onuzo,5.414285714285714,7
+Bret Easton Ellis,5.414285714285714,7
+David Serrano,5.4142857142857155,7
+Michael Finch,5.416666666666667,6
+Gerry Swallow,5.416666666666667,6
+Claudia Nazoa,5.42,5
+Kostis Papadopoulos,5.42,5
+Sergey Dyachenko,5.42,5
+Elena Solomou,5.42,5
+Eric Kripke,5.42,5
+Marina Dyachenko,5.42,5
+Masakazu Migita,5.422222222222222,9
+Kevan Otto,5.424999999999999,8
+Succeed Be,5.425,4
+Holly Goldberg Sloan,5.425,4
+Stuart Ortiz,5.425,4
+Nora Ephron,5.425,4
+Lee Chi-Ngai,5.425,4
+Clement Sze-Kit Cheng,5.425,4
+Michela Andreozzi,5.425,4
+Taavi Vartia,5.425,4
+John Swetnam,5.425,4
+Sagar Pandya,5.425,4
+Sherif Nagib,5.425,4
+Bayyavarapu Ravi,5.425,4
+David Benullo,5.425,4
+Vinay Sapru,5.425000000000001,4
+Sunny Chan,5.425000000000001,12
+Giovanni Veronesi,5.430434782608694,23
+Benny P. Nayarambalam,5.431578947368422,19
+Robert Orr,5.433333333333333,6
+Chi-Kin Kwok,5.433333333333333,6
+Domonic Paris,5.433333333333334,6
+Manachaya Panitsarn,5.433333333333334,6
+Oriol Capel,5.433333333333334,6
+Michel Delgado,5.4375,8
+Jeremy Passmore,5.4399999999999995,5
+Andrea Gyertson Nasfell,5.4399999999999995,5
+Gérard Brach,5.4399999999999995,5
+Zhichao Ha,5.4399999999999995,5
+Chiaki Konaka,5.4399999999999995,5
+Peder Hamdahl Næss,5.4399999999999995,5
+Sebastián Gutiérrez,5.44,5
+Laurent Bénégui,5.44,5
+Mary Shelley,5.4411764705882355,17
+Suresh Nair,5.441666666666666,24
+Manfred Wong,5.442105263157894,19
+Ramajogayya Sastry,5.442857142857143,14
+Marco Bonini,5.449999999999999,4
+Jean-Louis Schlesser,5.449999999999999,4
+Elizabeth Snoderly,5.449999999999999,6
+Richard Parry,5.449999999999999,4
+Po Chun Chan,5.449999999999999,4
+John J. Strauss,5.449999999999999,10
+Antonia Rothe,5.45,4
+Laurent Baffie,5.45,4
+Nicolás Britos,5.45,4
+Sheik Dawood G.,5.45,4
+Chris Matheson,5.45,4
+Tomas Tivemark,5.45,6
+Martijn van Nellestijn,5.45,8
+Mike Roberts,5.45,4
+Kyle Mecca,5.45,4
+Antoni Solé,5.45,6
+Axel Nacher,5.45,6
+Paul Leyden,5.450000000000001,4
+Rashmi Virag,5.453333333333332,15
+Don Rhymer,5.454545454545454,11
+Anvita Dutt,5.456249999999999,16
+Fumio Moriya,5.459999999999999,5
+Sergey Snezhkin,5.459999999999999,5
+Jeremy Sheldon,5.459999999999999,5
+Jamal Hill,5.459999999999999,5
+H.M. Coakley,5.46,5
+Pete Goldfinger,5.46,5
+Ian Driscoll,5.46,5
+Tan Cheung,5.4625,8
+Stiles White,5.466666666666666,6
+Ilya Avramenko,5.466666666666666,6
+Yûji Kobayashi,5.466666666666666,6
+Huan Shu,5.466666666666668,6
+Pekka Lehtosaari,5.466666666666668,6
+Eric Assous,5.473333333333334,15
+Viveka,5.473913043478261,46
+Jason Long,5.475,4
+Carla Giulia Casalini,5.475,4
+Onur Ünlü,5.475,4
+Mevlut Acik,5.475,4
+Eric Bernt,5.475,4
+Krzysztof Lukaszewicz,5.475,4
+Christ Zois,5.475,4
+Klaus Baumgart,5.475,4
+Rahul Singh,5.475,4
+Anurag Prapanna,5.4750000000000005,4
+António Torrado,5.4750000000000005,4
+Larry Brand,5.4750000000000005,4
+Brittany Wiscombe,5.476923076923077,13
+Mark Brown,5.477777777777778,9
+Tito Buffulini,5.4799999999999995,5
+Gary Dauberman,5.4799999999999995,10
+Kamlesh Pandey,5.4799999999999995,10
+Bene Dion Rajagukguk,5.48,5
+Wijo Koek,5.481818181818183,11
+Simon Hauschild,5.482352941176471,17
+John Brancato,5.483333333333333,6
+Renato Fagundes,5.483333333333333,6
+Adirek Wattaleela,5.483333333333333,12
+John Carpenter,5.485714285714286,7
+Bryan Bertino,5.4875,8
+Timothy Ratajczak,5.488888888888888,9
+Arthur Conan Doyle,5.49,10
+Jeffrey Hylton,5.493333333333333,15
+David Muñoz,5.499999999999999,9
+Christine Dory,5.499999999999999,4
+Toshiya Ôno,5.5,5
+Chisato Ôgawara,5.5,4
+Dan Berk,5.5,4
+Guy Ducker,5.5,4
+Robert Adetuyi,5.5,10
+Arash Amel,5.5,4
+Jennifer Ventimilia,5.5,4
+Diego Fleischer,5.5,7
+Anil Ravipudi,5.5,13
+Sean McGinly,5.5,6
+Kristin Gore,5.5,4
+Gonzalo Rodríguez Risco,5.5,4
+J.P. Davidson,5.5,4
+Stephan Blinn,5.5,4
+Bryce W. Fillmore,5.5,6
+Ikki Kajiwara,5.5,4
+James Toback,5.5,6
+Robert Olsen,5.5,4
+Mrighdeep Singh Lamba,5.5,4
+Aleksandr Lungin,5.5,4
+Aleksandr Kachan,5.5,4
+Murielle Magellan,5.5,5
+Gye-ok Park,5.5,4
+Hubert Mingarelli,5.5,4
+Fendou Liu,5.5,4
+Niranjan Iyengar,5.509523809523809,21
+Manu Rishi Chadha,5.51,10
+Jannik Tai Mosholt,5.511111111111111,9
+Sally Meyer,5.5125,8
+Carolina Rivera,5.514285714285714,14
+Aubrey Lam Oi-Wah,5.516666666666667,12
+Puri Jagannadh,5.516666666666668,6
+Si-Cheun Lee,5.518181818181818,11
+David Birke,5.52,5
+Brian Cox,5.52,5
+René Goscinny,5.52,10
+Clément Michel,5.5200000000000005,5
+Johnny Remo,5.5200000000000005,5
+Roy Szeto,5.5200000000000005,5
+Alfons Biedermann,5.5200000000000005,5
+Pathik Vats,5.5200000000000005,5
+Jayson Rothwell,5.5200000000000005,5
+Spencer Schilly,5.5200000000000005,5
+Rafael Dragaud,5.522222222222223,9
+Dennis Law,5.523076923076923,13
+Jay Ostrowski,5.5249999999999995,4
+Nida Fazli,5.5249999999999995,4
+Mark Duplass,5.5249999999999995,4
+Lisa Azuelos,5.5249999999999995,12
+Matt Patterson,5.5249999999999995,4
+Dan Bulla,5.5249999999999995,4
+Didier Van Cauwelaert,5.5249999999999995,4
+Alain Layrac,5.5249999999999995,4
+Anand S. Vardhan,5.525,4
+Fan Cheung,5.525,4
+Sôtarô Hayashi,5.525,4
+Karl May,5.525,4
+Geoffrey Gunn,5.525,4
+Petr Hudský,5.525,4
+Hsin-Chih Lu,5.525,4
+Álvaro del Amo,5.525,4
+Rupinder Inderjit,5.525,4
+Ángeles González Sinde,5.527272727272727,11
+Nathalie Lafaurie,5.528571428571428,7
+A K Lohithadas,5.528571428571429,7
+András Szekér,5.528571428571429,7
+Alec Sokolow,5.528571428571429,7
+Ve Handojo,5.529999999999999,10
+Cary Solomon,5.533333333333332,6
+Chuck Konzelman,5.533333333333332,6
+Shintaro Shimosawa,5.533333333333332,6
+Özge Aras,5.539999999999999,5
+Jimmy Ngai,5.54,5
+Emilio Iasiello,5.54,5
+Luz Orlando Brennan,5.54,5
+Elena Serra,5.540000000000001,5
+Tak-Sam Leong,5.540000000000001,5
+John Rogers,5.542857142857144,7
+Sandeep Nath,5.544444444444444,9
+Annie J. Howell,5.55,4
+Hideo Yamamoto,5.55,4
+Hing-Ka Chan,5.55,14
+Howard Cohen,5.55,4
+Guy Moshe,5.55,6
+Reinhard Klooss,5.55,12
+Timothy Scott Bogart,5.55,6
+John Sullivan,5.55,6
+Larry Cohen,5.55,6
+Machado de Assis,5.55,6
+Tiziano Sclavi,5.55,4
+Richard Oh,5.55,4
+Leopoldo Serran,5.55,4
+Manolo Cárdenas,5.55,4
+Paul Todisco,5.55,4
+Bashir Babar,5.55,6
+Lele Laila,5.55,4
+Clint Hutchison,5.55,4
+Anthony Masi,5.550000000000001,4
+Rafi Mecartin,5.550000000000001,8
+Edward Neumeier,5.550000000000001,4
+Bob Barlen,5.550000000000001,4
+Jamie Grefe,5.550000000000001,4
+Jason Baumgardner,5.550000000000001,4
+Jia Jia Wei,5.550000000000001,4
+Jonathan Sjöberg,5.550000000000001,4
+Charles Wood,5.550000000000001,4
+Birgitte Bratseth,5.550000000000001,4
+Stefan Jaworski,5.550000000000001,4
+Ho-Leung Lau,5.550000000000001,20
+David N. Weiss,5.5555555555555545,9
+Valerio Bariletti,5.555555555555555,9
+Vladimir Moiseenko,5.555555555555555,9
+Enrique Renteria,5.558333333333333,12
+Craig Titley,5.56,5
+Izumi Todo,5.5600000000000005,5
+Yuriy Patrenin,5.5600000000000005,5
+Sarim Momin,5.566666666666666,6
+Shaktimaan Talwar,5.566666666666666,6
+Julian Gilbey,5.566666666666666,6
+Thomas Pang,5.570000000000001,10
+Anika Decker,5.571428571428571,7
+Eduard Volodarskiy,5.571428571428571,7
+Mark Harris,5.571428571428571,7
+Michiko Matsuda,5.571428571428571,7
+Takashige Ichise,5.571428571428572,7
+Kabilan Vairamuthu,5.573333333333333,15
+Alan Hruska,5.574999999999999,4
+Lloyd S. Wagner,5.574999999999999,4
+João Paulo Horta,5.574999999999999,4
+William Aldridge,5.574999999999999,4
+Renuka Kunzru,5.574999999999999,4
+Li Fei,5.575,4
+Noémie Saglio,5.575,4
+Jade van der Lei,5.575,4
+Jose N. Carreon,5.575,8
+Edward E. Romero,5.575,4
+Eric Leca,5.575,4
+Neeraj Udhwani,5.575000000000001,4
+John Hughes,5.58,5
+Steffen Schlachtenhaufen,5.58,5
+Lars Saabye Christensen,5.58,5
+Hiroshi Kashiwabara,5.58,5
+Jainendra Jain,5.58,5
+Shang-Min Yu,5.58,5
+Martín Blousson,5.581818181818182,11
+Johan Bogaeus,5.583333333333333,6
+Gualtiero Rosella,5.583333333333333,6
+François Caviglioli,5.585714285714286,7
+Lui Koon-Nam,5.5874999999999995,8
+Oleg Malovichko,5.588888888888889,18
+Venkateswara Rao Paruchuri,5.593103448275863,58
+Chan Hing-Kar,5.59642857142857,28
+Harutoshi Fukui,5.599999999999999,6
+Monty Mickelson,5.6,4
+Martin Girard,5.6,4
+Ning Wen,5.6,5
+Alan Pauls,5.6,4
+Mark Steven Johnson,5.6,10
+Gokul,5.6,5
+Wesley Strick,5.6,5
+Kaeko Hayafune,5.6,5
+Tiziana Machella,5.6,4
+Carla Vangelista,5.6,4
+John Ross,5.6,4
+Craig Mazin,5.6,8
+Philip Gelatt,5.6,5
+Philippe Lyon,5.6,5
+Herbert Simone Paragnani,5.6,5
+Lluís Segura,5.6,4
+Frédéric Jardin,5.6,7
+Amanda Sthers,5.6,4
+Davide Orsini,5.6,5
+Breixo Corral,5.6,4
+Wen Ning,5.6,5
+Bruce Joel Rubin,5.6,5
+Paruchuri Gopala Krishna,5.6,4
+Michael Amundsen,5.6,4
+Catherine DiNapoli,5.6000000000000005,4
+Will Aldis,5.6000000000000005,4
+Ivan Okhlobystin,5.6000000000000005,12
+Amir Arabi,5.6000000000000005,8
+Philippe Mechelen,5.6000000000000005,7
+Mark Kis-Szabo,5.6000000000000005,4
+Javier Echániz,5.6000000000000005,6
+Oleg Danilov,5.6000000000000005,7
+Jonathan Parker,5.6000000000000005,4
+Nikolay Gogol,5.6000000000000005,6
+Yun Wang,5.6000000000000005,6
+William Porter,5.6000000000000005,4
+Rajendra Kumar,5.6000000000000005,11
+Pierre Salvadori,5.6000000000000005,4
+Maha Harada,5.6000000000000005,4
+Marguerite Pigott,5.607692307692308,13
+Irshad Kamil,5.608333333333334,24
+Carry Slee,5.612500000000001,8
+Simona Izzo,5.614285714285715,7
+Abe Kwong,5.615384615384614,13
+Wes Craven,5.616666666666667,6
+Mehdi Ben Attia,5.616666666666667,6
+Man-Lung Ho,5.616666666666667,6
+Jessica Bendinger,5.616666666666667,6
+Juan Vera,5.616666666666667,6
+Maksim Kurochkin,5.619999999999999,5
+Omar Quiroga,5.619999999999999,10
+Will Gilbey,5.619999999999999,10
+Santiago Loza,5.619999999999999,5
+Mikael Bengtsson,5.62,5
+Yasushi Akimoto,5.62,10
+Paolo Costella,5.621428571428572,14
+Gopalakrishna Paruchuri,5.623728813559323,59
+Ahmed Abdalla,5.624999999999999,12
+Rebecca Zlotowski,5.625,8
+Jason Tammemägi,5.625,4
+Marcelo Saback,5.625,8
+Kevin Barnett,5.625,4
+Daphne Du Maurier,5.625,4
+Roman Kantor,5.625,4
+Federico Viescas,5.625,4
+Ian Shorr,5.625,4
+Anke Stelling,5.625,4
+Cheryl McKay,5.625,4
+Kamal Pandey,5.625,8
+Angus MacLachlan,5.625000000000001,4
+Abhinav Kashyap,5.628571428571428,7
+Brian Taylor,5.628571428571428,7
+Thomas Hess,5.628571428571428,7
+Kabilan,5.633333333333332,72
+Kalavur Ravikumar,5.633333333333333,6
+Mike White,5.633333333333333,6
+Hilman Mutasi,5.633333333333333,12
+Miyuki Takahashi,5.633333333333334,6
+Matthew Jacobs,5.633333333333334,6
+Silvia Ranfagni,5.633333333333334,6
+Guinevere Turner,5.633333333333334,6
+Babu Janardanan,5.633333333333334,6
+Satyanand,5.637037037037039,27
+Elisa Amoruso,5.637499999999999,8
+Márcio Alemão,5.639999999999999,5
+Nut Nualpang,5.64,5
+Jan Vierth,5.64,5
+Chairul Rijal,5.64,5
+Eduard Sola,5.64,5
+Giorgio Amato,5.64,5
+Gary King,5.64,5
+Skipper Cheng,5.640000000000001,5
+Frances Hodgson Burnett,5.640000000000001,5
+Boris Boo,5.640000000000001,5
+Machiko Nasu,5.640000000000001,5
+Akira Fukuhara,5.640000000000001,5
+Daniel Saint-Hamont,5.640000000000001,5
+Henry James,5.641666666666667,12
+Agnès Caffin,5.642857142857143,7
+Takehiko Hata,5.642857142857143,7
+Julio Chavezmontes,5.642857142857143,7
+Jérôme L'hotsky,5.642857142857143,7
+Youssef Maaty,5.642857142857144,7
+Philip LaZebnik,5.644444444444444,9
+Diego San José,5.645454545454545,11
+Franco Ferrini,5.6454545454545455,11
+Osamu Suzuki,5.6499999999999995,4
+Dirk Ahner,5.6499999999999995,8
+Rich Wilkes,5.6499999999999995,4
+Robert Smigel,5.6499999999999995,4
+José Luis Vera,5.6499999999999995,6
+Robert Ben Garant,5.6499999999999995,10
+Massimiliano Zanin,5.65,4
+Ursula Gruber,5.65,4
+Paul Harris Boardman,5.65,4
+Pierre Erwan Guillaume,5.65,4
+Cheung Tan,5.65,4
+Iqbal Ahmed,5.65,4
+Ludovic du Clary,5.65,10
+Kevin Miller,5.65,8
+Alessandro Fabbri,5.65,4
+May Miles Thomas,5.65,4
+Enzo Valdez,5.65,4
+Alberto Aranda,5.65,4
+Lore Reyes,5.65,4
+Liu Fendou,5.65,8
+Yugabharathi,5.6521739130434785,23
+Luca Infascelli,5.654545454545455,11
+Chiara Barzini,5.6571428571428575,7
+Nicolás Saad,5.6571428571428575,7
+Andrea Willson,5.659999999999999,5
+Yann Brion,5.659999999999999,5
+Rowan Athale,5.659999999999999,5
+Anil Narayanan,5.66,5
+Joshua Cordes,5.66,5
+Alyze Elyse,5.660000000000001,5
+Fin Edquist,5.660000000000001,5
+Jeff Wadlow,5.6625000000000005,8
+Morten Dragsted,5.6625000000000005,8
+Neil LaBute,5.663636363636363,11
+Sander de Regt,5.664285714285714,14
+Reijo Mäki,5.666666666666666,9
+Sönke Lars Neuwöhner,5.666666666666667,6
+Satoshi Suzuki,5.666666666666667,9
+Camara Davis,5.67,10
+Kanika Dhillon,5.671428571428572,7
+Howard Klausner,5.671428571428572,7
+Marcus Dunstan,5.672727272727273,11
+Tim Herlihy,5.673333333333334,15
+Cory Goodman,5.675,4
+Adam O'Brien,5.675,4
+Ryan Rowe,5.675,4
+Will McRobb,5.675,4
+David Villemin,5.675,4
+Martin Drouot,5.675,4
+Jitendra Parmar,5.675,4
+Bhairavi Patel,5.675,4
+Gábor Németh,5.675,4
+Frankie Tam,5.675,16
+Bernardo Guilherme,5.675,4
+Chris Viscardi,5.675,4
+Hans Bauer,5.675,4
+Diego Ribon,5.675,4
+Rachel Xu,5.675,4
+Raj Shekhar,5.675,4
+Alexander Talal,5.675,4
+Barbara Marshall,5.675,4
+Doron Wisotzky,5.675,4
+P. Balachandran,5.675000000000001,4
+Josh Slates,5.675000000000001,4
+Jim Beggarly,5.675000000000001,4
+Junichi Watanabe,5.675000000000001,4
+Adam Alleca,5.675000000000001,4
+Prasanna Kumar Bezawada,5.675000000000001,4
+Hans Åke Gabrielsson,5.675000000000001,4
+Alexandre Charlot,5.677777777777778,9
+Martin Ritzenhoff,5.677777777777778,9
+Franck Magnier,5.677777777777778,9
+Paul Schrader,5.677777777777778,9
+Guy Zilberstein,5.68,5
+Paul Osborne,5.68,5
+Raci Sasmaz,5.68,5
+Tatiana Maciel,5.68,5
+Pascal Laugier,5.68,5
+Steve Bencich,5.680000000000001,5
+Kevin Leeson,5.680000000000001,5
+Johan Kindblom,5.680000000000001,5
+Lung Man-Hong,5.680000000000001,5
+Mika Ripatti,5.683333333333333,6
+Jacob Grimm,5.683333333333334,12
+Chi Kwong Cheung,5.683333333333334,6
+Peter Birro,5.683333333333334,6
+Wilhelm Grimm,5.683333333333334,12
+Jim Thomas,5.683333333333334,6
+Jane Ainscough,5.684615384615385,13
+Dito Montiel,5.685714285714285,7
+Jimmy Lagnefors,5.685714285714285,7
+L.G. Bayão,5.6866666666666665,15
+Mark L. Smith,5.687500000000001,8
+Ulrich Limmer,5.691666666666667,12
+Rajat Arora,5.699999999999999,10
+Carlos Gregório,5.699999999999999,4
+Gavin Heffernan,5.699999999999999,4
+Lisa Addario,5.699999999999999,4
+Jeff Schaffer,5.699999999999999,4
+Richard Kelly,5.699999999999999,8
+Joe Syracuse,5.699999999999999,4
+Akarsh Khurana,5.7,7
+Jack Amiel,5.7,4
+Pawan Sony,5.7,5
+Trui van de Brug,5.7,5
+Michael Begler,5.7,4
+Peter A. Dowling,5.7,5
+James Simpson,5.7,4
+Caleb Wilson,5.7,4
+Brandon Camp,5.7,4
+Milena Markovic,5.7,4
+Craig Rosenberg,5.7,5
+Gladys Marciano,5.7,6
+Mariano Vera,5.7,7
+Rafa Russo,5.7,5
+Jason Contino,5.7,4
+Sean Paul Murphy,5.7,10
+David Elliot,5.700000000000001,5
+Adam Henry,5.700000000000001,4
+Xiao Yang,5.700000000000001,4
+Giddens Ko,5.711111111111112,9
+Marianne Wibberley,5.7124999999999995,8
+Cormac Wibberley,5.7124999999999995,8
+Håkan Nesser,5.7142857142857135,7
+Rosa Dias,5.714285714285714,7
+Marie-Jose Sanselme,5.714285714285714,14
+Anna Pavignano,5.714285714285714,7
+Hamid Nematollah,5.714285714285714,7
+David Mitchell,5.714285714285715,7
+Massimiliano Bruno,5.714999999999999,20
+Mischa Alexander,5.716666666666665,12
+Sanyuktha Chawla Shaikh,5.716666666666666,6
+Stefan Kolditz,5.716666666666666,6
+Jeff Howard,5.72,5
+Chintapally Ramana,5.72,5
+Juan Moreno,5.720000000000001,5
+V. Prabhakar,5.720000000000001,5
+Louis-Paul Desanges,5.720000000000001,5
+Christian Gudegast,5.725,4
+Jaime Marques,5.725,4
+Nele Meirhaeghe,5.725,4
+Mitch Davis,5.725,4
+Erik Jendresen,5.725,4
+David França Mendes,5.725,4
+Roy Thomas,5.725,4
+Lukas Valenta Rinner,5.725,4
+Alexandra Penrhyn Lowe,5.725,4
+Colin Wilson,5.7250000000000005,4
+Jingjing Bao,5.7250000000000005,4
+Ron J. Friedman,5.7250000000000005,4
+Fredrik Wikström,5.7250000000000005,4
+Daniel Waters,5.7250000000000005,4
+Tim Heidecker,5.7250000000000005,4
+Nicholas DiBella,5.7250000000000005,4
+Majid Barzegar,5.7250000000000005,4
+Anna Parmas,5.7250000000000005,4
+Andrea Agnello,5.728571428571428,7
+Chad Hayes,5.728571428571428,7
+Carey W. Hayes,5.728571428571428,7
+Brad Mirman,5.728571428571428,7
+Chris Sparling,5.728571428571429,7
+Jacques Fieschi,5.73,20
+João Nunes,5.733333333333333,6
+Marion Doussot,5.733333333333333,6
+Thomas Lennon,5.733333333333333,9
+Éric Besnard,5.733333333333333,15
+Manish Gupta,5.733333333333333,9
+Sven Nordqvist,5.733333333333333,6
+Marc Esposito,5.733333333333333,6
+Pablo Del Teso,5.733333333333333,9
+B. K. Harinarayanan,5.734999999999999,20
+Adam Rifkin,5.736363636363636,11
+Hisakatsu Kuroki,5.737499999999999,8
+Tommy Wirkola,5.7375,8
+Jingzhi Zou,5.737500000000001,8
+Hervé Mimran,5.739999999999999,5
+Aaron Sowd,5.739999999999999,5
+Maria Wong,5.739999999999999,5
+John Carchietta,5.74,5
+Xiaobai Gu,5.74,5
+Maciej Strzembosz,5.74,5
+Pipat Jomkoh,5.74,5
+Anuvab Pal,5.74,5
+Luis Cámara,5.74,5
+John Mahendran,5.74,5
+David Berenbaum,5.74,5
+Yiu Fai Lo,5.741176470588234,17
+Christopher Landon,5.742857142857142,7
+Patxi Amezcua,5.742857142857142,7
+Adam Cooper,5.742857142857143,7
+Mohamed Hefzy,5.742857142857143,7
+Dave Schultz,5.742857142857143,7
+Bill Collage,5.742857142857143,7
+Rod Marmol,5.749999999999999,4
+Voraluk Klasukon,5.749999999999999,4
+Jonathan Frank,5.749999999999999,4
+David H. Pickering,5.75,4
+Cenon Palomares,5.75,4
+Julia C. Kaiser,5.75,4
+John Kaylin,5.75,4
+John Hoffman,5.75,4
+K.S. Ravindra,5.75,4
+Michael Sparaga,5.75,4
+Alvaro Velarde,5.75,4
+Varun Gautam,5.75,4
+Sabina Berman,5.75,6
+Silver Hau,5.75,6
+Sam Neave,5.75,4
+Stephen Davis,5.75,6
+Siv Rajendram Eliassen,5.75,4
+Ron Shelton,5.75,4
+Punit Malhotra,5.75,6
+Laura Malin,5.75,6
+Giuliano Miniati,5.75,4
+Arunlal Ramachandran,5.75,4
+Jean-Paul Cardinaux,5.75,4
+Alec Berg,5.75,4
+Bruno Chiche,5.75,6
+Sommai Lertulan,5.75,4
+Stephen Susco,5.75,8
+Aleksandr Boyarskiy,5.750000000000001,12
+Kona Venkat,5.752000000000001,50
+Szeto Kam-Yuen,5.753333333333333,15
+Lakshmi Bhoopal,5.754545454545454,11
+Park Kye-ok,5.757142857142857,7
+Edmond Wong,5.758823529411765,17
+Andrew Fleming,5.76,5
+Shu Chen,5.76,5
+Benoît Pelletier,5.76,5
+Anders Ølholm,5.76,5
+Norio Kida,5.76,5
+Yuet-Jan Hui,5.76,5
+Joshua Sternin,5.76,5
+Héctor Cabello Reyes,5.76,10
+Kan-Cheung Tsang,5.76,10
+John A. Gallagher,5.76,5
+S. Ramakrishnan,5.76,5
+Giovanni Robbiano,5.76,5
+John E. Moyer,5.76,5
+Peter Lepeniotis,5.76,5
+Felipe Zúñiga,5.76,5
+Kathy Pilon,5.760000000000001,5
+Manoj Lalwani,5.760000000000001,5
+Guillaume Lemans,5.761538461538462,13
+Lex Bonife,5.7625,8
+François-Olivier Rousseau,5.766666666666666,6
+Piers Ashworth,5.766666666666666,6
+Pedro Aguilera,5.766666666666667,6
+Marco van Geffen,5.766666666666667,9
+Gennaro Nunziante,5.766666666666667,6
+Mihkel Ulman,5.766666666666667,6
+Sam Harper,5.766666666666667,6
+Yolanda García Serrano,5.766666666666667,9
+Sakichi Sato,5.766666666666667,6
+Miles Millar,5.7666666666666675,9
+Alfred Gough,5.7666666666666675,9
+Romain Protat,5.7666666666666675,9
+Aloy Adlawan,5.769696969696969,33
+Melanie Dimantas,5.7714285714285705,14
+Pier Paolo Piciarelli,5.771428571428571,7
+Anjali Taneja,5.771428571428571,7
+Julien Boivent,5.771428571428571,7
+Francesco Cenni,5.771428571428571,7
+Honey Irani,5.771428571428572,7
+Stefano Sardo,5.771428571428572,7
+Pasquale Plastino,5.773333333333334,15
+Makoto Hayashi,5.7749999999999995,4
+Steve Koren,5.7749999999999995,8
+Iiro Küttner,5.7749999999999995,4
+Wu Nan,5.7749999999999995,4
+Martín Greco,5.7749999999999995,4
+Takashi Hasegawa,5.7749999999999995,8
+Matt Lopez,5.7749999999999995,4
+Pamela Chopra,5.7749999999999995,4
+Daniel Cúparo,5.775,4
+Dai Satô,5.775,4
+Donatien Alphonse François de Sade,5.775,4
+Johnny Smith,5.775,4
+Colin Downey,5.775,4
+Marquis de Sade,5.775,4
+Carl Macek,5.775,4
+Ho-Cheung Pang,5.775,4
+Brian Godawa,5.775,4
+Mick Sands,5.775,4
+Sarah Kaminsky,5.775,4
+Robert Whitlow,5.775,4
+Gabriel Olivares,5.775,4
+Rikki Beadle Blair,5.775,4
+Ping Zhu,5.775,4
+Greg Coolidge,5.775,4
+Bert Scholiers,5.775,4
+Amit Lior,5.775,4
+Erik Ahrnbom,5.775,4
+Charles Perrault,5.776923076923077,13
+Simon Michaël,5.776923076923077,13
+Maria Peters,5.776923076923078,13
+Gert Verhulst,5.777272727272727,22
+Tony Burgess,5.777777777777778,9
+Hiroshi Takahashi,5.778571428571428,14
+Alim Sudio,5.778787878787879,33
+Tab Murphy,5.779999999999999,5
+Mike de Seve,5.779999999999999,5
+Tibor Fonyódi,5.779999999999999,5
+Gopi Mohan,5.779999999999999,5
+Andrés Borghi,5.779999999999999,5
+Sharat Katariya,5.779999999999999,10
+Benjamin Legrand,5.78,5
+Patrick Melton,5.78,10
+Bhupati Raja,5.78125,16
+Murmel Clausen,5.783333333333334,6
+Yu Seon-dong,5.783333333333334,6
+Agnès Feuvre,5.783333333333334,6
+Alberto Rojas Apel,5.783333333333334,6
+Steve Oedekerk,5.785714285714286,7
+Joany Kane,5.785714285714286,7
+Atul Sabharwal,5.785714285714286,7
+Vijay Krishna Acharya,5.7875,8
+Stephen Sommers,5.7875,8
+Kota Yamada,5.7875,8
+Bhavani Iyer,5.788888888888888,9
+Fajar Umbara,5.789999999999999,10
+Sachy,5.79,10
+Issa López,5.79,10
+Marc Syrigas,5.790000000000001,10
+Sanjeev Dutta,5.790909090909091,11
+Kam-Yuen Szeto,5.795,20
+Alessandro Aronadio,5.799999999999999,5
+Jens Dahl,5.799999999999999,5
+Saeed Aghighi,5.8,4
+Kim Hwi,5.8,8
+Mario Bortolotto,5.8,4
+Hisao Maki,5.8,4
+Simon Lui,5.8,5
+Paula del Fierro,5.8,10
+Bruno Garotti,5.8,8
+Heidrun Schleef,5.8,25
+Javier Muñoz,5.8,5
+Ronald Bass,5.8,7
+Lilian Rosado González,5.8,5
+Pascal Arnold,5.8,12
+Michel Munz,5.8,5
+Matt Chow,5.8,7
+Tatsuo Yoshida,5.8,5
+Mataichirô Yamamoto,5.8,6
+Dick van den Heuvel,5.8,6
+Justin Benson,5.8,5
+Adam Simon,5.8,5
+Cornelia Funke,5.8,9
+Sreenivasa Reddy,5.8,4
+J.P. Ouellette,5.8,4
+Gérard Bitton,5.8,5
+Gábor Rassov,5.8,7
+Emilie Frèche,5.8,4
+Kemi Adesoye,5.800000000000001,4
+Meng Li,5.800000000000001,4
+Eakasit Thairaat,5.800000000000001,8
+Shashank Dabral,5.800000000000001,5
+Thomas Vincent,5.800000000000001,4
+Michael Melski,5.800000000000001,8
+Shankar Ramakrishnan,5.800000000000001,4
+Todd Berger,5.800000000000001,4
+Miguel de Cervantes y Saavedra,5.800000000000001,9
+James Moran,5.800000000000001,4
+Roberta Hanley,5.800000000000001,4
+Jorge Ramírez Suárez,5.800000000000001,8
+Eveline Hagenbeek,5.800000000000001,4
+Gao Xiaosong,5.800000000000001,4
+Rafael Azcona,5.809090909090909,11
+Kaithapram Damodaran,5.8100000000000005,10
+Peter Tolan,5.8125,8
+Katrin Milhahn,5.8125,8
+Evan Spiliotopoulos,5.8125,8
+Jann Preuss,5.8125,8
+Tor Åge Bringsværd,5.814285714285715,7
+Jean-François Halin,5.814285714285715,7
+Christopher Thompson,5.814285714285715,7
+Michele Pellegrini,5.815789473684211,19
+Paulo Freitas Jr.,5.816666666666666,6
+Avni Tuna Dilligil,5.8199999999999985,5
+Katri Manninen,5.819999999999999,5
+Philipp Weinges,5.82,5
+Glen Morgan,5.82,5
+David Diamond,5.82,5
+Günter Knarr,5.82,5
+Johann Wolfgang von Goethe,5.82,5
+Chen Shu,5.82,5
+Enrique Ramos,5.824999999999999,12
+Horst Markgraf,5.824999999999999,4
+Kate Boutilier,5.824999999999999,4
+Nick Rufca,5.825,4
+Jeff Kinney,5.825,4
+Todd Stephens,5.825,4
+Éva Pataki,5.825,4
+Rod Cabataña Marmol,5.825,4
+Danny Yeo,5.825,4
+Marc Baird,5.825,4
+Uwe Timm,5.825,4
+Jean Teulé,5.825,4
+Ajayan Venugopalan,5.825,4
+Almudena Grandes,5.825,4
+Jonas McCord,5.825,4
+Gina Wendkos,5.825,4
+Menotti,5.825,4
+Vitor Brandt,5.825,4
+Patrice Garcia,5.825,4
+Saïd Hamich,5.825000000000001,4
+Maarten Lebens,5.827272727272727,11
+Russell Friedenberg,5.828571428571429,7
+David Keller,5.833333333333333,6
+Manoj Tyagi,5.833333333333333,9
+Valia Santella,5.833333333333333,9
+Agnes Pluch,5.833333333333333,6
+Ramana Chintapally,5.833333333333333,24
+Dana Fox,5.833333333333333,6
+Beby Hasibuan,5.833333333333333,6
+Jack Ketchum,5.833333333333333,6
+Fairlane Raymundo,5.833333333333333,6
+Vincenzo Cerami,5.833333333333334,9
+Kausar Munir,5.833333333333334,9
+H.P. Mendoza,5.8375,8
+James Albert,5.837500000000001,8
+Ghalib Asad Bhopali,5.839999999999999,5
+Ghalib Asadbhopali,5.839999999999999,5
+Matt Greenberg,5.84,5
+Marietta von Hausswolff von Baumgarten,5.84,5
+Marc Marcum,5.84,5
+Elvira Lindo,5.84,5
+Adam Sztykiel,5.84,5
+Ana Cohan,5.840000000000001,5
+David Cooney,5.840000000000001,5
+Petr Kolecko,5.840000000000001,5
+Andrew Renzi,5.840000000000001,5
+Claude Klotz,5.840000000000001,5
+Kriz G. Gazmen,5.841176470588234,17
+Man Hong Lung,5.8428571428571425,7
+Manisha Korde,5.8428571428571425,14
+Lau Ho-Leung,5.845454545454545,11
+Oscar Wilde,5.846666666666667,15
+Ulf Stark,5.85,4
+Kishore Gopu,5.85,4
+Giguru Akiguchi,5.85,4
+Punlop Sinjaroen,5.85,4
+Joaquín del Paso,5.85,4
+Naoyuki Tomomatsu,5.85,4
+Carlos Montero,5.85,4
+Caroline Héroux,5.85,4
+Romualdo Avellanosa,5.85,4
+Mikael Olsen,5.85,4
+Peter Savieri,5.85,4
+Otfried Preußler,5.85,4
+Areno Inoue,5.85,4
+Philippa Goslett,5.85,4
+Raffi,5.85,10
+Philippe Djian,5.85,4
+Zig Marasigan,5.8500000000000005,6
+Monica Sandstede,5.8500000000000005,6
+Kishû Izuchi,5.8500000000000005,6
+Grégory Levasseur,5.8500000000000005,8
+Dominique Deruddere,5.8500000000000005,6
+Luis Marías,5.8500000000000005,8
+Paul van Loon,5.8500000000000005,4
+Matthew James Wilkinson,5.8500000000000005,6
+Mark Hodkinson,5.8500000000000005,6
+Koon-Nam Lui,5.8500000000000005,14
+David Howard,5.8500000000000005,4
+Dmitriy Sobolev,5.8500000000000005,4
+Hamed Mohammadi,5.8500000000000005,4
+H.G. Wells,5.8500000000000005,6
+Shin'ichi Ichikawa,5.8500000000000005,4
+Irakli Kvirikadze,5.850000000000001,6
+Gopimohan,5.853571428571429,28
+Oliver Ziegenbalg,5.8538461538461535,13
+Olivier Dazat,5.855555555555558,18
+Rokesh,5.857142857142857,7
+André Ruellan,5.857142857142857,7
+Danièle Thompson,5.857142857142857,7
+Kenya Barris,5.859999999999999,5
+Daniele Costantini,5.859999999999999,5
+J.K. Bharavi,5.859999999999999,5
+Umarji Anuradha,5.86,5
+Amy Chin,5.86,5
+Chinni Krishna,5.86,5
+Hamish McColl,5.86,5
+Carlos Martín,5.860000000000001,5
+Salim Khan,5.860000000000001,5
+Antoine Lacomblez,5.86153846153846,13
+JK Youn,5.862499999999999,8
+Neelesh Misra,5.8625,8
+Philip Yung,5.866666666666666,6
+Dean Devlin,5.866666666666666,9
+Antonio Leotti,5.866666666666666,9
+Adam F. Goldberg,5.866666666666666,9
+Sophie Fillières,5.866666666666667,12
+Rahul Awate,5.866666666666667,6
+Roselle Y. Monteverde,5.866666666666667,9
+Hans Bourlon,5.86842105263158,19
+Mette Heeno,5.869230769230769,13
+Sakchai Deenan,5.87,10
+Tomoko Aizawa,5.871428571428571,7
+Zoé Galeron,5.871428571428572,7
+Chris Dowling,5.871428571428572,7
+Timothy A. Chey,5.871428571428572,7
+Shoichi Maruyama,5.874999999999999,8
+Ron Peer,5.874999999999999,4
+Chiara Laudani,5.874999999999999,8
+Erica Li,5.874999999999999,16
+Benjamin Sutor,5.874999999999999,4
+Gabriel Soriano,5.875,4
+Yin-Yee Tin,5.875,4
+David Pastor,5.875,4
+David J. Negron Jr.,5.875,4
+Thirumala Kishore,5.875,4
+Àlex Pastor,5.875,4
+Joe Piscatella,5.875,4
+Ray Wright,5.875,4
+Adrian Butchart,5.875,4
+Joanne Giger,5.875,4
+Johanna Hartikainen,5.875,4
+Pon Kumaran,5.875,4
+Joe Ballarini,5.875,4
+Banana Yoshimoto,5.875,4
+Raphaëlle Desplechin,5.875,8
+Omar Mustre,5.875,4
+Kevin Eastman,5.875,4
+Arne Nolting,5.875,4
+Kiyoto Takeuchi,5.875,4
+Daniele Maggioni,5.875,4
+Sujoy Ghosh,5.875000000000001,8
+Kirsten Smith,5.875000000000001,8
+Nicola Guaglianone,5.877777777777778,9
+Karu Pazhaniappan,5.88,5
+Ruchi Narain,5.88,5
+Sami Keski-Vähälä,5.88,10
+Sharon Hui,5.88,5
+Chris Buchinsky,5.88,5
+Michael S. Kaufman,5.88,5
+Joel Mercado,5.88,10
+Richard Schlesinger,5.88,5
+Aleksey Gravitskiy,5.88,5
+Muazzam Beg,5.880000000000001,5
+Gerard Michael MacCarthy,5.880000000000001,5
+John Thomas,5.880000000000001,5
+Gyula Hernádi,5.880000000000001,5
+Gianluca Petrazzi,5.880000000000001,5
+Boots Agbayani Pastor,5.880000000000001,5
+Stefan Thunberg,5.883333333333333,6
+Fadette Drouard,5.883333333333333,6
+Lee Jae-yun,5.883333333333333,6
+Julie Lopes-Curval,5.883333333333334,6
+Lee Jung-Sub,5.883333333333334,6
+Charudutt Acharya,5.883333333333334,6
+Jim Kouf,5.883333333333334,6
+Kongkiat Khomsiri,5.884210526315789,19
+Yûji Nagamori,5.886666666666666,15
+Ariane Fert,5.887499999999999,8
+Jim Magdaleno,5.887499999999999,8
+Itaru Era,5.888235294117649,17
+Neeraj Vora,5.88846153846154,26
+Maud Ameline,5.888888888888889,9
+Uschi Reich,5.899999999999999,8
+Fernando del Razo,5.8999999999999995,6
+Rajnish Thakur,5.8999999999999995,4
+Katherine Fugate,5.8999999999999995,5
+Cédric Jimenez,5.8999999999999995,6
+Dan Gordon,5.8999999999999995,5
+Mary Pocrnic,5.8999999999999995,4
+Adriana Falcão,5.8999999999999995,17
+Kevin Williamson,5.8999999999999995,6
+Akio Morisawa,5.9,4
+Peter Andermatt,5.9,5
+Claudio Galperin,5.9,4
+Ozcar Ramírez González,5.9,5
+Fernando Regueira,5.9,5
+Brian Cordray,5.9,4
+Derick Martini,5.9,4
+Omar Lulu,5.9,4
+Hilde Susan Jaegtnes,5.9,4
+Christopher Kyle,5.9,4
+Najeem Koya,5.9,5
+Masahiro Fukuma,5.9,5
+Agustin,5.9,9
+Matías Penachino,5.9,4
+Joey O'Bryan,5.9,5
+Bharathan,5.9,9
+Lucas Santa Ana,5.9,5
+Sophie Hiet,5.9,4
+Erica Rivinoja,5.9,8
+Shibani Bathija,5.9,5
+G.B. Sampedro,5.9,4
+Sandro Veronesi,5.9,4
+Gary Wheeler,5.9,4
+Jérôme Soubeyrand,5.9,4
+Sachin Yardi,5.9,5
+Jonathan Sobol,5.9,4
+Jean-Claude Montheil,5.9,4
+Erin Dignam,5.9,4
+Wilbert Awdry,5.9,11
+Bedirhan Baran Yerligul,5.9,5
+George Gallo,5.9071428571428575,14
+Bhashyasree,5.908333333333334,12
+Yuichi Fukuda,5.908333333333334,12
+Arthur Schnitzler,5.9125,8
+Shinji Imaoka,5.9125000000000005,8
+Devika Bhagat,5.9125000000000005,8
+Furio Scarpelli,5.912500000000001,8
+Dave Christiano,5.914285714285713,7
+Max Landis,5.914285714285714,7
+Marina Stavenhagen,5.914285714285714,7
+Jack Ng Wai-Lun,5.914285714285714,7
+Marcos Carnevale,5.916666666666666,18
+Jon Croker,5.916666666666667,6
+Deon Meyer,5.916666666666667,6
+Siddique,5.916666666666667,6
+Nadine Lamari,5.916666666666667,6
+Santiago Amigorena,5.91875,16
+Olivier Douyère,5.919999999999999,5
+Vibhu Puri,5.92,5
+Adam Pinney,5.92,5
+Viji,5.92,10
+Lik-Kei Tang,5.92,5
+Duane Adler,5.92,10
+Scott Poiley,5.92,5
+Christophe Turpin,5.92,5
+Sasa Radojevic,5.92,5
+Chris W. Mitchell,5.92,5
+Nicholl Tang,5.92,5
+David Marconi,5.92,5
+Steven E. Gordon,5.92,5
+Kikumi Yamagishi,5.92,5
+Michael Müller,5.92,5
+Peter Asmussen,5.924999999999999,8
+Gabriel Dowrick,5.924999999999999,4
+Stefan Müller,5.925,4
+Victor Reyes,5.925,4
+Federico Veiroj,5.925,4
+Rudy Thauberger,5.925,4
+Aleksandr Adabashyan,5.925,4
+Euclydes Marinho,5.925,4
+Audrey Estrougo,5.925,4
+Giampiero Rigosi,5.925,4
+Juan Martínez Moreno,5.925000000000001,4
+Maria Grazia Perria,5.925000000000001,4
+Laurent Nègre,5.925000000000001,4
+Ana Rebuelta,5.925000000000001,4
+Juliette Sales,5.925000000000001,12
+Rohit Dhawan,5.925000000000001,4
+José Antonio Hergueta,5.925000000000001,4
+Simon de Waal,5.925000000000001,4
+Agnès de Sacy,5.926086956521737,23
+Jean-François Goyet,5.928571428571428,7
+Aleksandr Mindadze,5.928571428571429,7
+Marc Lawrence,5.928571428571429,7
+Hossein Mahkam,5.928571428571429,7
+Donald E. Westlake,5.92857142857143,7
+M. Rathnam,5.93,20
+Jorge Durán,5.933333333333334,9
+Hanna Antonina Wojcik Slak,5.933333333333334,6
+Sergio Bizzio,5.933333333333334,9
+Hans Christian Andersen,5.935714285714286,14
+Art Marcum,5.9399999999999995,5
+Matt Holloway,5.9399999999999995,5
+Dunja Gry Jensen,5.9399999999999995,5
+Andrew Brenner,5.9399999999999995,5
+Dr. Seuss,5.9399999999999995,5
+Fernando Navarro,5.9399999999999995,5
+Greg Glienna,5.9399999999999995,5
+Mike Flanagan,5.9399999999999995,10
+Ram Ling,5.94,5
+Azazel Jacobs,5.942857142857143,7
+Gabriel Ripstein,5.942857142857144,7
+Nick Moorcroft,5.944444444444445,9
+Yûsuke Watanabe,5.944444444444445,9
+Mohan Nair,5.944444444444445,9
+Paulo Halm,5.946153846153846,13
+Giulia Calenda,5.949999999999998,14
+Luk Yee-sum,5.949999999999999,4
+Jens-Frederik Otto,5.949999999999999,4
+Mohan Azaad,5.949999999999999,4
+Igor Šterk,5.949999999999999,4
+K.S. Sripal Reddy,5.949999999999999,4
+Carlos López,5.949999999999999,4
+Vaibhav Misra,5.949999999999999,4
+Tony T.L. Young,5.949999999999999,10
+James Bird,5.949999999999999,4
+Don Michael Perez,5.949999999999999,4
+Alexander Pushkin,5.949999999999999,4
+Pavel Sanaev,5.949999999999999,6
+Greg Latter,5.95,8
+Luiso Berdejo,5.95,12
+Nick Ward,5.95,4
+Nicolas Peufaillit,5.95,8
+Howard A. Rodman,5.95,4
+Giacomo Scarpelli,5.95,8
+Mark Twain,5.95,10
+Peque Gallaga,5.95,4
+Herman Melville,5.95,4
+Delphine de Vigan,5.95,4
+Rohena Gera,5.95,4
+Luís Diogo,5.95,4
+Shane Salerno,5.95,4
+Neil Landau,5.95,4
+Abilash Nair,5.95,6
+Juan Sasiaín,5.95,4
+Marie-Pierre Huster,5.95,4
+Fumie Mizuhashi,5.95,4
+Lem Dobbs,5.95,4
+David Russell,5.95,4
+Bettine von Borries,5.95,4
+Steven Della Salla,5.95,4
+Émile Gaudreault,5.950000000000001,10
+Vakkantham Vamsi,5.953333333333333,15
+Joaquín Oristrell,5.953846153846153,13
+Dean Craig,5.955555555555556,9
+Wang Chao,5.957142857142856,7
+Santiago Fernández Calvete,5.957142857142856,7
+Henrik Ibsen,5.957142857142856,14
+Edoardo De Angelis,5.957142857142856,7
+Aleksandr Rodionov,5.958333333333333,12
+Na. Muthu Kumar,5.958479532163743,171
+Fabio Bonifacci,5.95909090909091,22
+Pierre Greco,5.959999999999999,5
+Diamond Ratna Babu,5.959999999999999,5
+Arkadiy Strugatskiy,5.96,5
+Sanjay Pawar,5.96,15
+Andrey Kivinov,5.96,5
+Carlos Molinero,5.96,5
+Jeff Baena,5.96,5
+Alex Kim,5.96,10
+Boris Strugatskiy,5.96,5
+Theodor Holman,5.96,5
+Enrico C. Santos,5.960869565217391,23
+Michael McCullers,5.9624999999999995,8
+Camille Fontaine,5.9625,8
+Gonçalo Galvão Teles,5.9625,8
+Yoshitsugu Sagami,5.966666666666666,6
+Andrés M. Koppel,5.966666666666666,6
+Jérémie Guez,5.966666666666667,9
+Sharon Miller,5.966666666666668,9
+Sin Ling Yeung,5.970000000000001,10
+Kin Chung Chan,5.97142857142857,7
+Aleksi Bardy,5.971428571428571,28
+Hideo Yokoyama,5.971428571428571,7
+Simon Moutairou,5.971428571428571,7
+Christophe Honoré,5.971428571428572,7
+Tijs van Marle,5.9739130434782615,23
+Nontakorn Taweesuk,5.975,4
+Kwon Sung-hui,5.975,4
+Ajay Monga,5.975,4
+Graziano Diana,5.975,4
+Hrishikesh Koli,5.975,4
+Erich Kästner,5.975,4
+Jean-Luc Gaget,5.975,8
+Manolo Matji,5.975,4
+Olivia Núñez,5.975,4
+Kana Matsui,5.9750000000000005,4
+Soo-ah Kim,5.9750000000000005,4
+Karin Arrhenius,5.9750000000000005,4
+Leticia López Margalli,5.9750000000000005,4
+Dario Zonta,5.9750000000000005,4
+Alexey Sidorov,5.9750000000000005,4
+Kim Yoon-sin,5.9750000000000005,4
+Ehren Kruger,5.976470588235293,17
+Timur Zhaksylykov,5.977777777777778,9
+Diego De Silva,5.977777777777778,9
+Ranjith,5.979310344827587,29
+James Watkins,5.9799999999999995,5
+Mohan Rajan,5.9799999999999995,10
+Azril Hamzah,5.9799999999999995,5
+R Kannan,5.9799999999999995,10
+D. Daniel Vujic,5.9799999999999995,5
+Caroline Deruas-Garrel,5.9799999999999995,5
+Andrea Garello,5.9799999999999995,5
+Brendan O'Brien,5.9799999999999995,5
+Remton Siega Zuasola,5.9799999999999995,5
+Khalid Kashogi,5.98,5
+Joaquim Assis,5.98,5
+Akshay Singh,5.98,5
+Rolf Giesen,5.98,5
+Agasyah Karim,5.98,5
+Vishal Vijay Kumar,5.983333333333332,6
+Leonardo Levis,5.983333333333333,6
+Karl Geurs,5.983333333333333,6
+Albert Uderzo,5.983333333333333,6
+Edmund Yeo,5.983333333333333,6
+Larry Gross,5.983333333333333,6
+Victor Levin,5.983333333333333,6
+Blake Harjes,5.983333333333333,6
+Ferenc Grunwalsky,5.983333333333333,6
+Hideki Sonoda,5.9875,16
+Lars Boom,5.9875,8
+Agnes De Guzman,5.987500000000001,8
+Dave Callaham,5.98888888888889,9
+Julio Rojas,5.9944444444444445,18
+Kôhei Kiyasu,6.0,6
+Matthew Stone,6.0,6
+Agnidev Chatterjee,6.0,5
+Iraj Karimi,6.0,4
+Simone Scafidi,6.0,4
+Dan O'Bannon,6.0,5
+Kenji Miyazawa,6.0,4
+Inés de Oliveira Cézar,6.0,4
+Shakeel Azmi,6.0,6
+Beda Docampo Feijóo,6.0,4
+Matthias Dinter,6.0,5
+Cheol-Hyeon Jo,6.0,4
+Jefferson Lewis,6.0,5
+Andrey Migachev,6.0,4
+Andrea Cotti,6.0,4
+Pele,6.0,5
+Travis Beacham,6.0,4
+Ramesh Reddy,6.0,5
+Petri Karra,6.0,4
+Hitoshi Ishikawa,6.0,6
+Yoichi Komori,6.0,4
+Agustín Díaz Yanes,6.0,4
+Daniel Nocke,6.0,4
+Kyzza Terrazas,6.0,5
+Martin L. Mercer,6.0,6
+Patricia Highsmith,6.0,5
+Choi Jin-Won,6.0,5
+José Luis Varela,6.0,6
+Yoshitaka Yamaguchi,6.0,5
+Gerard Stembridge,6.0,5
+Ed Solomon,6.0,9
+Pablo Agüero,6.0,5
+Hirotoshi Kobayashi,6.0,19
+Glenn Gers,6.0,5
+Bo Tian,6.0,5
+Yeong-chan Kim,6.0,8
+Adrien van Viersen,6.0,4
+Paul Soter,6.0,8
+Robert Alberdingk Thijm,6.0,4
+Tim Firth,6.0,6
+Ryuichi Takatsu,6.0,4
+Abbas Kiarostami,6.0,5
+Masaya Ozaki,6.0,6
+James Krieg,6.0,7
+Rebecca Leow,6.0,5
+Abe Levy,6.0,5
+Eban Schletter,6.0,4
+Gabriel Medina,6.000000000000001,5
+Christian Lyra,6.000000000000001,6
+Choi Jin-young,6.000000000000001,4
+Claudia Piñeiro,6.000000000000001,4
+Ankur Tewari,6.000000000000001,5
+Javed Akhtar,6.006666666666667,30
+Junichi Masuda,6.007692307692308,13
+Ryôichi Kimizuka,6.008333333333334,12
+Cédric Anger,6.009090909090909,11
+James Yuen,6.010526315789473,19
+Enrique Cortés,6.011111111111112,9
+Stephen King,6.011538461538463,26
+Jan Berger,6.012499999999999,16
+Pierre Jolivet,6.012500000000001,8
+Pa. Vijay,6.014035087719298,57
+Jon Lucas,6.014285714285713,14
+Jacques Akchoti,6.014285714285713,7
+Daniela Ceselli,6.014285714285713,7
+Jean-Christophe Grangé,6.014285714285714,7
+Michael Hjorth,6.014285714285715,7
+Takehiko Minato,6.015384615384615,13
+Aleksandr Novototskiy-Vlasov,6.016666666666666,6
+Horacio Valcárcel,6.016666666666666,6
+Nathalie Najem,6.016666666666667,6
+Javier Gullón,6.016666666666667,12
+Norbert Köbli,6.016666666666667,6
+Aatish Kapadia,6.016666666666667,6
+Jacqueline Epskamp,6.016666666666667,6
+Wei Li,6.016666666666667,6
+Elmore Leonard,6.016666666666667,6
+Yee-sum Luk,6.016666666666667,6
+M. Night Shyamalan,6.0181818181818185,11
+Yumiko Suzuki,6.02,5
+Emanuele Nespeca,6.02,5
+Alexis Galmot,6.0200000000000005,5
+Matthew Miller,6.0200000000000005,5
+Ray Loriga,6.0200000000000005,5
+Bob Camp,6.0200000000000005,10
+Jon Vitti,6.0200000000000005,5
+Rob Sprackling,6.0200000000000005,5
+Giordano Gederlini,6.0200000000000005,5
+Nicolas Boukhrief,6.0200000000000005,10
+Yaroslava Pulinovich,6.0200000000000005,5
+Nikolay Kulikov,6.022222222222222,9
+Wahid Hamed,6.022222222222223,9
+Marco Alessi,6.0249999999999995,4
+Jean-Baptiste Andrea,6.0249999999999995,4
+Carlo Salsa,6.0249999999999995,4
+Merian C. Cooper,6.0249999999999995,4
+Sergio Citti,6.0249999999999995,4
+Luigi Di Capua,6.0249999999999995,4
+Eddie Ling-Ching Fong,6.025,4
+Liz Tuccillo,6.025,4
+Risa Saraswati,6.025,4
+Graeme Callander,6.025,4
+Eric Navarro,6.025,4
+Kôsuke Komatsu,6.025,4
+Leandro Muniz,6.025,4
+Yeo Kyun-dong,6.025,4
+Didier Le Pêcheur,6.025,4
+Cas Sigers-Beedles,6.025,4
+Marie Desplechin,6.025,4
+Rochus Hahn,6.025,4
+Maarten Swart,6.025,4
+Tatsuya Kanazawa,6.025,4
+Vaali,6.025925925925926,27
+Dheeraj Rattan,6.027586206896551,29
+Jules Verne,6.028571428571428,7
+Amrik Gill,6.028571428571428,7
+Michel Spinosa,6.028571428571428,7
+Susan Chan,6.028571428571428,14
+Marcia Romano,6.0285714285714285,21
+Kyôko Godai,6.028571428571429,7
+Scott Moore,6.03076923076923,13
+Chris Martin Silber,6.0307692307692315,13
+Gulzar,6.033333333333332,15
+Patricio Saiz,6.033333333333333,9
+Tsang Kan-Cheung,6.033333333333334,6
+Fabrizio Testini,6.033333333333334,6
+Lenny Schwartz,6.033333333333334,6
+Ranjit Kapoor,6.033333333333334,6
+Marco Pettenello,6.035294117647058,17
+Phil Langone,6.0375,8
+Hari,6.0375000000000005,8
+Audrey Diwan,6.039999999999999,5
+Scott Marshall Smith,6.039999999999999,5
+Thomas Bahmann,6.039999999999999,5
+Rob Grant,6.039999999999999,5
+Ken Sugimori,6.04,15
+Steve Anderson,6.04,5
+Kirk DeMicco,6.04,5
+Tati Bernardi,6.04,5
+Stephen Hamel,6.04,5
+Marc Hyman,6.04,5
+Yoann Gromb,6.04,5
+Tarryn-Tanille Prinsloo,6.04,5
+Evan Daugherty,6.040000000000001,5
+Johanna Spyri,6.040000000000001,5
+Michael Sauter,6.041666666666665,12
+Mariette Désert,6.041666666666668,12
+Noriko Gotô,6.042857142857143,7
+Ayman Bahgat Kamar,6.042857142857143,7
+Edgar Wallace,6.042857142857143,7
+Laurent Turner,6.042857142857143,14
+Sompope Vejchapipat,6.042857142857144,7
+Heng Liu,6.042857142857144,7
+Stephen Gaghan,6.044444444444444,9
+Umberto Marino,6.044444444444445,9
+Gordan Mihic,6.045454545454546,11
+Fung Chih-chiang,6.046153846153847,13
+Farid Mostafavi,6.049999999999999,10
+Walter Lupo,6.049999999999999,4
+Agatha Christie,6.049999999999999,10
+Petri Kotwica,6.05,4
+Mitsuharu Makita,6.05,6
+Alisa Khmelnitskaya,6.05,4
+Gonzalo Ladines,6.05,4
+Tomasz Kepski,6.05,4
+Diastème,6.05,6
+Antonella Gaeta,6.05,4
+Alex Epstein,6.05,6
+Andrés Gelós,6.05,4
+Fabienne Berthaud,6.05,4
+Zhang Jiajia,6.05,4
+Jewel C. Castro,6.05,4
+Diego Ameixeiras,6.05,4
+Martin Algus,6.05,6
+Jason Filardi,6.05,4
+Rob Muir,6.05,4
+Tomomi Tsutsui,6.05,4
+Bjørn Olaf Johannessen,6.05,6
+Teona Strugar Mitevska,6.050000000000001,4
+Marie Noëlle,6.050000000000001,4
+John Roque,6.050000000000001,4
+Husein M. Atmodjo,6.050000000000001,4
+Darling Swamy,6.050000000000001,8
+Claude Le Pape,6.050000000000001,4
+Natalie Carter,6.050000000000001,12
+Drew Dowdle,6.050000000000001,6
+Jon Zack,6.050000000000001,4
+Rudyard Kipling,6.050000000000001,4
+Petros Markaris,6.050000000000001,4
+Kôtarô Isaka,6.054545454545456,11
+Alex Ross Perry,6.0555555555555545,9
+Scott Derrickson,6.0555555555555545,9
+Adolfo Alix Jr.,6.055555555555555,9
+Menno Meyjes,6.057142857142857,7
+Harshavardhan,6.057142857142858,7
+Yoo Young-seon,6.06,5
+Samuel Doux,6.06,5
+Jeong Jin-wan,6.06,5
+Luciano Stella,6.0600000000000005,5
+Gabriel Reyes,6.0600000000000005,5
+Sachiko Tanaka,6.0600000000000005,10
+Jo Nesbø,6.0600000000000005,5
+Justin Zackham,6.0600000000000005,5
+T.S. Nowlin,6.0600000000000005,5
+Luc Besson,6.060606060606059,33
+Pascal Bonitzer,6.061111111111111,18
+Catherine Breillat,6.0625,8
+Anne-Louise Trividic,6.0636363636363635,11
+Patrícia Andrade,6.064285714285715,14
+Toshiki Inoue,6.066666666666666,9
+Rodolphe Lauga,6.066666666666666,6
+Kelly Yuan-Ling Yang,6.066666666666666,6
+RJ Nuevas,6.06923076923077,13
+João Emanuel Carneiro,6.069999999999999,10
+Junli Guo,6.071428571428571,7
+David Lambert,6.071428571428571,7
+Ralf Hertwig,6.071428571428572,7
+Sadayuki Murai,6.072727272727274,11
+Gor Kirakosian,6.074999999999999,4
+Hitesh Kewalya,6.074999999999999,4
+Man Keung Chan,6.074999999999999,4
+Irene Turner,6.074999999999999,4
+Usamaru Furuya,6.074999999999999,4
+Fanny Burdino,6.074999999999999,4
+Aintza Serra,6.074999999999999,4
+Sergio Wolf,6.074999999999999,4
+Chris Craps,6.074999999999999,4
+Gilbert Adair,6.074999999999999,4
+Carlos Saboga,6.074999999999999,8
+Kamel Guemra,6.075,4
+Yaël Langmann,6.075,4
+Larry Stuckey,6.075,4
+Srikanth Addala,6.075,4
+Stephen Beck,6.075,4
+Lowell Ganz,6.075,4
+Jeff Johnson,6.075,4
+Tatyana Miroshnik,6.075,4
+Kevan Tucker,6.075,4
+Juan Villegas,6.075,4
+C. Mason Wells,6.075,4
+Babaloo Mandel,6.075,4
+Dennis C. Evangelista,6.0777777777777775,9
+Daniel Castro,6.08,5
+Philippe Lopes-Curval,6.08,5
+Juan Luis Iborra,6.08,5
+Britt Allcroft,6.08,10
+Steve Hudson,6.08,5
+Rahul Ramchandani,6.08,5
+Izumi Kawasaki,6.08,5
+Josh Campbell,6.08,5
+Abolhassan Davoodi,6.08,5
+Alyona Zvantsova,6.08,5
+Iain Kennedy,6.08,5
+Peter Steinfeld,6.08,5
+Florence Seyvos,6.08,5
+Viktória Petrányi,6.083333333333332,12
+François Bégaudeau,6.083333333333333,6
+Laurent Brandenbourger,6.083333333333333,6
+Carla Cavalluzzi,6.083333333333333,6
+Wan Chi-Man,6.083333333333333,6
+Pierre Uytterhoeven,6.083333333333333,6
+Prosper Mérimée,6.083333333333333,6
+Francesca Manieri,6.085714285714286,14
+Hendrik Hölzemann,6.085714285714286,7
+Zou Jingzhi,6.085714285714286,7
+Catherine Corsini,6.085714285714287,7
+Ludovica Rampoldi,6.0875,8
+Paruchuri Brothers,6.088461538461539,26
+John Hamburg,6.0888888888888895,9
+Allison Burnett,6.089999999999999,10
+Cho Chul-hyun,6.090909090909091,11
+Aseem Arrora,6.099999999999999,6
+Hie-jae Kim,6.099999999999999,6
+A.R. Murugadoss,6.099999999999999,6
+Przemyslaw Nowakowski,6.1,5
+Erich Hoeber,6.1,5
+Saskia Noort,6.1,4
+Adam Herz,6.1,5
+Michael Lesslie,6.1,4
+Lars Kokemüller,6.1,4
+Sarah Thorp,6.1,4
+Marjolein Beumer,6.1,4
+Dai Ning,6.1,4
+Mark Rosenthal,6.1,4
+Jon Hoeber,6.1,5
+Aline Brosh McKenna,6.1,7
+C. Jay Cox,6.1,4
+Jérôme Beaujour,6.1,13
+Steve Galluccio,6.1,4
+Pavel Finn,6.1,5
+Jonathan Raymond,6.1,5
+Pascal Plisson,6.1,4
+Yann Gozlan,6.1,4
+Mitch Glazer,6.1,4
+Sherry White,6.1,4
+John O'Brien,6.1,5
+Khan Chan,6.1,5
+Brad Copeland,6.1,5
+Daniela Gambaro,6.1,4
+Prabhu Solomon,6.1,5
+G. Radhakrishnan,6.1,4
+Ottó Geir Borg,6.1,4
+Takao Nakano,6.1,11
+Harley Peyton,6.1,4
+Henry Bean,6.1,4
+Jean-Stéphane Bron,6.1,4
+Kate Kondell,6.1,4
+Ottavia Madeddu,6.1,4
+Alexandre de La Patellière,6.1,16
+Julie Peyr,6.1000000000000005,10
+Marc Silverstein,6.1000000000000005,5
+Abby Kohn,6.1000000000000005,5
+Lyubov Mulmenko,6.1000000000000005,6
+Arthur Brooke,6.1000000000000005,7
+Paul de Vrijer,6.1000000000000005,4
+Michael J. Wilson,6.1000000000000005,6
+Alejandro Brugués,6.1000000000000005,6
+Cristina Comencini,6.1000000000000005,9
+Renzil D'Silva,6.1000000000000005,6
+Nadja Dumouchel,6.1000000000000005,4
+David Auburn,6.1000000000000005,5
+Robert Donne,6.1000000000000005,4
+Aditi Mediratta,6.1000000000000005,4
+Su-jin Park,6.1000000000000005,7
+Jane Austen,6.1000000000000005,14
+Arthur Rimbaud,6.1000000000000005,4
+Habib Faisal,6.1000000000000005,11
+Thomas Moldestad,6.100000000000001,12
+Abbas Tyrewala,6.105882352941176,17
+Yuriy Arabov,6.106250000000001,16
+Sean Whitley,6.1071428571428585,14
+John Requa,6.107692307692307,13
+Glenn Ficarra,6.107692307692307,13
+Prashant Pandey,6.107692307692308,13
+Abdullah Zahir Babu,6.11,10
+Charles Dickens,6.110000000000001,20
+Satish Vegesna,6.110000000000001,10
+Darren Lemke,6.111111111111111,9
+Jay Master,6.111111111111111,9
+Rob McCallum,6.111111111111111,9
+Alvin B. Yapan,6.111111111111111,9
+Julien Rappeneau,6.111111111111112,18
+Karsten Fullu,6.112500000000001,8
+Dino Gentili,6.114285714285714,7
+Lu Chuan,6.114285714285714,7
+Skip Woods,6.114285714285715,7
+Satoshi Tajiri,6.114285714285715,21
+Arisa Kaneko,6.116666666666666,12
+Karen McCullah,6.116666666666666,6
+Hussain Zaidi,6.116666666666666,6
+Kiyotaka Inagaki,6.116666666666667,6
+Monty Tiwa,6.116666666666667,12
+Laurence Ferreira Barbosa,6.116666666666667,6
+Baku Yumemakura,6.116666666666667,6
+Diablo Cody,6.116666666666667,6
+John Paul Abellera,6.118181818181818,11
+Glenn Berger,6.118181818181818,11
+Nick Love,6.118181818181818,11
+Jonathan Aibel,6.118181818181818,11
+David Lowery,6.119999999999999,5
+Ronald Kruschak,6.119999999999999,5
+Hem Raj B.C.,6.119999999999999,5
+Benjamin Charbit,6.119999999999999,5
+Fernando Bonassi,6.119999999999999,10
+Renato Custodio Jr.,6.119999999999999,5
+Daisuke Gotô,6.12,5
+Gustave Flaubert,6.12,5
+Jacques Arhex,6.12,5
+Alfie Palermo,6.12,5
+Shauna Cross,6.12,5
+Olivier Demangel,6.12,5
+Sergi Belbel,6.12,5
+Matthew Robinson,6.12,5
+Jerusha Hess,6.12,5
+James Vanderbilt,6.12,15
+Rula Nasser,6.12,5
+Omar Rodriguez-Lopez,6.12,5
+Daisuke Habara,6.121428571428572,14
+Jordi Gasull,6.122222222222223,9
+Anurag Kashyap,6.122727272727272,22
+Franco Bernini,6.124999999999999,4
+Alexandre Machado,6.125,4
+Eric Bress,6.125,4
+Michael Andrews,6.125,4
+Hanif Kureishi,6.125,4
+Alan DiFiore,6.125,4
+Tadashi Naitô,6.125,4
+Luc Jabon,6.125,4
+K. Chandru,6.125,4
+Robert Ramsey,6.125,4
+Soyoung Lee,6.125,4
+Fernanda Young,6.125,4
+Luisa Marques,6.125,4
+Brindha Sarathy,6.125,4
+Reggie Rock Bythewood,6.125,4
+José Ignacio Valenzuela,6.125,4
+Ron Vignone,6.125,8
+Marion Laine,6.125,4
+Kyôko Inukai,6.125,8
+Junichi Fujisaku,6.125,4
+Lawrence Block,6.125,4
+Jean Ummels,6.125,4
+Ahmed Hamidi,6.125,4
+Michel Leclerc,6.125,4
+Mikhail Mestetskiy,6.125,4
+Jean-Loup Dabadie,6.125,4
+Zac Stanford,6.125,4
+Jean-Claude Schlim,6.125,4
+Benoît Guichard,6.125000000000001,4
+Odile Barski,6.125000000000001,4
+Matthias Pacht,6.125000000000002,8
+Benoît Graffin,6.128571428571428,14
+Ken Daurio,6.128571428571428,14
+Ays De Guzman,6.128571428571428,7
+Domenico Starnone,6.13,10
+Amitabh Verma,6.130000000000001,10
+Ugo Chiti,6.132142857142857,28
+Balázs Lovas,6.133333333333333,6
+Amy Jump,6.133333333333333,6
+Tetsuya Oishi,6.133333333333333,12
+Gernot Gricksch,6.133333333333333,6
+Etan Cohen,6.133333333333333,6
+Hiner Saleem,6.133333333333333,6
+Michael Brandt,6.133333333333333,6
+Derek Haas,6.133333333333333,6
+B.V.S. Ravi,6.133333333333334,9
+Heiward Mak,6.133333333333334,12
+Stéphane Cabel,6.133333333333334,6
+Wojciech Lepianka,6.133333333333334,6
+Nikhil Mehrotra,6.133333333333334,6
+Emmanuel Bourdieu,6.133333333333334,9
+Prasoon Joshi,6.137499999999999,8
+Réka Divinyi,6.139999999999999,10
+Sumio Ohmori,6.14,10
+David Kajganich,6.14,5
+Wendee Lee,6.14,5
+Lech Majewski,6.14,5
+Glenn Standring,6.14,5
+Ryon Lee Chung-Cheung,6.14,5
+Janeen Damian,6.14,5
+Klaus Richter,6.14,10
+Kenzaburô Iida,6.140000000000001,10
+Ronnie Ursenbach,6.140000000000001,5
+Peng Ren,6.140000000000001,5
+Carlos Asorey,6.140000000000001,5
+Eric Veniard,6.140000000000001,5
+Frank Ketelaar,6.140000000000001,10
+Bo Hr. Hansen,6.1400000000000015,15
+Galut Alarcón,6.142857142857143,7
+Jeanne Waltz,6.142857142857143,7
+José Roberto Torero,6.142857142857143,7
+Kiyoshi Shigematsu,6.142857142857143,14
+Martin Suter,6.142857142857143,7
+Tonino Benacquista,6.142857142857144,7
+Marek Epstein,6.14375,16
+Boaz Yakin,6.14375,16
+Wai Lun Ng,6.1466666666666665,15
+Padmanabha Dasgupta,6.147826086956522,23
+Shania Punjabi,6.148275862068967,29
+Senel Paz,6.1499999999999995,4
+Justin Theroux,6.1499999999999995,4
+Maggie Peren,6.1499999999999995,14
+Pierre Trividic,6.1499999999999995,6
+Kevin Grevioux,6.1499999999999995,4
+Elizabeth Chandler,6.1499999999999995,4
+Sabina Anzuategui,6.1499999999999995,8
+Hiroshi Fukazawa,6.1499999999999995,4
+Gabriel Friedman,6.1499999999999995,4
+Mayra Mendoza Villa,6.15,4
+Abhilash Kumar,6.15,4
+Rob Greenberg,6.15,4
+Paulo Rebelo,6.15,4
+Andrew J. Cohen,6.15,4
+Ui Seok Cho,6.15,4
+Sigfreid Barros Sanchez,6.15,4
+Kevin Willmott,6.15,8
+Don Payne,6.15,4
+Pietro Albino Di Pasquale,6.15,4
+Sudeshna Roy,6.15,4
+Seon-mi Kim,6.15,4
+Eshom Nelms,6.15,4
+Arshad Siddiqui,6.15,4
+Linda Pinet,6.15,4
+David Čálek,6.15,4
+Frank Goosen,6.15,4
+Jeffrey Nachmanoff,6.150000000000001,6
+Federica Pontremoli,6.153333333333333,15
+Alejandro Hernández,6.153846153846154,13
+Allan Loeb,6.153846153846154,13
+Vincent Poymiro,6.157142857142857,7
+Luc Bossi,6.157142857142857,7
+Shin Adachi,6.1571428571428575,7
+Bruno Dumont,6.1571428571428575,7
+Kim van Kooten,6.1571428571428575,7
+Cassandra Massardi,6.159090909090909,22
+Hisashi Saito,6.159999999999999,5
+Joyce Chan,6.159999999999999,5
+Bora Dağtekin,6.159999999999999,5
+Matthieu Delaporte,6.159999999999999,15
+Annamaria Morelli,6.159999999999999,5
+John Raphael Gonzaga,6.16,5
+Cory Edwards,6.16,5
+Chia-Ying Lee,6.16,5
+Timothy Dowling,6.16,5
+Angelo Libutti,6.160000000000001,10
+Sam Levinson,6.160000000000001,5
+Kim Soo-ah,6.160000000000001,5
+Davide Lantieri,6.163636363636365,11
+Abhimanyu Mukherjee,6.164285714285714,14
+Praveen Varma,6.166666666666667,6
+Dagmar Gabler,6.166666666666667,6
+Juan Miguel Sevilla,6.166666666666667,6
+Masashi Todayama,6.166666666666667,6
+Helena van der Meulen,6.166666666666667,6
+Keiko Aquino,6.166666666666667,15
+N. Linguswamy,6.166666666666667,15
+Chintan Gandhi,6.166666666666668,6
+Dimitrije Vojnov,6.166666666666668,9
+Gaëlle Macé,6.1684210526315795,19
+Gerardo Naranjo,6.17,10
+Aadesh K. Arjun,6.17,10
+Marc Cholodenko,6.171428571428571,7
+Ingo Haeb,6.171428571428571,7
+Debaloy Bhattacharya,6.171428571428571,7
+Wai Ka-Fai,6.172727272727272,22
+Pablo Solarz,6.173333333333333,15
+Madhan Karky,6.174999999999998,28
+Garima Wahal,6.175,4
+Stanislaw Lem,6.175,4
+Pascal Rabaté,6.175,4
+John Shackleton,6.175,4
+Olivia Hetreed,6.175,4
+Vara Prasad Varma,6.175,4
+Brian Nelson,6.175,4
+Siddharth-Garima,6.175,4
+Matheus Souza,6.175,4
+Andrew Klavan,6.175,4
+Alma Ganihar,6.175,4
+Tomasz Wasilewski,6.175,4
+León Siminiani,6.175,4
+Arlene Tamayo,6.175,4
+Amin Hajee,6.175,4
+Oren Uziel,6.175,4
+Liu Heng,6.175,4
+Ewa Cederstam,6.175,4
+Uttam Gada,6.175,4
+Ève Deboise,6.175000000000001,4
+Erlend Loe,6.175000000000001,8
+Jacques Boon,6.175000000000001,4
+Raphaël Jacoulot,6.175000000000001,4
+Craig Brewer,6.177777777777778,9
+Pupi Avati,6.178571428571429,14
+Zhu Wen,6.18,5
+Toni Trupia,6.18,5
+Sylvain Guy,6.18,5
+Jo Sol,6.18,5
+Yûsuke Kishi,6.18,5
+David Richardson,6.18,5
+John Hodge,6.18,10
+Martin Gypkens,6.18,5
+Daniel Monzón,6.18,5
+Matt Manfredi,6.180000000000001,10
+Yasuhiro Yoshida,6.180000000000001,5
+Ruth Rendell,6.180000000000001,5
+Kathrin Richter,6.180000000000001,5
+Conor McPherson,6.180000000000001,5
+Hiroko Kanasugi,6.180000000000001,15
+Phil Hay,6.180000000000001,10
+Aleksandr Borodyanskiy,6.180000000000001,10
+Arjun Gunnala,6.1800000000000015,5
+Kay Nguyen,6.183333333333333,6
+Naghmeh Samini,6.183333333333333,6
+Mick Davis,6.183333333333333,6
+Isao Kiriyama,6.183333333333333,6
+Haqi Achmad,6.183333333333334,6
+Laurence Coriat,6.183333333333334,6
+Peyman Ghassemkhani,6.183333333333334,6
+Simeon Wilkins,6.183333333333334,6
+José Carvalho,6.183333333333334,12
+Billy Frolick,6.183333333333334,6
+Newton Cannito,6.185714285714285,7
+Bozena Nemcová,6.185714285714286,7
+Michel Franco,6.187499999999999,8
+Rafael Cobos,6.1875,8
+Neeraj Pandey,6.188888888888888,9
+Park Soo-jin,6.188888888888889,9
+Pierre Chosson,6.1899999999999995,10
+Shuo Wang,6.1909090909090905,11
+Nicolas Saada,6.1909090909090905,11
+John Morris,6.1923076923076925,13
+Sean Anders,6.1923076923076925,13
+Nicholas Stoller,6.194736842105263,19
+Roy Iglesias,6.196551724137929,29
+Alexandre Rockwell,6.199999999999999,4
+Sam Voutas,6.199999999999999,4
+Mark Poirier,6.199999999999999,4
+Torbjörn Jansson,6.199999999999999,4
+Lise Macheboeuf,6.199999999999999,4
+Masashi Sada,6.199999999999999,6
+Christophe Dirickx,6.199999999999999,4
+Janardhana Maharshi,6.199999999999999,9
+Julien Lambroschini,6.199999999999999,5
+Ivy Ho,6.199999999999999,12
+Ryan Engle,6.199999999999999,4
+Jeff Pinkner,6.199999999999999,5
+Crisanto Aquino,6.199999999999999,4
+Massy Tadjedin,6.199999999999999,4
+Yeji Min,6.199999999999999,4
+Aude Py,6.199999999999999,6
+Laurent Guyot,6.199999999999999,4
+Tony Grisoni,6.199999999999999,9
+Jim Mickle,6.199999999999999,4
+Yograj Bhat,6.199999999999999,4
+Gina Marissa Tagasa,6.2,8
+Christine Laurent,6.2,4
+Joanes Urkixo,6.2,5
+Larry Karaszewski,6.2,5
+Richard Wenk,6.2,10
+Toranosuke Aizawa,6.2,4
+Sanal Kumar Sasidharan,6.2,5
+Augusto Mendoza,6.2,5
+Mohammad Rezaee Rad,6.2,5
+Akiko Nogi,6.2,4
+R. S. Durai Senthilkumar,6.2,4
+Matthew Miele,6.2,6
+Gaetano di Vaio,6.2,4
+Tom J. Astle,6.2,5
+Jan Forsström,6.2,7
+Matt Ember,6.2,5
+Géraldine Bajard,6.2,5
+Valentina Viso,6.2,4
+Ilja Haller,6.2,4
+Fuminori Nakamura,6.2,4
+K. Kalyan,6.2,4
+Rohit Gahlowt,6.2,4
+Urszula Antoniak,6.2,7
+Nina Crintzs,6.2,5
+Philippe Le Guay,6.2,10
+Auli Mantila,6.2,4
+Scott Alexander,6.2,5
+María Meira,6.2,5
+Shinsuke Sato,6.2,5
+Lisa Takeba,6.2,4
+Elisa Eliash,6.2,6
+Don Winslow,6.2,4
+Francisco Pedemonte,6.2,6
+Michael Crichton,6.2,4
+Barbara Alberti,6.2,6
+Tiago Santos,6.2,9
+Shirish Latkar,6.2,4
+James Ellroy,6.2,4
+Marshal Younger,6.200000000000001,5
+Noé Debré,6.200000000000001,13
+Abburi Ravi,6.203703703703703,27
+Jean-Claude Van Rijckeghem,6.204761904761905,21
+Gilles Marchand,6.205882352941176,17
+Robert Mark Kamen,6.207142857142858,14
+Gilles Taurand,6.208695652173913,23
+Chao-Bin Su,6.209090909090909,11
+Adam McKay,6.209375,32
+Jorge Guerricaechevarría,6.20952380952381,21
+Jean Cosmos,6.21,10
+David S. Goyer,6.2105263157894735,19
+Eric Heisserer,6.21111111111111,9
+Jared Stern,6.211111111111111,9
+Brock Norman Brock,6.211111111111111,9
+Ken Chubb,6.2124999999999995,8
+Marcelo Figueras,6.2142857142857135,7
+Brian Duffield,6.214285714285714,7
+Vladimir Valutskiy,6.214285714285714,7
+Gianni Romoli,6.2153846153846155,13
+Philippe Lasry,6.216666666666666,6
+Jeong-gu Shin,6.216666666666666,6
+Lalit Marathe,6.216666666666666,6
+Alonso Torres,6.216666666666666,6
+Annette Gozon,6.216666666666666,6
+Siwaporn Pongsuwan,6.216666666666666,6
+Vanessa Picciarelli,6.216666666666668,6
+Georges Simenon,6.216666666666668,6
+Sergio Casci,6.216666666666668,6
+Anggoro Saronto,6.216666666666668,6
+Sergey Petreykov,6.218181818181819,11
+Julia Hart,6.219999999999999,5
+Thomas Cheysson,6.22,5
+Kento Shimoyama,6.220000000000001,5
+Carthyk,6.220000000000001,5
+Scooter Corkle,6.220000000000001,5
+Ryker Chan,6.220000000000001,5
+Cory Krueckeberg,6.220000000000001,5
+Carl Ellsworth,6.220000000000001,5
+Fil Braz,6.220000000000001,5
+Salvatore De Mola,6.222222222222221,9
+José Saramago,6.225,4
+Flip van der Kuil,6.225,4
+Shigeru Morita,6.225,4
+Shama Zaidi,6.225,4
+Katrin Benedikt,6.225,4
+Kazuyuki Morosawa,6.225,4
+Byun Won-mi,6.225,4
+Morgan Pehme,6.225,4
+Shûhô Satô,6.225,4
+Jeff Stockwell,6.225,4
+Ronald Stephen Monteverde,6.225,4
+Steffen Haars,6.225,4
+Stevan Filipović,6.225,4
+Robert Gordon,6.225,4
+Fernando Morais,6.225,4
+Silvia Wolkan,6.225,4
+Patrick Minks,6.225,4
+Catarina Ruivo,6.225,4
+Yoo-jin Kim,6.225,4
+John Kamps,6.225,4
+Elke Rössler,6.225,4
+Elizabeth E. Schuch,6.225,4
+John Frey,6.225,4
+Creighton Rothenberger,6.225,4
+Stephen Fry,6.225,4
+David Grann,6.225,4
+Jani Pösö,6.2250000000000005,4
+A. Harsha,6.2250000000000005,4
+Adrian Zurita,6.2250000000000005,4
+Oriza Hirata,6.2250000000000005,4
+Susanne Freund,6.2250000000000005,4
+Josefina Trotta,6.2250000000000005,4
+Izumi Takahashi,6.226315789473685,19
+Masafumi Nishida,6.2272727272727275,11
+Teruo Abe,6.228571428571428,7
+Brian Bird,6.228571428571428,7
+Laura Paolucci,6.228571428571429,7
+Lucía Carreras,6.228571428571429,7
+Aditya Chopra,6.228571428571429,14
+Maurizio Braucci,6.2285714285714295,14
+Dan Mazer,6.2299999999999995,10
+Ray Figueroa,6.2299999999999995,10
+Jean van de Velde,6.2299999999999995,10
+Amitabh Bhattacharya,6.2299999999999995,20
+Cinco Paul,6.23076923076923,13
+Hiroaki Yoshikawa,6.233333333333333,6
+Mika Ohmori,6.233333333333333,9
+Eça de Queirós,6.233333333333333,6
+Zig Madamba Dulay,6.233333333333333,9
+Paul Van Carter,6.233333333333333,6
+Nathan Parker,6.233333333333333,6
+Seong-il Cheon,6.233333333333333,6
+Christopher Grøndahl,6.233333333333334,6
+Keigo Higashino,6.2349999999999985,20
+Oren Moverman,6.235,20
+Francesco Bruni,6.237037037037037,27
+Yeung Sin-Ling,6.2375,8
+Roger Avary,6.239999999999999,5
+Andrea Berloff,6.239999999999999,5
+Aleksey Mizgiryov,6.239999999999999,5
+David Weissman,6.24,5
+Cláudio Paiva,6.24,5
+Axel Hellstenius,6.24,5
+Daniela Baumgärtl,6.24,5
+Gabriel García Márquez,6.24,5
+Atul Tiwari,6.24,10
+Fernando Butazzoni,6.24,5
+Massimo Carlotto,6.24,5
+Linn-Jeanethe Kyed,6.24,5
+Dariela Ludlow,6.24,5
+Josh Boone,6.24,5
+William Painter,6.24,5
+Walter Fontana,6.24,5
+Filippo Gentili,6.24,5
+Fyodor Dostoevsky,6.242105263157894,19
+Heiko Drengenberg,6.242857142857142,7
+Tamer Habib,6.242857142857142,7
+Bipin Chandran,6.242857142857142,7
+Joe Maggio,6.242857142857143,7
+Yuriy Korotkov,6.24375,16
+Takeharu Sakurai,6.244444444444444,9
+Taeko Asano,6.244444444444444,9
+Scot Armstrong,6.2444444444444445,9
+Ken'ichi Suzuki,6.2444444444444445,9
+Yôji Yamada,6.245454545454546,11
+Hans Gunnarsson,6.249999999999999,6
+Eduardo Mignogna,6.25,6
+Elissa Matsueda,6.25,4
+Santiago Hadida,6.25,4
+Sandrone Dazieri,6.25,4
+Lilian Lee,6.25,4
+David Leslie Johnson-McGoldrick,6.25,6
+Takuya Nishioka,6.25,4
+Doriana Leondeff,6.25,16
+Ka-Fai Wai,6.25,8
+Baldev Gill,6.25,6
+Irvine Welsh,6.25,6
+Eric Garcia,6.25,4
+Nikos Pastras,6.25,4
+Kees van Beijnum,6.25,4
+Gustavo Lipsztein,6.25,4
+Kris Elgstrand,6.25,4
+Pik-Wah Lee,6.25,4
+Sergio Oliveira,6.25,4
+Nennella Bonaiuto,6.25,4
+William Goldman,6.25,4
+Gunasekhar,6.25,4
+Andrea Paolo Massara,6.25,4
+Prabda Yoon,6.25,4
+Timmy Harn,6.25,4
+Emiliano Torres,6.25,6
+Olli Soinio,6.25,4
+Brian Hohlfeld,6.25,4
+Marc Klein,6.25,4
+Kei Kunii,6.250000000000001,4
+Keren Yedaya,6.250000000000001,4
+Daniel Schechter,6.250000000000001,6
+Joe R. Lansdale,6.250000000000001,4
+Jean-Pol Fargeau,6.254545454545456,11
+Lusa Silvestre,6.2555555555555555,9
+Andrew Davies,6.255555555555556,9
+Bhaskar Sakthi,6.257142857142858,7
+Aleksandr Gonorovskiy,6.26,5
+Leis Bagdach,6.26,5
+Philip Roth,6.26,5
+Rostislav Khait,6.26,10
+Chetan Bhagat,6.26,5
+Masahiko Kawahara,6.26,5
+Mark Andrus,6.26,5
+Vicente Alves do Ó,6.26,5
+Cindy Tang,6.26,5
+Ivan Ho,6.26,5
+Pablo Remón,6.26,5
+Kim Jin,6.26,5
+Leo Eduardo Mendoza,6.260000000000001,5
+Guo Junli,6.260000000000001,5
+Yuka Yamada,6.260000000000001,5
+Olivier Gorce,6.261538461538461,13
+Ingvar Ambjørnsen,6.266666666666667,6
+Ronald Shusett,6.266666666666667,6
+Luca de Benedittis,6.266666666666667,6
+María Laura Gargarella,6.266666666666667,6
+Salvador Roselli,6.266666666666667,6
+Merle Kröger,6.266666666666667,6
+Rody Vera,6.2666666666666675,15
+Hisako Kurosawa,6.27,10
+Valentín Javier Diment,6.2700000000000005,10
+Philippe Blasband,6.2705882352941185,17
+Chang Chia-lu,6.271428571428571,7
+Chun Sung-il,6.271428571428571,7
+Jun'ichirô Tanizaki,6.271428571428571,7
+Thomas Lilti,6.271428571428572,7
+A. Deepakraj,6.271428571428572,7
+Mel Mendoza-Del Rosario,6.272222222222223,54
+Mogens Rukov,6.2727272727272725,11
+Kin-Yee Au,6.273684210526315,19
+Jonas Chernick,6.2749999999999995,4
+Francesca Marciano,6.2749999999999995,12
+Jannik Johansen,6.2749999999999995,4
+David Foenkinos,6.2749999999999995,4
+Peter Buchman,6.2749999999999995,4
+Kay Cannon,6.2749999999999995,4
+Belén Gopegui,6.2749999999999995,4
+Lee Kyung-ui,6.2749999999999995,4
+André Nemec,6.275,4
+Alain Guiraudie,6.275,8
+Richard Řeřicha,6.275,4
+Eden Wan,6.275,4
+Nic Balthazar,6.275,4
+Patricio Vega,6.275,4
+Youssef Fade,6.275,4
+Ken Hixon,6.275,4
+Lia Bugnar,6.275,4
+Tore Renberg,6.275,4
+Josh Appelbaum,6.275,4
+Pierre Lamothe,6.275,4
+Jordan Horowitz,6.275,4
+Captain Mauzner,6.275,4
+Louis Mellis,6.275,4
+Valentin Chernykh,6.275,4
+Alex Holdridge,6.275,4
+Lou Inglebert,6.275,4
+Rachael Prior,6.275,4
+Cécile Vargaftig,6.275000000000001,12
+Pekko Pesonen,6.275000000000001,8
+Thamarai,6.276,25
+Chris Martinez,6.277272727272727,22
+Jérôme Tonnerre,6.277777777777779,18
+Eduardo del Llano,6.279999999999999,5
+Alex Orr,6.279999999999999,5
+Vlado Škafar,6.279999999999999,5
+Miguel Alcantara,6.279999999999999,5
+Katie Silberman,6.279999999999999,5
+Kurt Wimmer,6.279999999999999,10
+Nico Woche,6.279999999999999,5
+Philip Delmaar,6.279999999999999,5
+Brian Lynch,6.279999999999999,5
+Frank Houtappels,6.279999999999999,5
+Edgar Ilao,6.279999999999999,5
+Habiburrahman El Shirazy,6.279999999999999,5
+Adam Brooks,6.279999999999999,5
+Veeru Potla,6.28,10
+Lotte Tabbers,6.28,5
+Kamilla Krogsveen,6.28,5
+Don Bohlinger,6.28,5
+Dawn Higginbotham,6.28,5
+Gianni Cardillo,6.28,5
+Salvatore Sansone,6.28,5
+Mitchell Kapner,6.28,5
+Yasuo Hasegawa,6.281249999999999,16
+Frédérique Moreau,6.281818181818181,11
+Takashi Ujita,6.281818181818181,11
+Tin Shu Mak,6.283333333333332,6
+Mette M. Bølstad,6.283333333333332,6
+Meccartin,6.283333333333332,6
+Todd Komarnicki,6.283333333333332,6
+Ha Won-jun,6.283333333333334,6
+Yukiko Manabe,6.283333333333334,6
+Nathalie Saugeon,6.283333333333334,6
+John J. McLaughlin,6.283333333333334,6
+Nikolaj Frobenius,6.283333333333334,6
+Karey Kirkpatrick,6.285714285714284,14
+Dominik Moll,6.285714285714286,7
+Susannah Grant,6.285714285714286,7
+Marguerite Duras,6.285714285714286,7
+Rajshri Sudhakar,6.286666666666666,15
+Stefan Zweig,6.287499999999999,8
+Stéphane Malandrin,6.287499999999999,8
+Takeshi Aoshima,6.2875,8
+Hossein Amini,6.28888888888889,9
+Kaviraj,6.29,10
+Chris Morgan,6.293333333333333,15
+Yukiko Yamamuro,6.299999999999999,7
+Tsutomu Takahashi,6.299999999999999,4
+Suseenthiran,6.299999999999999,13
+Denis Diderot,6.299999999999999,4
+Callan Brunker,6.299999999999999,7
+John Sayles,6.3,10
+Brian Tse,6.3,7
+Robert Moresco,6.3,4
+Jesse Armstrong,6.3,5
+Fernando Castets,6.3,9
+Yasutaka Tsutsui,6.3,6
+Andrzej Grembowicz (Robert Brutter),6.3,4
+Marc Bisaillon,6.3,4
+Stefan C. Schaefer,6.3,6
+Cédric Kahn,6.3,7
+Robert Brutter,6.3,4
+Jérôme Fansten,6.3,4
+Kurt Voelker,6.3,4
+Sébastien Japrisot,6.3,4
+Key Mangunsong,6.3,4
+David Guggenheim,6.3,4
+Noel Ferrer,6.3,4
+Ben Sihombing,6.3,5
+Tung-Shing Yee,6.3,4
+Xu Haofeng,6.3,4
+Andy Andico,6.3,4
+Oscar Orlando Torres,6.3,6
+Torun Lian,6.300000000000001,4
+Balakumaran,6.300000000000001,9
+Gunnar Staalesen,6.300000000000001,8
+Shivgopal Krishna,6.300000000000001,4
+Antonio Manca,6.300000000000001,4
+Michael Proehl,6.300000000000001,4
+Lewis Colick,6.300000000000001,4
+Lily Y. Monteverde,6.300000000000001,13
+Park Yeon-seon,6.300000000000001,9
+Henry Burgos,6.300000000000001,5
+Osamu Tezuka,6.300000000000001,8
+Meghana Karthik,6.300000000000001,10
+George Wing,6.300000000000001,4
+David Koepp,6.300000000000002,14
+Emmanuèle Bernheim,6.300000000000002,7
+Snehan,6.305263157894736,19
+Ivan Cotroneo,6.307142857142856,14
+Massimo Gaudioso,6.308333333333334,24
+Lars Gudmestad,6.3090909090909095,11
+Filippo Gravino,6.31,10
+John Paul Bedia,6.31,10
+Riheam Junianti,6.3100000000000005,10
+Sudhir Mishra,6.3100000000000005,10
+Simon Kinberg,6.31111111111111,9
+Miyuki Miyabe,6.311111111111111,9
+Raymond To,6.3125,8
+Alfonso Suárez,6.312500000000001,8
+Satoshi Miki,6.314285714285714,7
+Pierre Hodgson,6.314285714285714,7
+Coral Cruz,6.314285714285714,7
+Won-jae Lee,6.314285714285715,7
+Kurt Van Der Basch,6.314285714285715,7
+Paz Alicia Garciadiego,6.314285714285715,7
+Daniel García Molt,6.316666666666666,6
+Giancarlo De Cataldo,6.316666666666666,6
+Michel Gaztambide,6.316666666666666,12
+Nabil Ben Yadir,6.316666666666666,6
+Alberto Marini,6.316666666666667,12
+Chi-Keung Fung,6.318181818181818,11
+Silvia Scola,6.319999999999999,5
+Dwight Gaston,6.319999999999999,10
+Margaret Glover,6.319999999999999,5
+Sinar Ayu Massie,6.319999999999999,5
+Joe Shrapnel,6.319999999999999,5
+Shinobu Goto,6.319999999999999,5
+Noh Hye-young,6.32,5
+Chris White,6.32,5
+Rayya Makarim,6.32,5
+Vladimir Sorokin,6.32,5
+Carlo Bernard,6.32,5
+Erik Stolhanske,6.32,5
+Marc Wels,6.32,5
+Doug Miro,6.32,5
+Hye-yeong No,6.32,5
+Teresa Pelegri,6.32,5
+Ismaël Ferroukhi,6.32,5
+Jujur Prananto,6.321052631578947,19
+Ryô Takada,6.322222222222221,9
+Danelle Davenport,6.324999999999999,4
+Kara Holden,6.324999999999999,4
+Lorraine Lévy,6.324999999999999,4
+Georgina Riedel,6.324999999999999,4
+Émile Zola,6.324999999999999,4
+Douglas Coupland,6.324999999999999,4
+Wladyslaw Pasikowski,6.324999999999999,4
+Salah El Gehiny,6.324999999999999,4
+Wui-Sin Chong,6.324999999999999,4
+Gregory Marquette,6.324999999999999,4
+Laura Terruso,6.324999999999999,4
+Enfys Dickinson,6.325,8
+George Asakura,6.325,4
+Yûji Sakamoto,6.325,4
+Robert Edwards,6.325,4
+Valentina Capecci,6.325,4
+Gloria Malatesta,6.325,4
+Robert Buchschwenter,6.325,4
+Alessio Cremonini,6.325,4
+Jerry Bingham,6.325,4
+Kim Ho-sik,6.325000000000001,4
+Hatem Khraiche,6.325000000000001,4
+Pon Parthiban,6.328571428571428,7
+Vicente Leñero,6.328571428571429,7
+Kei Watanabe,6.333333333333333,6
+Sukhdev Singh,6.333333333333333,9
+Gonzalo Delgado,6.333333333333333,6
+Fran Araújo,6.333333333333333,6
+Marko Leino,6.333333333333333,9
+Kazunori Itô,6.333333333333333,6
+Olivier Lorelle,6.333333333333334,15
+Shigenori Takechi,6.3375,8
+Vairamuthu,6.339130434782608,23
+Oleg Antonov,6.339999999999999,5
+Todd Solondz,6.339999999999999,5
+Lawrence Konner,6.339999999999999,5
+Shunji Iwai,6.339999999999999,5
+Jang Yoon-mi,6.339999999999999,5
+Jon Bokenkamp,6.34,5
+Siddharth Singh,6.34,5
+Verónica Fernández,6.34,5
+Subhash Kapoor,6.34,5
+Shana Feste,6.34,5
+Felix Chong,6.340740740740741,27
+Jérôme Salle,6.3428571428571425,7
+Antonio Onetti,6.3428571428571425,7
+Tomoe Kanno,6.3428571428571425,7
+Martin Rauhaus,6.3428571428571425,7
+Claude Lalonde,6.3428571428571425,7
+Masa Nakamura,6.3428571428571425,7
+Hiro Arikawa,6.342857142857143,7
+Shin Dong-ik,6.344444444444445,9
+Hiroshi Saitô,6.344444444444445,18
+Nikos Panayotopoulos,6.344444444444445,9
+Tunde Babalola,6.344444444444445,9
+Francesco Piccolo,6.345,20
+Mahesh Narayanan,6.345000000000001,20
+Anonymous,6.345454545454545,11
+Yee Shan Yeung,6.349999999999999,8
+Natalya Nazarova,6.349999999999999,12
+Oi Wah Lam,6.35,8
+Lea Schmidbauer,6.35,4
+George LaVoo,6.35,4
+Jonathon E. Stewart,6.35,4
+Yew Kwang Han,6.35,4
+Rafael Pinto,6.35,4
+Anwari Ashraf,6.35,4
+Marco Dutra,6.35,4
+Paul Mayeda Berges,6.35,8
+Benjamin Heisenberg,6.35,4
+Dong-Sun Shin,6.35,4
+Mariano Vanhoof,6.35,4
+Pierre Schoeller,6.35,4
+Pierpaolo Pirone,6.35,4
+Krzysztof Piesiewicz,6.35,4
+Shoichi Mashiko,6.35,4
+Derek Nguyen,6.35,4
+Andrea Porporati,6.35,4
+Pierre De Clercq,6.35,8
+Arif Aliev,6.3500000000000005,4
+Daisuke Miura,6.3500000000000005,6
+Kim Jae-hwan,6.3500000000000005,6
+Sameer Sharma,6.3500000000000005,6
+Henk Pretorius,6.3500000000000005,4
+Maureen Dorey,6.3500000000000005,6
+Pierre Daudelin,6.3500000000000005,6
+Laurent Tirard,6.3500000000000005,12
+Jules Katanyag,6.3500000000000005,4
+Tamio Hayashi,6.3500000000000005,22
+Leigh Whannell,6.3500000000000005,6
+Ansel Faraj,6.3500000000000005,4
+Vincent Tavier,6.3500000000000005,4
+Arauco Hernández Holz,6.3500000000000005,4
+Todd Edwards,6.3500000000000005,4
+Tin-Shing Yip,6.3500000000000005,14
+Yûko Matsuda,6.354545454545455,11
+Michael Petroni,6.355555555555556,9
+Hiroshi Hashimoto,6.355555555555556,9
+Rajkumar Santoshi,6.355555555555556,9
+Akiva Goldsman,6.357142857142856,28
+Umberto Contarello,6.357142857142857,14
+Jon Spaihts,6.359999999999999,5
+Nicholas Meyer,6.359999999999999,5
+Denoy Navarro-Punio,6.359999999999999,5
+Srđan Dragojević,6.359999999999999,5
+Otsuichi,6.359999999999999,10
+Anil Radhakrishnan Menon,6.359999999999999,5
+Masahiro Kobayashi,6.359999999999999,15
+Daniel Remón,6.359999999999999,5
+Mariano Llinás,6.36,5
+Anton Santamaria,6.36,5
+Mher Mkrtchyan,6.36,5
+William Davies,6.36,10
+Cheng Hsiao-Tse,6.36,5
+Shôhei Manabe,6.36,5
+Lorene Scafaria,6.360000000000001,5
+Hugo Heinen,6.360000000000001,5
+Daniel Taplitz,6.360000000000001,5
+Yuiko Miura,6.362500000000001,8
+Miguel Machalski,6.363157894736841,19
+Sukumar,6.366666666666666,6
+Lev Tolstoy,6.366666666666666,9
+Leonel D'Agostino,6.366666666666666,9
+Veiko Õunpuu,6.366666666666667,6
+Hae-jun Lee,6.366666666666667,6
+Rona Lean Sales,6.366666666666667,6
+Tonino Guerra,6.37,10
+Andrew Paredes,6.371428571428571,7
+Baya Kasmi,6.371428571428572,7
+Yoshio Urasawa,6.371428571428572,7
+Lewis Carroll,6.374999999999999,4
+Tom Musca,6.375,4
+Panagiotis Evangelidis,6.375,4
+Evan Goldberg,6.375,8
+Surendra Krishna,6.375,4
+Vasiliy Sigarev,6.375,4
+Yumiko Kamiyama,6.375,4
+Zack Anderson,6.375,4
+Kazune Kawahara,6.375,4
+Sam Akina,6.375,4
+Jason Chong,6.375,4
+Cushla Dillon,6.375,4
+Per Schreiner,6.375,4
+Firmino Holanda,6.375,4
+Riz Story,6.375,4
+Fen Tian,6.375,4
+Enda Walsh,6.375,4
+Lola Salvador,6.375,4
+Dan Harris,6.375,8
+Tomoko Ogawa,6.375,4
+Kim Fupz Aakeson,6.377419354838709,31
+Felipe Bragança,6.377777777777777,9
+Andreas Steinhöfel,6.379999999999999,5
+Ümit Ünal,6.38,10
+Jason Fuchs,6.38,5
+Jean-Luc Fromental,6.38,5
+D.S. Kannan,6.38,10
+Yoshihiro Izumi,6.38,5
+Justin Monjo,6.38,5
+Gibrán Portela,6.38,5
+Valentina Ferlan,6.38,5
+Francis Veber,6.38,5
+Pradeep Krishnamoorthy,6.38,5
+Cormac McCarthy,6.38,5
+Alex Buresch,6.380000000000001,5
+Paolo Genovese,6.380952380952381,21
+Erika Yoshida,6.383333333333332,6
+Joe Stillman,6.383333333333333,6
+Takeshi Obata,6.383333333333333,6
+Lawrence Kasdan,6.383333333333333,6
+Jessica Hausner,6.383333333333333,6
+Tsugumi Ôba,6.383333333333333,6
+Ira Sachs,6.383333333333333,6
+Declan May,6.383333333333333,6
+Natalia Smirnoff,6.383333333333334,6
+Yoshinobu Kamo,6.383333333333334,6
+Marcela Guerty,6.383333333333334,6
+Aurelio Grimaldi,6.385714285714285,7
+Julia Davis,6.385714285714286,7
+Claudio Piersanti,6.385714285714286,7
+Chi-long To,6.387499999999999,8
+David Lindsay-Abaire,6.3875,8
+Carlo Mazzacurati,6.3875,8
+Ignacio del Moral,6.388888888888888,9
+Keiichi Hasegawa,6.388888888888888,9
+Antoine Jaccoud,6.388888888888889,9
+Mieke de Jong,6.39,10
+Marcel Beaulieu,6.390909090909091,11
+Chia-Lu Chang,6.390909090909091,11
+Ranjith Sankar,6.390909090909091,11
+Grégoire Vigneron,6.391666666666667,12
+Anders Frithiof August,6.399999999999999,7
+Kôsuke Mukai,6.3999999999999995,18
+Rob Allyn,6.3999999999999995,6
+Rubem Fonseca,6.3999999999999995,4
+Kim Young-ha,6.3999999999999995,4
+Martín Mauregui,6.3999999999999995,9
+Ian Olds,6.3999999999999995,9
+Michael M. Bilandic,6.3999999999999995,4
+Giovanni De Feo,6.3999999999999995,4
+Thomas Wendrich,6.3999999999999995,4
+Gonzalo Maza,6.3999999999999995,6
+Giovanna Pollarolo,6.3999999999999995,6
+Tómas Gislason,6.3999999999999995,5
+Geoffroy Grison,6.3999999999999995,7
+Jimmy Karlsson,6.3999999999999995,7
+Adam Zucker,6.3999999999999995,4
+Bounty Umbara,6.3999999999999995,7
+Kittu Vissapragada,6.3999999999999995,4
+Ma Dae-yun,6.3999999999999995,7
+Tin Nam Chun,6.3999999999999995,9
+Chun Tin-Nam,6.3999999999999995,10
+Dominic Harari,6.3999999999999995,6
+Yûki Satô,6.3999999999999995,6
+Anjum Rajabali,6.4,10
+Ali Asghari,6.4,4
+Sayaka Kuwamura,6.4,4
+Andrew Lloyd Webber,6.4,4
+Arun Shekhar,6.4,4
+Alex Smith,6.4,4
+Mark Levin,6.4,4
+Kaori Eguni,6.4,4
+Daniel Barnz,6.4,4
+John Romano,6.4,4
+Maryanne Zéhil,6.4,4
+Mark Protosevich,6.4,5
+Vaibhav Suman,6.4,5
+Hilton Lacerda,6.4,19
+Monica Rametta,6.4,5
+David Jakubovic,6.4,4
+Igor Tudvasev,6.4,4
+Jennifer Flackett,6.4,4
+Annekatrin Hendel,6.400000000000001,6
+Joe Carnahan,6.400000000000001,12
+Hideo Okuda,6.400000000000001,6
+Nicole Holofcener,6.400000000000001,6
+Jorge Goldenberg,6.407692307692309,13
+Peter Straughan,6.409090909090909,11
+Angelo Pasquini,6.411111111111111,9
+Scott Rosenberg,6.4125,8
+Ritesh Shah,6.4125000000000005,24
+Lee Ji-min,6.4125000000000005,8
+Shôtarô Oikawa,6.4125000000000005,8
+S. D. Vijay Milton,6.413333333333333,15
+Danny McBride,6.414285714285713,7
+Marcos Bernstein,6.414285714285714,14
+Jae-young Kwak,6.4142857142857155,7
+Inés Bortagaray,6.416666666666667,6
+Dave Eggers,6.416666666666667,6
+Enric Rufas,6.416666666666667,6
+Ann Peacock,6.416666666666667,6
+Leonardo Fasoli,6.419999999999999,5
+S. Craig Zahler,6.419999999999999,5
+Yeong-man Heo,6.419999999999999,5
+Matthew Petock,6.42,5
+Young-jong Lee,6.42,5
+Hae-Young Lee,6.42,5
+Jody Savin,6.42,5
+Masayoshi Azuma,6.42,5
+Frank Baiz Quevedo,6.422222222222222,9
+Himanshu Sharma,6.4222222222222225,9
+Parveez Sheikh,6.4222222222222225,9
+Jae-yun Lee,6.424999999999999,4
+Li Fang,6.425,4
+Shawn Christensen,6.425,4
+Senedy Que,6.425,12
+Joe Penhall,6.425,4
+Michael Robert Johnson,6.425,4
+Eduardo Benaim,6.425,4
+Sergio Mazza,6.425,4
+Akshat Verma,6.425,4
+Ricardo Benet,6.425,4
+Maria Speth,6.425000000000001,4
+S.S. Kanchi,6.425000000000001,4
+Dean Georgaris,6.425000000000001,8
+Nebojsa Romcevic,6.425000000000001,4
+Christian Zübert,6.425000000000001,12
+Jun'ya Ikegami,6.425000000000001,4
+Anne Barnhoorn,6.425000000000001,4
+Shotaro Ishinomori,6.426923076923075,26
+Tai-lee Chan,6.427272727272728,11
+Gabriela Vidal,6.428571428571429,7
+Ruth Toma,6.429411764705883,17
+Tamara Bos,6.4300000000000015,10
+James V. Hart,6.433333333333334,6
+Ching 'Jessica' Fong,6.433333333333334,6
+Michiru Shimada,6.433333333333334,6
+Alicia Luna,6.433333333333334,6
+Andrew Bovell,6.433333333333334,6
+John Gatins,6.433333333333334,9
+Ryôta Kosawa,6.435714285714285,14
+Jerry Gracio,6.435714285714285,28
+Wallace Wolodarsky,6.4363636363636365,11
+Anna Waterhouse,6.4375,8
+Alan Yuen,6.437500000000001,8
+Thomas Bidegain,6.438095238095239,21
+Shaun Grant,6.4399999999999995,5
+Katsutoshi Hirabayashi,6.4399999999999995,5
+Laeta Kalogridis,6.4399999999999995,10
+Ken Kaufman,6.44,5
+François Pirot,6.44,5
+Serge Frydman,6.44,10
+Danie Bester,6.44,5
+Federico García Lorca,6.44,5
+Jimmy Gimferrer,6.44,5
+Etienne Comar,6.44,5
+Katell Quillévéré,6.44,5
+Rogier de Blok,6.44,5
+Marcelo Vindicato,6.44,5
+Roald Dahl,6.44,5
+Jo Seul-ye,6.442857142857142,7
+Sayeed Quadri,6.442857142857143,7
+Yûichi Shinbo,6.442857142857143,7
+Narges Takesh,6.442857142857143,7
+Lola Huo Xin,6.442857142857143,7
+Jack Thorne,6.444444444444445,9
+Rasmus Heisterberg,6.444444444444445,18
+Harold Manning,6.445454545454546,11
+Di Moretti,6.449999999999998,10
+Rie Yokota,6.449999999999999,4
+Huh Young-man,6.449999999999999,6
+Brittany Huckabee,6.449999999999999,4
+Del Shores,6.449999999999999,4
+Fabio Carpi,6.449999999999999,4
+Stéphane Bouquet,6.449999999999999,4
+Ian Lauzon,6.449999999999999,4
+Milan Dor,6.449999999999999,4
+Ryû Murakami,6.449999999999999,4
+Shiwon Miura,6.45,6
+Joseph Conrad,6.45,6
+Yao Wang,6.45,4
+Iglika Triffonova,6.45,4
+Jo Joong-hoon,6.45,4
+Jean-Claude Bernardet,6.45,4
+Xiaodong Xie,6.45,4
+Max Mannix,6.45,4
+Angelo Carbone,6.45,8
+Jûzô Yamasaki,6.45,10
+Wessam Soliman,6.45,4
+Laura Sabatino,6.45,4
+Min-ho Song,6.45,4
+Ken'ichi Kitami,6.45,10
+Vince Peets,6.45,4
+David Mamet,6.450000000000001,8
+Alice Mak,6.450000000000001,4
+Park Jung-woo,6.455555555555557,9
+Jeremy Brock,6.455555555555557,9
+Jerome Zamora,6.457142857142856,7
+Kim Dae-woo,6.457142857142856,7
+Jatinder Lall,6.457142857142857,7
+Tsutomu Kuroiwa,6.457142857142857,7
+Wolfgang Kohlhaase,6.457142857142857,7
+Makoto Fukami,6.459999999999999,5
+Shridhar Raghavan,6.459999999999999,10
+Haruki Murakami,6.459999999999999,5
+Seok-Hwan Choi,6.459999999999999,10
+Christopher Kenneally,6.459999999999999,5
+Santosh Aechikkanam,6.459999999999999,5
+Seong-hyeob Yu,6.459999999999999,5
+Esther Bernstorff,6.459999999999999,5
+Micah Bloomberg,6.459999999999999,5
+David McKenna,6.460000000000001,5
+Robert Consing,6.461538461538461,13
+Rustam Ibragimbekov,6.463636363636363,11
+Steven Knight,6.46470588235294,17
+Sergio G. Sánchez,6.466666666666666,6
+Dirmawan Hatta,6.466666666666666,6
+Arivu,6.466666666666668,6
+Robin Campillo,6.470000000000001,10
+Lee Hall,6.471428571428571,7
+Dick Clement,6.471428571428572,7
+Ian La Frenais,6.471428571428572,7
+Alejandro Fadel,6.472727272727273,11
+Stephen Cleary,6.475,4
+Emmanuelle Jacob,6.475,4
+Gilliann Ebreo,6.475,4
+Stefan Hillebrand,6.475,4
+Lee Won-jae,6.475,4
+Dave Hagen,6.475,4
+Robert Bolesto,6.475,4
+Antonio Nuić,6.475,4
+Jirí Soukup,6.475,4
+Shadmehr Rastin,6.475,4
+Jordi Galceran,6.475,4
+Link Sng,6.475,4
+Andrea Piva,6.475,4
+Erling Jepsen,6.475,4
+Zuzana Liová,6.475,4
+Zaza Buadze,6.4750000000000005,4
+Rafi Pitts,6.4750000000000005,4
+Yukiko Mochiji,6.4750000000000005,4
+Gennadiy Ostrovskiy,6.477777777777778,9
+Wael Abd-Allah,6.4799999999999995,5
+Wash Westmoreland,6.4799999999999995,5
+Derek Kolstad,6.4799999999999995,5
+Michael Rowe,6.4799999999999995,5
+Mariana Ricardo,6.4799999999999995,10
+Sherwin Buenvenida,6.4799999999999995,5
+Annie M.G. Schmidt,6.4799999999999995,5
+Akira Kurosawa,6.4799999999999995,5
+Piu Syarif,6.4799999999999995,5
+Anthony Hines,6.480000000000001,5
+George Moura,6.4818181818181815,11
+Yasmina Khadra,6.483333333333333,6
+Brandon Sonnier,6.483333333333333,6
+Justin Haythe,6.483333333333333,6
+David Gleeson,6.483333333333333,6
+Levent Kazak,6.483333333333333,6
+Cécile Telerman,6.483333333333333,6
+Christopher Ford,6.483333333333333,6
+Lucía Puenzo,6.483333333333334,12
+Lauren Faust,6.483333333333334,6
+Ivan Vyrypaev,6.4875,8
+Hwang Sung-goo,6.4875,8
+Seong-gu Hwang,6.488888888888889,9
+Ognjen Svilicic,6.48888888888889,9
+Vivek,6.491666666666667,12
+Yip Tin-Shing,6.492307692307692,13
+Javier Alastruey,6.499999999999999,4
+Yiwei Liu,6.499999999999999,4
+David Twohy,6.499999999999999,6
+Chiho Watanabe,6.5,5
+Diao Yi'nan,6.5,4
+Ajit Dalvi,6.5,4
+Abdi Nazemian,6.5,4
+Cláudia Jouvin,6.5,5
+Shellee,6.5,7
+Novia Faizal,6.5,4
+Chris Baker,6.5,7
+Seth Grahame-Smith,6.5,6
+Lluís Arcarazo,6.5,6
+Lucinda Coxon,6.5,4
+Michael Brown,6.5,5
+Jan Eilander,6.5,5
+Eugene Kotlyarenko,6.5,5
+Jamie Linden,6.5,4
+Sachin Kundalkar,6.5,5
+Jon Red,6.5,4
+Paavo Westerberg,6.5,4
+Arjun,6.5,4
+Vivienne Young,6.5,4
+Ognjen Sviličić,6.5,4
+Simon van der Borgh,6.5,6
+Roger Bohbot,6.5,11
+Chan Tai-Li,6.5,9
+Lars Kjeldgård,6.5,4
+L.A. Marzulli,6.5,4
+Lars Kristian Andersen,6.5,5
+Jeffrey M. Howard,6.5,4
+Suzanne Collins,6.5,5
+Mark Moretti,6.5,8
+Bálint Hegedûs,6.5,6
+Kurt Johnstad,6.5,4
+Fred Breinersdorfer,6.5,4
+Masao Iketani,6.5,4
+Lee Jung-hwa,6.5,9
+Kim Tak-hwan,6.5,6
+Tina Kruger,6.5,4
+Leonardo Padura,6.5,4
+Richard Somes,6.5,13
+Karin Michalke,6.5,4
+Jeong Ee-mok,6.5,6
+Carolina Kotscho,6.5,5
+Yannis Sakaridis,6.5,4
+Dani Patarra,6.5,4
+M.S. Raju,6.500000000000001,9
+Kankuro Kudo,6.500000000000001,4
+Ben York Jones,6.500000000000001,4
+Koratala Siva,6.500000000000001,7
+Marnie Blok,6.500000000000001,7
+Kang Pool,6.500000000000001,8
+Titien Wattimena,6.502857142857143,35
+Yoshito Usui,6.505263157894737,19
+Marçal Aquino,6.509090909090909,11
+Masashi Sogo,6.510526315789472,19
+Achim von Borries,6.51111111111111,9
+Jayamohan,6.511111111111111,9
+Nestor Abrogena Jr.,6.512499999999998,8
+Kankurô Kudô,6.512499999999999,16
+Rémi Bezançon,6.5125,8
+Surmeet Maavi,6.514285714285713,14
+Patrick John Valencia,6.514285714285714,7
+Piti Español,6.514285714285715,7
+Lee Yoo-rim,6.516666666666666,6
+Koki Mitani,6.516666666666666,6
+Hilman Hariwijaya,6.516666666666667,6
+Tomàs Aragay,6.516666666666667,6
+Yoichi Kato,6.516666666666667,6
+Amberdeep Singh,6.5181818181818185,11
+Shugo Praico,6.518181818181819,11
+Meg Leonard,6.5200000000000005,5
+Stephen Glantz,6.5200000000000005,5
+S. P. Jananathan,6.5200000000000005,5
+Peter Thorwarth,6.5200000000000005,5
+Maciej Karpinski,6.5200000000000005,5
+Nana Mulyana,6.5200000000000005,5
+Bernd Eichinger,6.5200000000000005,5
+Aleksey Borodachyov,6.5200000000000005,5
+Mariana Rondón,6.5200000000000005,5
+Nicolas Gueilburt,6.5200000000000005,10
+Steven Rogers,6.5200000000000005,5
+Jeremy Chilnick,6.5200000000000005,10
+Leslie Dixon,6.522222222222222,9
+Sita Menon,6.5249999999999995,4
+Francesco Maria Piave,6.5249999999999995,4
+Ken Kwek,6.5249999999999995,4
+Per Nielsen,6.5249999999999995,4
+Arthur Japin,6.525,4
+Noah Harpster,6.525,4
+Isabella Aguilar,6.525,4
+Takuji Ushiyama,6.525,4
+Ai Yazawa,6.525,4
+April Wright,6.525,4
+Micah Fitzerman-Blue,6.525,4
+Giorgia Cecere,6.525,4
+Samaresh Basu,6.525,4
+Chandoo Mondeti,6.525,4
+David Cohen,6.525,4
+Milo Addica,6.525,4
+Huldar Breiðfjörð,6.525,4
+Miha Hočevar,6.525,4
+Hafsteinn Gunnar Sigurðsson,6.525,4
+Nai-Hoi Yau,6.526086956521738,23
+Yau Nai-Hoi,6.5260869565217385,23
+John August,6.527272727272728,11
+Rieko Saibara,6.528571428571428,7
+Derek Connolly,6.528571428571429,7
+Satoko Okudera,6.529411764705881,17
+David Levien,6.529999999999999,10
+Mari Okada,6.529999999999999,10
+James Gunn,6.530769230769232,13
+Michel Fessler,6.531249999999999,16
+Jean-Claude Carrière,6.531250000000001,16
+J. Mills Goodloe,6.533333333333332,6
+Uro Q. dela Cruz,6.533333333333332,6
+George Nolfi,6.533333333333332,9
+Ólafur Egilsson,6.533333333333332,6
+Enzo Monteleone,6.533333333333332,6
+Kuninori Yamazaki,6.533333333333332,6
+Maya Forbes,6.533333333333333,9
+Bae Se-young,6.533333333333334,6
+Joaquim Jordà,6.533333333333334,6
+Aummaraporn Phandintong,6.533333333333334,6
+Jeremy Garelick,6.533333333333334,6
+Rowan Joffe,6.533333333333334,6
+Izuru Narushima,6.533333333333334,9
+Suzette Doctolero,6.533333333333334,6
+Se-yeong Bae,6.533333333333334,6
+Pablo Pichardo,6.5375,8
+Isa Campo,6.5375,8
+Jolein Laarman,6.5375000000000005,8
+Yasushi Fukuda,6.538461538461538,13
+Roger S.H. Schulman,6.539999999999999,5
+Franz Rodenkirchen,6.540000000000001,5
+Matt Lieberman,6.540000000000001,5
+Kris Pearn,6.540000000000001,5
+Sergei Bodrov,6.540000000000001,5
+Djordje Milosavljevic,6.541666666666667,12
+Masako Imai,6.542857142857143,7
+Aya Watanabe,6.542857142857144,7
+Natsuko Takahashi,6.544444444444443,9
+Nick Hornby,6.544444444444444,9
+Jean-Louis Milesi,6.544444444444445,9
+Manoj Tapadia,6.549999999999999,4
+Don Duyns,6.549999999999999,4
+Iain Dilthey,6.55,4
+Mark Franchetti,6.55,4
+J.M. Barrie,6.55,6
+Mark Kennedy,6.55,4
+A.A. Milne,6.55,4
+Min So-yeon,6.55,4
+Artur Brauner,6.55,4
+Kim Ki-duk,6.55,8
+Yeo Ji-na,6.55,4
+Thomas Schlesinger,6.55,4
+Tomoyuki Takahashi,6.55,4
+Jevons Au Man-Kit,6.55,4
+Elisabeth Perceval,6.55,4
+Junichi ii Iioka,6.55,4
+William Wheeler,6.55,6
+Francesco Trento,6.55,4
+Yoon Pil-joon,6.55,4
+Robert Geisler,6.55,4
+Natsuo Kirino,6.55,4
+Vasiliy Kutsenko,6.55,4
+Chaitanya Dantuluri,6.55,4
+Paula Markovitch,6.550000000000001,6
+Shinho Lee,6.550000000000001,4
+Gianni Di Gregorio,6.550000000000001,4
+Anton Smit,6.550000000000001,6
+Bonnie Zacherle,6.550000000000001,4
+Mahesh Manjrekar,6.550000000000001,4
+Jean Regnaud,6.550000000000001,4
+Nandyala Ravi,6.550000000000001,4
+Hsueh-Jung Liu,6.550000000000001,4
+Jonathan Hensleigh,6.550000000000001,4
+In-ho Hwang,6.550000000000001,4
+Alice Winocour,6.550000000000001,6
+A. L. Vijay,6.553846153846154,13
+Frank Miller,6.554545454545456,11
+Jirô Asada,6.5555555555555545,9
+Len Wiseman,6.557142857142856,7
+Harald Rosenløw-Eeg,6.557142857142857,14
+Arlette Langmann,6.557142857142858,7
+Mauricio Zacharias,6.557142857142858,7
+Stuart Blumberg,6.56,5
+Kenya Hirata,6.56,5
+Gaston Leroux,6.56,5
+Mauro Herce,6.56,5
+Saket Chaudhary,6.56,5
+Osamu Dazai,6.56,5
+Arturo Infante,6.5600000000000005,5
+Don Roos,6.5600000000000005,5
+Lucy Allwood,6.5600000000000005,5
+Raja Menon,6.5600000000000005,5
+Behnam Behzadi,6.5600000000000005,5
+Warren Drummond,6.563636363636365,11
+Ted Tally,6.566666666666666,6
+Santiago Mitre,6.566666666666666,9
+Manuela Dias,6.566666666666666,6
+Amrit Punjabi,6.566666666666666,6
+Kenneth Lonergan,6.566666666666666,6
+Kongdej Jaturanrasamee,6.566666666666666,6
+Benton Jew,6.566666666666667,9
+Raymond Lee,6.568749999999999,16
+Judd Apatow,6.568965517241378,29
+David Trueba,6.56923076923077,13
+Haruhiko Arai,6.57,10
+Pang Ho-cheung,6.572222222222223,18
+Kate Novack,6.574999999999999,4
+Ramón Salazar,6.574999999999999,8
+Mei Ah,6.574999999999999,4
+Mitsuyoshi Takasu,6.574999999999999,4
+Arturo Arango,6.574999999999999,4
+Lindsay Stidham,6.574999999999999,4
+Mirjam Oldenhave,6.574999999999999,4
+Akira Saso,6.574999999999999,4
+Lutz Lemke,6.575,4
+Atsuhiro Tomioka,6.575,4
+Charlene Sawit-Esguerra,6.575,4
+Osamu Murakami,6.575,4
+Pamela Katz,6.575,4
+Dado C. Lumibao,6.575,4
+David Henry Hwang,6.575,4
+Babu Singh Maan,6.575,8
+Hiromu Arakawa,6.575,4
+Hanneke Schutte,6.575,4
+Park Gyu-tae,6.575,4
+Kimiko Ueno,6.575,4
+Grant Heslov,6.575000000000001,4
+Yoshitaka Asama,6.575000000000001,8
+Bram Renders,6.575000000000001,4
+Brian Koppelman,6.5777777777777775,9
+Peter Baynham,6.577777777777778,9
+Raquel Villavicencio,6.577777777777778,9
+Marek Lescák,6.578571428571429,14
+Jan Guillou,6.58,5
+Ji Zhang,6.58,5
+Zhou Zhiyong,6.58,5
+Julian Fellowes,6.58,10
+Angeli Macfarlane,6.58,5
+Jon Hurwitz,6.58,5
+Hayden Schlossberg,6.58,5
+Mehran Kashani,6.58,5
+M.T. Vasudevan Nair,6.58,5
+Zhang Ji,6.58,5
+Eui-Mok Jung,6.58,5
+Masato Kato,6.58,15
+Gulshat Omarova,6.58,5
+Josh Klausner,6.58,5
+Jeff Nathanson,6.580000000000001,10
+Aram Rappaport,6.580000000000001,5
+Seo Yu-min,6.580000000000001,5
+Mark Fergus,6.580000000000001,5
+John Francis Daley,6.580000000000001,5
+Giannis Tsiros,6.580000000000001,5
+Jonathan Goldstein,6.580000000000001,5
+Fernando Javier León Rodríguez,6.580000000000001,5
+Margaret Mazzantini,6.580000000000001,5
+Hawk Ostby,6.580000000000001,5
+Jang Jin,6.58235294117647,17
+Anna Karenina Ramos,6.583333333333333,6
+Telmo Churro,6.583333333333333,6
+Masao Adachi,6.583333333333333,6
+Jeon Cheol-hong,6.583333333333333,6
+Matthew Michael Carnahan,6.583333333333333,6
+Mark Millar,6.583333333333335,6
+Naresh Kathuria,6.584615384615385,13
+Ángel de la Cruz,6.5857142857142845,7
+David Oelhoffen,6.5857142857142845,7
+Julia Solomonoff,6.585714285714286,7
+Willy Laconsay,6.585714285714286,7
+Bang Chu-Seong,6.5875,8
+Neal Purvis,6.5888888888888895,9
+Robert Wade,6.5888888888888895,9
+Joe Shuster,6.589999999999999,10
+Jerry Siegel,6.589999999999999,10
+Jim Taylor,6.590000000000001,10
+Laurent Zeitoun,6.591666666666666,12
+Catherine Paillé,6.592307692307693,13
+Vijayendra Prasad,6.595454545454547,22
+Anders Thomas Jensen,6.597222222222221,36
+Imtiaz Ali,6.599999999999999,12
+Chan Hon,6.6,4
+Vladislava Vojnovic,6.6,4
+George Toles,6.6,5
+Mia Jiao,6.6,4
+Volkan Sümbül,6.6,4
+David Barker,6.6,5
+Shôji Yonemura,6.6,14
+Étienne Comar,6.6,5
+Joel Venti,6.6,5
+Scott Kosar,6.6,4
+Mike Cachuela,6.6,7
+Emre Özdür,6.6,4
+Gary Damian Thomas,6.6,7
+Michael Katims,6.6,4
+Nick Pelham,6.6,4
+Liu Zhenyun,6.6,4
+Nikola Pejakovic,6.6,4
+Ricardo Acosta,6.6,4
+Rene Martin,6.6,4
+Ivan Arsenyev,6.6,5
+Josip Mlakic,6.6,5
+Boris Frumin,6.6000000000000005,7
+Mikhail Red,6.6000000000000005,6
+Andrew Niccol,6.6000000000000005,7
+Stephen J. Rivele,6.6000000000000005,6
+Dileesh Nair,6.6000000000000005,6
+Elmer L. Gatchalian,6.6000000000000005,7
+Randall Wallace,6.6000000000000005,4
+Sanjay Leela Bhansali,6.6000000000000005,12
+Mark Frost,6.6000000000000005,4
+Kambuzia Partovi,6.6000000000000005,12
+Satomi Ohshima,6.6000000000000005,4
+Mark Bomback,6.600000000000001,12
+Petr Jarchovský,6.604545454545455,22
+Nikolaj Arcel,6.60625,16
+Stuart Beattie,6.6066666666666665,15
+Jose Javier Reyes,6.6071428571428585,42
+Ken Scott,6.609090909090909,11
+Na Hyun,6.609999999999999,10
+Anton Chekhov,6.609999999999999,20
+Philip K. Dick,6.609999999999999,10
+Geoff Johns,6.611111111111111,9
+Graciela Maglie,6.611111111111111,9
+V. Nagendra Prasad,6.611764705882354,17
+Kuo-Fu Chen,6.612500000000001,16
+Lee Hae-jun,6.612500000000001,8
+Monica Zapelli,6.614285714285714,7
+Audrey Wells,6.614285714285715,7
+Sabrina Dhawan,6.614285714285715,7
+Dustin Lance Black,6.616666666666666,6
+Ethan Reiff,6.616666666666666,6
+Kim Yeong-seok,6.616666666666666,6
+Victor Navas,6.616666666666667,6
+Omar Guzmán,6.619999999999999,5
+Bent Hamer,6.619999999999999,5
+Laila Stieler,6.619999999999999,5
+Jenilee Chuaunsu,6.62,5
+E.T.A. Hoffmann,6.62,5
+Marjane Satrapi,6.62,5
+Veronika Franz,6.622222222222224,9
+Caarthick Raju,6.624999999999999,4
+Hiroya Oku,6.625,4
+Anthony Tambakis,6.625,4
+Felipe Sholl,6.625,8
+Joyce van Diepen,6.625,4
+Niccolò Ammaniti,6.625,4
+Luc Dionne,6.625,4
+Patrick Rotman,6.625,4
+Daniel Pyne,6.625,4
+Luisa Irene Ickowicz,6.625,4
+Pedro Delgado,6.625,4
+Ryota Furusawa,6.625,4
+Ching-Feng Cheng,6.625,4
+Jan Fleischer,6.625,4
+Peter Ettinger,6.625,4
+Chi-Man Wan,6.625,4
+Olivier Peyon,6.625,4
+Conor Horgan,6.625,4
+You-min Seo,6.625,4
+Bart De Pauw,6.625000000000001,4
+Jez Butterworth,6.628571428571428,7
+Efthymis Filippou,6.628571428571428,7
+James Gray,6.628571428571428,7
+Elena Soarez,6.63,10
+Robert Nelson Jacobs,6.633333333333333,6
+John Fusco,6.633333333333333,6
+Sekar Ayu Asmara,6.633333333333334,6
+Mauro Lima,6.633333333333334,9
+Erin Cressida Wilson,6.633333333333334,6
+Jeremy Leven,6.637499999999999,8
+Brett Hoffman,6.6375,8
+Ricardo F. Delgado,6.637500000000001,8
+Julie Billy,6.639999999999999,5
+Matthew Robbins,6.640000000000001,10
+Hajime Isayama,6.640000000000001,5
+Matthieu Taponier,6.640000000000001,5
+Ikbal Kuttipuram,6.640000000000001,10
+Keiko Misawa,6.640000000000001,5
+Abi Morgan,6.640000000000001,5
+Nicholas Gyeney,6.640000000000001,5
+Andy Schuhler,6.640000000000001,5
+Jay Oliva,6.641666666666668,12
+Manuel Rodríguez,6.642857142857144,7
+Emmanuel Courcol,6.644444444444444,9
+Kim Eun-jeong,6.644444444444444,9
+Hyeon Na,6.644444444444445,9
+William Shakespeare,6.6496644295302,149
+Eun-yeong Park,6.6499999999999995,4
+Jay Lavender,6.6499999999999995,4
+Jim Strouse,6.6499999999999995,6
+Anjeli Pessumal,6.6499999999999995,6
+Alex Hillkurtz,6.6499999999999995,6
+Hasan Telli,6.6499999999999995,4
+Xin Huo,6.6499999999999995,8
+Deepak Venkateshan,6.6499999999999995,4
+Melissa Mae Chua,6.6499999999999995,6
+Marcelo Gomes,6.6499999999999995,12
+Susanna Barandzhiyeva,6.6499999999999995,4
+Ryô Nishihara,6.6499999999999995,4
+Michael Berg,6.6499999999999995,4
+Matthew Metcalfe,6.6499999999999995,8
+Marc Robitaille,6.6499999999999995,6
+Zhenyun Liu,6.6499999999999995,6
+Michael P. Noens,6.65,4
+Harry Cripps,6.65,4
+Kim Hyo-kwan,6.65,4
+Froi Medina,6.65,4
+Zak Penn,6.65,14
+Imam Tantowi,6.65,4
+Bahareh Azimi,6.65,4
+Guido Iuculano,6.65,4
+Gábor Olivér Buss,6.65,4
+Karin van Holst Pellekaan,6.65,10
+Aina Xing,6.65,4
+Lorenzo Silva,6.65,4
+Marc Basch,6.65,4
+Lara Fremder,6.650000000000001,6
+Ifan Adriansyah Ismail,6.650000000000001,6
+Gary Scott Thompson,6.654545454545455,11
+Bernd Lange,6.655555555555555,9
+Alejandro Andújar,6.655555555555555,9
+Moira Lang,6.65625,16
+Lai-Yin Leung,6.657142857142858,7
+Jun Lana,6.6580645161290315,31
+John Ridley,6.659999999999999,5
+Lee Moo-young,6.659999999999999,5
+Gabriel Nuncio,6.659999999999999,5
+Pooja Ladha Surti,6.659999999999999,5
+Jeffrey Caine,6.660000000000001,5
+George Pérez,6.660000000000001,5
+Romain Compingt,6.660000000000001,5
+Alice Munro,6.660000000000001,5
+Matt Greenhalgh,6.660000000000001,5
+Ifan Ismail,6.660000000000001,5
+Franz Kafka,6.6625,8
+Sanjay,6.6642857142857155,14
+Bobby,6.6642857142857155,14
+Tey Clamor,6.666666666666667,12
+Jass Grewal,6.666666666666667,6
+Pool Kang,6.666666666666667,6
+Rodney Rothman,6.666666666666667,9
+Hyeon-jeong Kim,6.666666666666667,6
+Guillermo Arriaga,6.67,10
+Tom Abrams,6.671428571428572,7
+Filippo Bologna,6.672727272727272,11
+Abhijat Joshi,6.672727272727273,11
+Armando Lao,6.673333333333334,15
+Matt Cook,6.674999999999999,4
+Rin Eto,6.675,4
+Lucilla Schiaffino,6.675,4
+Praveen Sattaru,6.675,4
+N. Kalyanakrishnan,6.675,4
+Dato Chubinishvili,6.675,4
+Chienn Hsiang,6.675,4
+Warren Leonhardt,6.675,4
+Janez Burger,6.675,4
+Max Allan Collins,6.675000000000001,4
+Andrea Gibb,6.675000000000001,4
+Fredrik Myrtell,6.675000000000001,4
+Sachin Dharekar,6.675000000000001,4
+Marshall Herskovitz,6.675000000000001,4
+Aida Begić,6.675000000000001,4
+Robert Festinger,6.675000000000001,4
+Shotaro Suga,6.675000000000001,4
+Lee Man-hee,6.676923076923076,13
+Winston Acuyong,6.676923076923078,13
+Manoj Muntashir,6.677777777777778,9
+Christopher McQuarrie,6.677777777777778,9
+Rita Buzzar,6.68,5
+Philip Keller,6.68,10
+Sacha Gervasi,6.68,5
+Jane Schoenbrun,6.68,5
+Henry King Quitain,6.68,5
+Andrea Purgatori,6.68,5
+Stephen Kendrick,6.68,5
+Christina Lazaridi,6.68,5
+Omkar Mangesh Datt,6.68,5
+Olivier Adam,6.68,5
+Rolf Mahilom,6.68,5
+Musfar Yasin,6.68,5
+Jason Keller,6.6800000000000015,5
+Antonio Armonia,6.6800000000000015,5
+David Ray,6.6800000000000015,5
+Vanamali,6.6800000000000015,5
+Kate Leys,6.6800000000000015,5
+Sandro Petraglia,6.681250000000001,16
+Erwin Romulo,6.681818181818182,11
+Suk-yeon Lee,6.683333333333334,6
+Albert Espinosa,6.683333333333334,6
+Guillermo del Toro,6.683333333333334,6
+Cosetta Lagani,6.683333333333334,6
+Szabolcs Hajdu,6.685714285714285,7
+David Ayer,6.685714285714285,14
+Jack London,6.687499999999998,8
+Tara Illenberger,6.688888888888888,18
+D. Suresh,6.692307692307693,13
+Noah Baumbach,6.692857142857143,14
+Alex Kurtzman,6.69375,16
+Kim Leona,6.699999999999998,7
+Mohsen Makhmalbaf,6.699999999999999,6
+Thomas Bezucha,6.699999999999999,4
+Doug Klozzner,6.699999999999999,4
+Ståle Stein Berg,6.699999999999999,4
+Goran Tribuson,6.699999999999999,4
+Nancy Meyers,6.699999999999999,6
+Chan-wook Park,6.699999999999999,9
+David Riker,6.699999999999999,4
+Pedro Peirano,6.699999999999999,9
+Petter Skavlan,6.699999999999999,4
+Gook Dong-seok,6.699999999999999,4
+Ol Parker,6.7,6
+Raz de la Torre,6.7,8
+Yasuko Kobayashi,6.7,19
+Phil Johnston,6.7,6
+Stephen Hillenburg,6.7,4
+Hui-Ling Wang,6.7,8
+Emmanuel Gétaz,6.7,4
+William Monahan,6.7,7
+Adrian Lustig,6.7,7
+Archie Del Mundo,6.7,5
+Pamela Pettler,6.7,4
+A.N. Balakrishnan,6.7,14
+Cheol-Hong Jeon,6.7,5
+Ji-hye Kim,6.7,8
+Min Ye-ji,6.7,7
+Feri Lainscek,6.7,4
+Joseph Cedar,6.7,5
+Jade Castro,6.700000000000001,13
+Wang Hui-Ling,6.700000000000001,7
+Mark Burton,6.708333333333333,12
+Valentine Marvel,6.709090909090909,11
+Nicholas Sparks,6.710000000000001,10
+Ginatri S. Noer,6.711111111111111,9
+Ranjan Pramod,6.7125,8
+John Burgmeier,6.7125,8
+Collin Grant,6.7125,8
+Aramantono,6.713333333333334,15
+Luke Davies,6.7142857142857135,7
+Shûichi Yoshida,6.714285714285715,7
+Mate Matisic,6.716666666666666,6
+Yulene Olaizola,6.716666666666666,6
+Peter Craig,6.716666666666666,6
+Christopher Wilkinson,6.716666666666668,6
+Wayne Kramer,6.716666666666668,6
+Anita Remón,6.716666666666668,6
+Martín Salinas,6.716666666666668,6
+Manuel Muñoz Rivas,6.719999999999999,5
+Bong Ramos,6.720000000000001,5
+John H. Lee,6.720000000000001,5
+Sopana Chaowwiwatkul,6.720000000000001,5
+Svetoslav Ovtcharov,6.720000000000001,5
+Sudip Sharma,6.720000000000001,5
+John le Carré,6.720000000000001,5
+David Planell,6.725,4
+Luis Estrada,6.725,4
+Claudia Sainte-Luce,6.725,4
+Saadat Hassan Manto,6.725,4
+Juan Pablo Domenech,6.725,4
+Ron Nyswaner,6.725,4
+Aya Matsui,6.725,4
+Robert Rodat,6.725,4
+Jun Kumagai,6.725,4
+Michael Gutmann,6.725,4
+Hee-seon Dong,6.7250000000000005,4
+Guillermo Casanova,6.7250000000000005,4
+Yoon-jeong Hong,6.7250000000000005,4
+Beto Amaral,6.7250000000000005,4
+Satoko Morikawa,6.7250000000000005,4
+Maasthi Upparahalli,6.7250000000000005,4
+Mitsutaka Hirota,6.7250000000000005,4
+Pandiraj,6.7250000000000005,8
+Stan Lee,6.727118644067795,59
+C.H. Vijay Kumar,6.728571428571428,7
+Ichirô Ôkouchi,6.728571428571429,7
+Linda Woolverton,6.728571428571429,7
+Ted Griffin,6.7299999999999995,10
+Kate Whitney,6.733333333333333,6
+Prashanth Rajappa,6.733333333333333,6
+John Collee,6.733333333333334,15
+Upi Avianto,6.733333333333334,18
+Tow Ubukata,6.736363636363635,11
+Kazuki Nakashima,6.736363636363635,11
+Brian Helgeland,6.736363636363637,11
+Tomoko Yoshida,6.736363636363637,11
+Rabindranath Tagore,6.7368421052631575,19
+Roelof Jan Minneboo,6.7375,8
+Daniel Dencik,6.737500000000001,8
+Yoshikazu Okada,6.737500000000001,8
+Sujatha,6.738461538461538,13
+Oliver Keidel,6.739999999999999,5
+Michele Mulroney,6.739999999999999,5
+Jang Min-seok,6.739999999999999,5
+Emmanuel Carrère,6.74,5
+Balaji Mohan,6.74,5
+Nagaraju Gandham,6.74,5
+Timothy Burgard,6.74,5
+Jose Ramon Alama,6.74,5
+Theodore Boborol,6.742857142857142,7
+Lilly Wachowski,6.742857142857142,7
+Jeff Nichols,6.742857142857143,7
+Caetano Gotardo,6.749999999999999,6
+Mark Boal,6.749999999999999,6
+Artemio Abad,6.749999999999999,6
+Heinrich Hadding,6.749999999999999,4
+George Lucas,6.749999999999999,8
+Yoshinobu Nishizaki,6.749999999999999,4
+Shûgorô Yamamoto,6.75,4
+Stephen Cone,6.75,6
+Alex Law,6.75,4
+Brenda Chapman,6.75,4
+Eun-kyo Park,6.75,4
+Atanu Mukherjee,6.75,4
+Etienne Fourie,6.75,4
+Christopher Hampton,6.75,10
+Milan Trenc,6.75,4
+Mike Reiss,6.75,4
+Niren Bhatt,6.75,4
+Kenji Aoki,6.75,4
+Ernest Abdyjaparov,6.75,6
+Philippe Claudel,6.75,6
+Matt Allen,6.75,4
+Ivan Ramljak,6.75,4
+Park Eun-kyo,6.75,4
+Paul Dini,6.75,4
+Choi Ah-reum,6.75,4
+Nouri Bouzid,6.75,4
+Matthew Chapman,6.75,6
+Gaurav Sharma,6.75,4
+Krzysztof Kieslowski,6.75,4
+Urmi Juvekar,6.750000000000001,6
+John Michael McDonagh,6.750000000000001,4
+Ted Elliott,6.756249999999999,16
+Marv Wolfman,6.757142857142857,7
+Hwang In-ho,6.757142857142857,7
+Kim Ji-hye,6.757142857142858,7
+Ray Harvie,6.76,5
+Marcelo Rubens Paiva,6.76,5
+Vera Egito,6.76,5
+Susan Avingaq,6.76,5
+Kazuki Kaneshiro,6.76,5
+Vipul Sharma,6.76,5
+Jaideep Sahni,6.76,10
+John Coven,6.760000000000001,5
+Guillaume Laurant,6.760000000000001,10
+Moira Buffini,6.760000000000001,5
+Joby Harold,6.760000000000001,5
+Benni Setiawan,6.763636363636365,11
+Billy Ray,6.764285714285714,14
+Yoo Yeong-ah,6.765000000000001,20
+Min-seok Jang,6.766666666666666,6
+Ronald Bronstein,6.766666666666667,6
+Mohammad Reza Gohari,6.771428571428571,7
+Eun-Jeong Kim,6.771428571428571,7
+Dan Fogelman,6.7727272727272725,11
+Joelle Touma,6.7749999999999995,4
+Li-ting Tseng,6.7749999999999995,4
+Brad Ingelsby,6.7749999999999995,4
+Sai Madhav Burra,6.7749999999999995,12
+Dong-Woo Kim,6.7749999999999995,4
+Maria von Heland,6.775,4
+Peter Luisi,6.775,8
+Manduip Singh,6.775,4
+Yasushi Satô,6.775,4
+Caio Sóh,6.775,4
+Alvin Sargent,6.775,4
+Tomislav Radić,6.775,4
+Patrick Wang,6.775,4
+Felipe Braga,6.775,4
+Yogesh Vinayak Joshi,6.775,4
+Sameer Kohli,6.775,4
+Ricardo Lee,6.775675675675677,37
+Trivikram Srinivas,6.777272727272727,22
+Christian Carion,6.779999999999999,5
+Cyrus Voris,6.779999999999999,5
+Xue Xiaolu,6.779999999999999,5
+Lily Ann Martin,6.779999999999999,5
+Carlos Cuarón,6.780000000000001,10
+Myeong-chan Park,6.781818181818182,11
+Kazuhiko Katō,6.783333333333332,6
+Monkey Punch,6.783333333333332,6
+Frank Cottrell Boyce,6.783333333333334,12
+Upendra Sidhaye,6.783333333333334,6
+Peter Hedges,6.783333333333334,6
+Alejo Crisóstomo,6.785714285714286,7
+Mike Mignola,6.785714285714286,7
+Vanessa R. Valdez,6.785714285714286,21
+Shanker Raman,6.785714285714286,7
+Dong-ik Shin,6.7875000000000005,8
+Lee Suk-yeon,6.7875000000000005,8
+Man-Hee Lee,6.788888888888888,9
+Nalan Kumarasamy,6.789999999999999,10
+Paola Mammini,6.790000000000001,10
+Alex Garland,6.790000000000001,10
+Eliseo Altunaga,6.790909090909091,11
+Olivia M. Lamasan,6.793749999999999,16
+Joel Coen,6.795238095238096,21
+Ethan Coen,6.795238095238096,21
+Charles Randolph,6.8,6
+Danny Añonuevo,6.8,5
+David Nicholls,6.8,5
+Eric Ramsey,6.8,5
+Jeffrey Hatcher,6.8,5
+Alphonse Puthren,6.8,5
+Albert Camus,6.8,4
+Miroslav Mandic,6.8,4
+Jin Jang,6.8,8
+Ian McEwan,6.8,4
+Michael Davis,6.8,6
+Hiroyuki Yoshino,6.8,6
+Dan Hageman,6.8,5
+Neil Gaiman,6.8,5
+Ante Tomic,6.8,5
+Lorne Cameron,6.8,4
+Yoshihiro Nakamura,6.8,4
+Madhu Muttam,6.8,5
+Karen Janszen,6.8,5
+Yeong-ah Yoo,6.8,11
+Gary Ross,6.8,6
+Marieke van der Pol,6.8,5
+Saradindu Bandopadhyay,6.8,12
+Jörg Kalt,6.800000000000001,4
+Samuel Gray Anderson,6.800000000000001,4
+Fujio F. Fujiko,6.800000000000001,18
+Scott Z. Burns,6.800000000000001,9
+Florence Vignon,6.800000000000001,4
+Vijay Maurya,6.800000000000001,4
+Sanjay Maurya,6.811111111111111,9
+Jo-yun Hwang,6.811111111111111,9
+Dan Gilroy,6.8125,8
+Chihiro Itô,6.814285714285714,7
+Jimmy Flores,6.8166666666666655,6
+Matt Whitaker,6.816666666666666,6
+William Broyles Jr.,6.816666666666666,6
+Jane Clark,6.816666666666666,6
+Reiko Yoshida,6.81764705882353,17
+Swanand Kirkire,6.8187500000000005,16
+Shreyas Jain,6.8199999999999985,5
+Lee Soyeong,6.82,5
+Gene Colan,6.82,5
+Shaira Mella Salvador,6.82,5
+Carlos Daniel Malavé,6.82,5
+Katsuhiko Manabe,6.821428571428571,14
+Pooja Desai,6.824999999999999,4
+Io Sakisaka,6.824999999999999,4
+Lucas Paraizo,6.824999999999999,4
+Li Yang,6.824999999999999,4
+João Dumans,6.824999999999999,4
+Ivo Balenovic,6.824999999999999,4
+Yûichi Fukuda,6.825,4
+Ettore Scola,6.825,4
+Vanridee Pongsittisak,6.825,4
+Amitosh Nagpal,6.825,4
+T'ien-wen Chu,6.825,4
+Aki Katsu,6.825,4
+Chu Tien-wen,6.825,4
+Michael Glawogger,6.825,4
+Sheldon Turner,6.825,4
+Shane Black,6.825,4
+Éric Toledano,6.825,8
+Sebastián Brahm,6.825000000000001,8
+Roberto Orci,6.827272727272727,11
+Mateo Gil,6.828571428571428,7
+Choi Seok-hwan,6.828571428571428,7
+Chris Reccardi,6.828571428571428,7
+Uma Devi,6.828571428571429,7
+Richard LaGravenese,6.83,10
+Stephane Gauger,6.833333333333333,6
+Kenji Bando,6.833333333333333,9
+Bin Wang,6.833333333333333,6
+Paul Haggis,6.836363636363637,11
+Bob Kane,6.838888888888889,18
+Higashi Shimizu,6.840000000000001,5
+Peter Landesman,6.840000000000001,5
+Flávia Guimarães,6.840000000000001,5
+Paul Tamasy,6.840000000000001,5
+Fernando Molnar,6.840000000000001,5
+Jan Zabeil,6.840000000000001,5
+Katski Flores,6.840000000000001,5
+Kiyomi Fujii,6.842857142857143,7
+Salman Aristo,6.842857142857143,28
+Donny Dhirgantoro,6.849999999999999,6
+Young-seok Kim,6.85,4
+Raúl Monge,6.85,4
+Hiroshi Seko,6.85,4
+Lita Stantic,6.85,4
+Tony Gayton,6.85,4
+Laura Santullo,6.85,4
+Stefan Betz,6.85,4
+Mangesh Kulkarni,6.85,4
+Önder Çakar,6.85,4
+Frankie Bracero,6.85,4
+Marc Abdelnour,6.85,4
+Zsófia Ruttkay,6.8500000000000005,6
+Steve Conrad,6.8500000000000005,6
+Mary Rose Colindres,6.8500000000000005,4
+Victor Atherino,6.8500000000000005,4
+Anne Rosellini,6.8500000000000005,4
+Michael Dougherty,6.857142857142857,7
+Daisuke Tengan,6.857142857142857,7
+Michael Bacall,6.859999999999999,5
+Whammy Alcazaren,6.859999999999999,10
+Yutaka Izubuchi,6.859999999999999,5
+Jagdeep Sidhu,6.859999999999999,5
+Steelleet,6.859999999999999,5
+Jane Magnusson,6.859999999999999,5
+Vasan Bala,6.859999999999999,5
+Abhijeet Shirish Deshpande,6.859999999999999,10
+James Schamus,6.860000000000001,5
+Paul Fraser,6.860000000000001,5
+Chris McKenna,6.8625,8
+Josh Alexander,6.866666666666666,6
+James Ward Byrkit,6.866666666666666,6
+Vidhu Vinod Chopra,6.866666666666666,15
+Paul Jan Nelissen,6.866666666666667,6
+Jorge Furtado,6.870588235294117,17
+Kôji Takada,6.874999999999999,4
+Cheng Kuo,6.874999999999999,4
+Sydney Sibilia,6.875,4
+William T. Conway,6.875,4
+Wei Lu,6.875,4
+Michele Astori,6.875,4
+Christian Lerch,6.875,4
+Christopher L. Yost,6.875,4
+Marko Naberšnik,6.875,4
+Hwang Jo-yoon,6.875,8
+Manny R. Buising,6.875,4
+Filip David,6.875,4
+Chaitally Parmar,6.875,4
+Milcho Manchevski,6.875,4
+Lana Wachowski,6.875,4
+Michael H. Weber,6.877777777777776,9
+Scott Neustadter,6.877777777777776,9
+Jonas Banys,6.877777777777777,9
+Paulo Lins,6.88,5
+Eduardo Sacheri,6.88,5
+J. Michael Straczynski,6.88,5
+William Moulton Marston,6.88,5
+Michael Lewis,6.88,5
+Terry Rossio,6.883333333333332,18
+Wang Bin,6.883333333333333,6
+Hong Won-chan,6.883333333333333,6
+Michael Green,6.883333333333333,6
+Tom Stoppard,6.883333333333333,6
+Fernando León de Aranoa,6.883333333333333,12
+Bill Finger,6.884615384615385,13
+Chung Seo-kyung,6.885714285714285,7
+Makoto Ueda,6.8999999999999995,6
+Ayano Takeda,6.8999999999999995,4
+Kanae Minato,6.8999999999999995,4
+Paul Laverty,6.9,16
+Sang-yeon Park,6.9,4
+Anindya Bose,6.9,5
+Richard Phinney,6.9,4
+Hugo Gélin,6.9,4
+Mark O'Rowe,6.9,5
+Leslie Simmer,6.9,5
+William Steig,6.9,5
+Andrew Semans,6.9,4
+Ria Limjap,6.9,4
+Christine To,6.9,5
+Sunil Gangopadhyay,6.9,8
+Mark Anders,6.9,5
+José Luis Valle,6.9,4
+Charles Gozali,6.9,4
+Daniel Kehlmann,6.9,4
+Anthony Peckham,6.9,4
+Joakim Hansson,6.9,5
+Stephan Franck,6.9,5
+Gen Urobuchi,6.9,9
+Joko Anwar,6.9,5
+Emiko Hiramatsu,6.900000000000001,16
+Martin Asbury,6.906666666666666,15
+Emmanuel Dela Cruz,6.907692307692309,13
+Carl Joos,6.9125000000000005,8
+Len Wein,6.916666666666665,6
+Junko Komura,6.916666666666667,6
+Wu Si,6.92,5
+Jose Rivera,6.92,5
+Gosho Aoyama,6.921052631578948,19
+Céline Sciamma,6.922222222222222,9
+Pazhani Bharathi,6.925,4
+Frédéric Dieudonné,6.925,4
+Robert Siegel,6.925,4
+Dasaradh,6.925,4
+Vijay Tendulkar,6.925,4
+Alain-Michel Blanc,6.925,8
+Christian Linaban,6.925000000000001,4
+Anik Leray,6.925000000000001,4
+Asad Hussain,6.925000000000001,4
+Easy Ferrer,6.925000000000001,4
+Kevin Koch,6.925000000000001,4
+Marin Damyanov,6.925000000000001,4
+Travis Holt Hamilton,6.925000000000001,4
+Katherine Nolfi,6.925000000000001,4
+Juhi Chaturvedi,6.928571428571429,7
+Oriol Paulo,6.92857142857143,7
+Satyajit Ray,6.93,10
+Steve Ditko,6.9300000000000015,10
+Leiji Matsumoto,6.933333333333334,6
+Amaia Merino,6.937499999999999,8
+Stephanie Sheh,6.9375,8
+Scott Frank,6.937500000000001,8
+David Reynolds,6.937500000000001,8
+Sujatha Rangarajan,6.9399999999999995,15
+Jagdeep Singh,6.94,5
+Amedeo Pagani,6.94,5
+Cooky Ziesche,6.942857142857143,7
+Razvan Radulescu,6.943750000000001,16
+Irene Mecchi,6.949999999999999,4
+Ashok Mishra,6.949999999999999,4
+Roumella Monge,6.949999999999999,6
+Rogelio Rios,6.949999999999999,4
+Elena Kiseleva,6.95,4
+Stephen Chbosky,6.95,6
+Jan Sardi,6.95,4
+Yuri Zeltser,6.95,4
+Rahul Koda,6.95,4
+Daniel Chaia,6.95,6
+Priesnanda Dwisatria,6.95,6
+Johnny Byrne,6.950000000000001,4
+Suchitra Bhattacharya,6.950000000000002,6
+Olivier Nakache,6.955555555555556,9
+Nobuaki Kishima,6.957142857142856,7
+David Benioff,6.957142857142857,7
+Sanjay Chauhan,6.958333333333335,12
+José A. Paxtor,6.959999999999999,5
+Mitsuyo Kakuta,6.959999999999999,5
+João Falcão,6.959999999999999,5
+Guillermo Calderón,6.959999999999999,5
+Jason Wehling,6.959999999999999,10
+Nick Sung,6.960000000000001,5
+Prima Rusdi,6.960000000000001,5
+Shemi Zarhin,6.966666666666666,6
+Pawan Kumar,6.966666666666666,6
+Alan Moore,6.966666666666668,6
+Mike Rich,6.966666666666668,6
+Mohamed Diab,6.966666666666668,6
+Stefano Rulli,6.972727272727274,11
+David Hayter,6.975,4
+Heide Schwochow,6.975,4
+Michael Morpurgo,6.975,4
+Will Fetters,6.975,4
+Nejc Gazvoda,6.975,4
+Atsushi Nishigori,6.975,4
+Mauricio Lissovski,6.975,4
+Gabriel Hardman,6.9750000000000005,8
+Jack Golden Russell,6.9750000000000005,4
+George Clayton Johnson,6.9750000000000005,4
+Norman Cohn,6.9750000000000005,4
+Jayanth Kaikini,6.977777777777779,9
+Laurent Charbonnier,6.9799999999999995,5
+Josh Singer,6.9799999999999995,5
+Amr Salama,6.9799999999999995,5
+Raj Kumar Gupta,6.9799999999999995,5
+Anna Muylaert,6.9799999999999995,5
+Josella Porto,6.9799999999999995,5
+Simon Beaufoy,6.9818181818181815,11
+Charles Leavitt,6.983333333333333,6
+Eskil Vogt,6.983333333333333,6
+Riku Sanjyo,6.983333333333333,6
+Alexandru Baciu,6.983333333333333,6
+Sandeep Shrivastava,6.983333333333333,6
+Jennifer Lee,6.985714285714287,7
+Rhett Reese,6.987500000000001,8
+Eiichiro Oda,6.990909090909091,11
+Tony Gilroy,6.991666666666667,12
+Damon Lindelof,6.999999999999999,6
+Giuseppe Giacosa,7.0,5
+Kevin Hageman,7.0,4
+Luigi Illica,7.0,5
+Max Borenstein,7.0,5
+Rubén Mendoza,7.0,5
+Jimmy Henderson,7.0,4
+Antti Tuuri,7.0,4
+Johannes Naber,7.0,5
+Byeong-heon Lee,7.0,4
+Jean-Claude Grumberg,7.0,7
+Rik D'Hiet,7.0,4
+Mate Matišić,7.0,6
+Jobin Ballesteros,7.0,4
+Randall Lobb,7.0,5
+Adhitya Mulya,7.0,5
+Anggoro,7.0,5
+Ajay Kumar,7.0,4
+Katsumi Ishikawa,7.000000000000001,4
+Marvin Hier,7.012500000000001,8
+Luiz Bolognesi,7.015384615384614,13
+Florian Gallenberger,7.016666666666666,6
+Qiang Li,7.016666666666666,6
+Amanda Silver,7.016666666666667,6
+Rick Jaffa,7.016666666666667,6
+Unni R.,7.016666666666667,12
+Carmi Raymundo,7.018181818181819,22
+Syam Pushkaran,7.0200000000000005,10
+Peep Pedmanson,7.0200000000000005,5
+Rita Falk,7.0200000000000005,5
+Steven Zaillian,7.021428571428571,14
+Reema Kagti,7.022222222222222,9
+Alain Godard,7.0249999999999995,4
+Abrid Shine,7.0249999999999995,4
+Eric Roth,7.0249999999999995,8
+Bruce Geller,7.0249999999999995,4
+Carlos Muguiro,7.025,4
+C. S. Amudhan,7.025,4
+Supratik Sen,7.025,4
+Petra Biondina Volpe,7.025,4
+Jin-ho Yoon,7.025,4
+Eric Vale,7.025,4
+Jukki Hanada,7.027272727272727,11
+Masahiro Yokotani,7.030000000000001,10
+Michael Chabon,7.033333333333332,6
+Andrés Duprat,7.033333333333332,6
+Atlee,7.033333333333332,6
+Jack Youngelson,7.033333333333333,9
+Tite Kubo,7.033333333333334,6
+Ralston Jover,7.033333333333335,12
+K. V. Anand,7.035714285714286,14
+Jane Goldman,7.036363636363637,11
+Ronald Harwood,7.044444444444444,9
+Bagus Bramanti,7.044444444444444,9
+John Logan,7.046153846153846,13
+Rakesh Dhawan,7.049999999999999,4
+Miroslav Momcilovic,7.05,4
+Asghar Farhadi,7.05,12
+Srđan Koljević,7.05,4
+Dewi Lestari,7.05,6
+Samantha Strauss,7.05,4
+Andrus Kivirähk,7.05,4
+Mohinder Pratap Singh,7.05,4
+Sophie Sartain,7.05,4
+Gay Ace Domingo,7.05,4
+David Freedman,7.05,4
+R. Balki,7.05,6
+Pete McCormack,7.05,4
+Ping Shu,7.05,6
+Midhun Manuel Thomas,7.050000000000001,6
+Yan Geling,7.050000000000001,6
+Geling Yan,7.050000000000001,6
+Linda Ferri,7.050000000000001,4
+Drew Goddard,7.050000000000001,6
+Chris Butler,7.050000000000001,6
+Shirow Masamune,7.053846153846154,13
+Mark Andrews,7.055555555555556,9
+Tudor Voican,7.055555555555556,9
+Rahabi Mandra,7.057142857142858,7
+Bráulio Mantovani,7.058333333333333,12
+Kenji Uchida,7.06,5
+Ghalya Lacroix,7.06,5
+Etgar Keret,7.06,5
+Dennis Foon,7.066666666666666,6
+Denise O'Hara,7.066666666666666,6
+Kazunari Kouchi,7.066666666666666,9
+Paul Wernick,7.066666666666667,6
+Pierre Boulle,7.074999999999999,4
+Raju Murugan,7.074999999999999,4
+Rajani Ranjan,7.074999999999999,4
+Benedict Mique,7.075,4
+Vema Reddy,7.075,8
+Harun Farocki,7.075,4
+Anne Paschetta,7.075,4
+Mia Concio,7.075,4
+Rolando Ravello,7.075,4
+Joss Whedon,7.077777777777778,9
+Alejandro Amenábar,7.08,5
+Lara Sendim,7.08,5
+Sigrid Andrea Bernardo,7.08,5
+Mariangela Barbanente,7.08,5
+Vanessa Taylor,7.08,5
+Gabriel Rhodes,7.083333333333333,6
+Pa. Ranjith,7.083333333333333,6
+Noël Coward,7.083333333333333,6
+Chris Terrio,7.083333333333333,6
+Richard Epcar,7.085714285714286,7
+William Nicholson,7.087500000000001,8
+Seo-kyeong Jeong,7.099999999999999,6
+Robin Swicord,7.099999999999999,6
+Magizh Thirumeni,7.1,5
+Malay Javier,7.1,5
+Ian Fleming,7.1,4
+Khan Lee,7.1,4
+Richard Curtis,7.1,10
+Armando Bo,7.1,4
+Shûhei Fujisawa,7.1,8
+Pramod Singh,7.1,5
+Colin K. Gray,7.1000000000000005,4
+Joel Clark,7.1000000000000005,7
+Bibhutibhushan Bandyopadhyay,7.1000000000000005,6
+Masamune Shirow,7.1000000000000005,11
+Antoinette Jadaone,7.107692307692307,13
+Dante Nico Garcia,7.111111111111111,9
+Jesper Osmund,7.112500000000001,8
+Ashot Abrahamyan,7.116666666666666,6
+Nicolás Giacobone,7.116666666666667,6
+Shôgo Mutô,7.116666666666667,6
+Jack Kirby,7.116666666666667,24
+Takahiro Natori,7.12,5
+Patrick Marber,7.12,5
+Wei Te-sheng,7.12,5
+Debra Granik,7.12,5
+Enrico Tessarin,7.125,4
+Mark Heyman,7.125,4
+Akhilesh Jaiswal,7.125,4
+Won-Chan Hong,7.125,4
+William Joyce,7.125,4
+Manish Tiwari,7.125,4
+Laia Manresa,7.125,4
+Lee Jeong-beom,7.125,4
+David Silverman,7.125,4
+Arah Jell Badayos,7.125,4
+Christopher Markus,7.133333333333334,12
+Stephen McFeely,7.133333333333334,12
+John-Henry Butterworth,7.139999999999999,5
+Gina S. Noer,7.1499999999999995,4
+Claude Muret,7.15,4
+Kazuo Ishiguro,7.15,4
+Rajkumar Hirani,7.153846153846152,13
+Michiko Yamamoto,7.1571428571428575,14
+Sirshendu Mukhopadhyay,7.1571428571428575,7
+Masashi Kishimoto,7.158333333333334,12
+Jonathan Oppenheim,7.159999999999999,5
+Ganesh Pandit,7.159999999999999,5
+Hemanth M. Rao,7.159999999999999,5
+Josh Cooley,7.159999999999999,5
+Junki Takegami,7.160000000000001,5
+Sherad Anthony Sanchez,7.1625,8
+Naruhisa Arakawa,7.1625,8
+Tobias Lindholm,7.163636363636363,11
+Akiyoshi Hongo,7.169999999999999,10
+Jari Olavi Rantala,7.175,4
+Simon Moore,7.175,4
+Stavros Pamballis,7.175,4
+Tom McCarthy,7.175,4
+Sabir Zafar,7.175000000000001,4
+Han Jin-won,7.175000000000001,4
+Varun Grover,7.178571428571429,14
+Giancarlo Abrahan,7.183333333333333,6
+Kshitij Patwardhan,7.183333333333334,6
+Yogaraj Bhat,7.199999999999999,9
+Yossy Zagha,7.199999999999999,4
+Yunosuke Yoshinaga,7.199999999999999,6
+Murayama Isao,7.199999999999999,4
+Eric Johnson,7.199999999999999,4
+Saburo Yatsude,7.199999999999999,6
+Jordan Roberts,7.2,7
+Jeremias Nyangoen,7.2,5
+Tanvir Mokammel,7.2,4
+Mei Feng,7.2,5
+Hiroyuki Morita,7.2,5
+Hideyuki Kurata,7.2,4
+Valérie Beaugrand-Champagne,7.2,6
+David Fowler,7.216666666666666,6
+Timothy J. Sexton,7.216666666666666,6
+Dindo Perez,7.220000000000001,5
+Akihiko Yamashita,7.220000000000001,5
+Philipp Manderla,7.225,4
+Balaji Tharaneetharan,7.225,4
+Shlomi Elkabetz,7.2250000000000005,4
+Tennessee Williams,7.2250000000000005,4
+Arivazhagan Venkatachalam,7.2250000000000005,4
+Cameron Crowe,7.2299999999999995,10
+Vaughan Sivell,7.239999999999999,5
+Thiagarajan Kumararaja,7.24,5
+Erik Sommers,7.24,5
+Shuichi Shigeno,7.24,5
+Stieg Larsson,7.24,5
+Ranko Bozic,7.24,5
+Kinoko Nasu,7.24,10
+Radu Mihăileanu,7.25,4
+Homer,7.25,4
+Ash Malanum,7.25,4
+Ron Meyer,7.25,6
+Ambar Hadap,7.25,4
+Alper Çağlar,7.25,4
+Takaaki Suzuki,7.25,4
+Crazy Mohan,7.250000000000001,8
+Yoshiki Sakurai,7.257142857142857,7
+Claudia Uzzo,7.26,5
+Jacques Audiard,7.271428571428572,7
+Anucharan,7.2749999999999995,4
+Keiko Niwa,7.2749999999999995,4
+Satoshi Kon,7.2749999999999995,4
+Luis Alberto de Abreu,7.2749999999999995,4
+Shaofu Zhang,7.275,4
+Rhonda Baraka,7.275,4
+Alberto Romero,7.275,4
+Gene Roddenberry,7.275,4
+Adam Keker,7.275,4
+Ryôhei Saigan,7.275,4
+Fuad Al-Qrize,7.275,4
+Igor Ivanov Izi,7.275,4
+H. Banerjee,7.276470588235294,17
+Anthony McCarten,7.279999999999999,5
+Arthur Miller,7.279999999999999,5
+Jinky Laurel,7.279999999999999,5
+Asma Nadia,7.279999999999999,5
+Annapurna Basu,7.279999999999999,5
+Khaled Diab,7.279999999999999,5
+Nan Wu,7.279999999999999,5
+Leonardo Gudel,7.279999999999999,5
+Alistair Audsley,7.280000000000001,5
+Sirivennela Seetharama Sastry,7.283333333333332,6
+Raymond Handaya,7.283333333333332,6
+Aaron Cohen,7.284615384615384,13
+Abhishek Chaubey,7.299999999999999,9
+Elías Querejeta,7.3,6
+Nontra Kumwong,7.3,5
+Kim Roberts,7.3,7
+Abdel Raouf Dafri,7.3,4
+Andreea Valean,7.300000000000001,4
+Takao Noguchi,7.300000000000001,4
+Mira Lesmana,7.314285714285715,7
+Mark Monroe,7.317948717948719,39
+Kookai Labayen,7.3199999999999985,5
+Yuko Kakihara,7.32,5
+Parag Kulkarni,7.32,5
+Sergio Pablos,7.324999999999999,4
+Graham Annable,7.325,4
+Srdjan Koljevic,7.325,8
+David Magee,7.325,4
+Saurabh Bhave,7.328571428571428,7
+Prakash Kapadia,7.333333333333333,6
+Katsuyuki Sumizawa,7.333333333333333,6
+Nitesh Tiwari,7.3374999999999995,8
+Charlie Kaufman,7.3375,8
+Chad Beck,7.339999999999999,5
+Michiko Yokote,7.340000000000001,5
+Saratchandra Chatterjee,7.340000000000001,5
+Robert Meyer Burnett,7.35,4
+Nicole Mitchell,7.35,4
+Masaki Hiramatsu,7.35,4
+Richard Bean,7.35,4
+Jay Wolpert,7.360000000000001,5
+Germán Tejeira,7.360000000000001,5
+Robert Ludlum,7.360000000000001,5
+Veronica Velasco,7.366666666666666,6
+Sam Hudecki,7.366666666666667,6
+Bradford Thomason,7.366666666666667,6
+Jenny Jusuf,7.374999999999999,8
+Cristiane Oliveira,7.374999999999999,4
+Bob Peterson,7.375,4
+Prashant Dalvi,7.375,4
+Emma Freud,7.375000000000001,4
+Rajko Grlić,7.38,5
+David Hare,7.38,5
+Larry Lieber,7.383333333333333,6
+Neil Arce,7.383333333333333,6
+Wolfgang Widerhofer,7.383333333333334,6
+Jeethu Joseph,7.385714285714286,7
+Dwein Baltazar,7.3999999999999995,4
+Kiel Murray,7.3999999999999995,4
+Scott Silver,7.4,5
+Christopher Seward,7.4,5
+Karthik Netha,7.4,5
+Mohammad Irfan Ramly,7.4,7
+Thodsapon Thiptinnakorn,7.4,4
+Chinmay Mandlekar,7.4,4
+Peter Morgan,7.409999999999999,10
+Piyush Mishra,7.4125,8
+Miroslav Momčilović,7.42,5
+Makoto Nakamura,7.42,5
+P.G. Morgan,7.425,4
+Elise Pearlstein,7.425,4
+Yavuz Turgul,7.425,4
+Elvita Ruka,7.425000000000001,4
+Oka Aurora,7.442857142857142,7
+Aaron Sorkin,7.449999999999999,6
+Pamela Ribon,7.449999999999999,4
+Ted Mathot,7.449999999999999,4
+Alberto Larios,7.449999999999999,4
+Rumiko Takahashi,7.45,4
+Gamon Sakurai,7.45,4
+Wolf Haas,7.45,4
+Christine O'Malley,7.450000000000001,4
+Hajime Katoki,7.457142857142857,7
+Yoshiyuki Tomino,7.466666666666668,6
+Nicholas Bushman,7.475,4
+Craig Kyle,7.475,4
+Dan Scanlon,7.475,4
+Imran Raza,7.4750000000000005,4
+Robbie Thorpe,7.4799999999999995,5
+Steve Kloves,7.491666666666666,12
+Lois Vossen,7.5,4
+Eric Martin,7.5,4
+Bianca Oana,7.5,4
+Raaju Bonagaani,7.5200000000000005,5
+Yurii Dachev,7.5200000000000005,5
+Vikram Kumar,7.5200000000000005,5
+Oleg Negin,7.525,4
+Ioanna Karystiani,7.525,4
+J.K. Rowling,7.539999999999999,10
+Yuya Takahashi,7.540000000000001,5
+Malcolm Dixelius,7.540000000000001,5
+Humayun Ahmed,7.546153846153846,13
+Darren Lund,7.55,4
+Anjali Menon,7.55,6
+Yuuko Kakihara,7.550000000000001,6
+David Tiley,7.550000000000001,4
+Michael Arndt,7.5625,8
+Pedro Kos,7.574999999999999,4
+Sasha Motivala,7.575,4
+Anisul Haque,7.58,5
+Craig Freimond,7.58,5
+Erin Barnett,7.6,4
+Ilya Sigma,7.6,4
+Simón Bross,7.6,4
+Don Shank,7.6000000000000005,4
+Johnny O'Hara,7.6000000000000005,6
+Davis Coombe,7.614285714285715,7
+Marcia Smith,7.639999999999999,5
+Sooni Taraporevala,7.6499999999999995,4
+Ben Feleo,7.65,4
+Richard Hankin,7.65,4
+Stéphane Durand,7.65,4
+Monster Jimenez,7.65,4
+Jason Reid,7.659999999999999,5
+Michael Chandler,7.659999999999999,5
+Peter Ettedgui,7.659999999999999,5
+Bhavesh Mandalia,7.675,4
+Irakli Solomonashvili,7.675,4
+Patrick Delage,7.68,5
+Martin McDonagh,7.68,5
+Andrew Stanton,7.684615384615384,13
+Friedrich Nietzsche,7.699999999999999,4
+Robert L. Baird,7.699999999999999,6
+Dennis Lehane,7.699999999999999,4
+Natasa Drakulic,7.7,4
+Ramiz Fataliyev,7.7,5
+Mika Akitaka,7.7,5
+Fernanda Rossi,7.705882352941177,17
+Mark Bailey,7.716666666666668,6
+Marc-André Lavoie,7.725,4
+K.P. Saxena,7.725,4
+Lisa Leeman,7.725000000000001,4
+Philippa Boyens,7.7299999999999995,10
+Fran Walsh,7.730000000000001,10
+Katsuyuki Sumisawa,7.75,4
+Ivaylo Penchev,7.75,4
+Jerry Robinson,7.75,4
+Denis Delestrac,7.750000000000001,4
+"Roger Lay, Jr.",7.750000000000001,8
+Ramiz Rovshan,7.76,5
+Ahmed Mourad,7.774999999999999,4
+Jim Reardon,7.775,4
+Victor Hugo,7.783333333333334,6
+Bart Coughlin,7.8,4
+Torstein Grude,7.8,5
+Valerie Thomas,7.800000000000001,4
+Shiyoon Kim,7.824999999999999,4
+Pete Docter,7.833333333333333,9
+Bryan Andrews,7.8500000000000005,6
+Mach Tony Kobayashi,7.8666666666666645,6
+Ebru Ceylan,7.875,4
+Daniel Gerson,7.899999999999999,5
+Nyneve Laura Minnear,7.9,4
+Mladen Matičević,7.92,5
+Paul Sta. Ana,7.94,5
+J.R.R. Tolkien,7.942857142857143,7
+Sara Lukinson,7.95,4
+Upendra Subba,7.980000000000001,5
+Miklós Tamási,8.0,6
+M. Manikandan,8.0,5
+Vickie Curtis,8.0,4
+Eden Echeverria,8.049999999999999,6
+Matt Lang,8.066666666666666,6
+Nick Lang,8.066666666666666,6
+David Anghel,8.14,5
+Tony Kushner,8.175,4
+Brian Holden,8.2,5
+Tchavdar Georgiev,8.200000000000001,6
+Claude-Michel Schönberg,8.3,4
+Alain Boublil,8.3,4
+Eric Frith,8.314285714285713,7
+Jonathan Nolan,8.366666666666665,6
+Ron Bryant,8.425,8
