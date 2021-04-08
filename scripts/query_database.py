@@ -72,49 +72,53 @@ def get_movieLens_reviews():
     df = pd.DataFrame(cursor)
     return df
 
-def store_model(trained_model, recommend, note=None):
+#model_type = "context", "collab", "rating"
+def store_model(trained_model, model_type, note=None):
     if type(trained_model) != bytes:
         print('trained model needs to be in bytes')
         return -1
-    model_type = None
-    if recommend == True:
-        model_type = "Recommendation System"
-    elif recommend == False:
-        model_type = "New Film Rating Prediction"
-    else: 
-        print("true/false only")
+
+    name_dict = {"context": "Context-based Recommendation System"
+    , "collab": "Collaborative Recommendation System"
+    , "rating": "New Film Rating Prediction"}
+
+    if model_type not in name_dict:
+        print('model_type = "context", "collab" OR "rating"')
         return -1
 
     result = ml_models.put(
             trained_model,
-            model_type=model_type,
+            model_type=name_dict[model_type],
             Upload_time=datetime.now(),
             Description=note
         )
     print(result)
 
 
-def get_model(recommend, Description=None):
+def get_model(model_type, Description=None):
     fsCollection = db.fs.files
-    model_type = None
-    if recommend == True:
-        model_type = "Recommendation System"
-    elif recommend == False:
-        model_type = "New Film Rating Prediction"
-    else: 
-        print("true/false only")
+
+    name_dict = {"context": "Context-based Recommendation System"
+    , "collab": "Collaborative Recommendation System"
+    , "rating": "New Film Rating Prediction"}
+
+    if model_type not in name_dict:
+        print('model_type = "context", "collab" OR "rating"')
         return -1
 
     if Description:
-        returned_dict = fsCollection.find({"model_type": model_type, "Description": Description}).sort(  "uploadDate", -1  )[0]
+        returned_dict = fsCollection.find({"model_type": name_dict[model_type]
+            , "Description": Description}).sort(  "uploadDate", -1  )[0]
     else:
-        returned_dict = fsCollection.find({"model_type": model_type}).sort(  "uploadDate", -1  )[0]
+        returned_dict = fsCollection.find({"model_type": name_dict[model_type]}) \
+        .sort(  "uploadDate", -1  )[0]
     _id = returned_dict["_id"]
     out = ml_models.get(_id)
     returned_pickle = out.read()
     model = pickle.loads(returned_pickle)
 
-    print('returned a ' + model_type + ' model, which was created at ' + returned_dict['uploadDate'].strftime("%m/%d/%Y, %H:%M:%S"))
+    print('returned a ' + name_dict[model_type] + ' model, which was created at ' 
+        + returned_dict['uploadDate'].strftime("%m/%d/%Y, %H:%M:%S"))
     print('Note on the model: ' + returned_dict['Description'])
     return model
 
