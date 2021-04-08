@@ -68,7 +68,6 @@ def plotFeaturesRanking(rf, cols):
 if __name__ == '__main__':
     df = pd.read_csv('./pred_input.csv')
     print(df.shape)
-    df.dropna(inplace=True)
     X,y = df.drop(['imdb_avgRating'],axis=1), df['imdb_avgRating']
     X_train, X_valid, y_train, y_valid = train_test_split(X, y)
     models_names = ['LinearRegression', \

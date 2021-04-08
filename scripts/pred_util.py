@@ -3,10 +3,19 @@ import numpy as np
 import datetime
 import math
 
-def cast_crew_dist(df, isCast):
-    _group = 'casts'
-    if not isCast:
-        _group = 'crews'
+# def cast_crew_dist(df, isCast):
+#     _group = 'casts'
+#     if not isCast:
+#         _group = 'crews'
+#     casts = df
+#     # casts = df.dropna(subset=[_group,'popularity'])
+#     casts = casts[[_group,'popularity','imdb_avgRating']]
+#     _casts = casts.apply(pd.Series.explode).reset_index(drop=True)
+#     _casts["popularity"] = _casts.popularity.astype(float)
+#     casts_groups = _casts.groupby(_group).agg('mean')
+#     return casts_groups
+def cast_crew_dist(df, field):
+    _group = field
     casts = df
     # casts = df.dropna(subset=[_group,'popularity'])
     casts = casts[[_group,'popularity','imdb_avgRating']]
@@ -77,7 +86,7 @@ def genres_apply(xs, glist):
 def topRated(field,df,sizes):
     dfe = df.explode(field).groupby(field).agg(mean_rate=('imdb_avgRating','mean'), \
                                                    c_count = (field,'size'))
-    dfe = dfe[dfe['c_count'] > 3]
+    # dfe = dfe[dfe['c_count'] > 3]
     dfe.dropna(subset=['mean_rate'],inplace=True)
     tops = dfe.sort_values('mean_rate', ascending=False).reset_index()
     lows = dfe.sort_values('mean_rate', ascending=True).reset_index()

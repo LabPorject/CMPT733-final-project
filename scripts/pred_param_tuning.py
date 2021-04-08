@@ -23,7 +23,6 @@ if __name__ == '__main__':
     print(df.shape)
     X,y = df.drop(['imdb_avgRating'],axis=1), df['imdb_avgRating']
     X_train, X_valid, y_train, y_valid = train_test_split(X, y)
-
     cv = RepeatedKFold(n_splits=5, n_repeats=8, random_state=8)
     rf = RandomForestRegressor()
     rf_space = dict()
