@@ -7,4 +7,5 @@ nohup.out
 Data/
 Data.zip
 *.zip
+*.pkl
 .DS_Store
