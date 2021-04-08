@@ -8,3 +8,4 @@ Data/
 Data.zip
 *.zip
 *.pkl
+.DS_Store
