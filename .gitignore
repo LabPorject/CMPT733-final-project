@@ -8,3 +8,5 @@ Data/
 Data.zip
 *.zip
 .DS_Store
+pred_input.csv
+../pred_input.csv
