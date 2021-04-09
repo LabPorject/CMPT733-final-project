@@ -1,6 +1,5 @@
 import pandas as pd
 import json
-import numpy as np
 import pymongo
 from pymongo import MongoClient
 from datetime import datetime
