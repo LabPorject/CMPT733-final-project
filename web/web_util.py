@@ -186,21 +186,21 @@ def processing_input(inputs):
 # print(y_pred)
 
 if __name__ == "__main__":
-    inputs = random_input(True)
-    x = processing_input(inputs)
+    # inputs = random_input(True)
+    # x = processing_input(inputs)
     # print(x)
-    import pickle
-    from sklearn.metrics import r2_score
-    loaded_model = pickle.load(open('random_forest_model.pkl', 'rb'))
-    y_pred = loaded_model.predict(x)
-    print(y_pred)
-    # random_list = []
-    # for _ in range(80):
-    #     random_list.append(random_input(False))
-    # random_good_list = []
-    # for _ in range(80):
-    #     random_good_list.append(random_input(True))
-    # pd.DataFrame.from_dict(random_list).to_csv(f'{FILE_DIR}/random80.csv',encoding='utf-8',index=False)
-    # pd.DataFrame.from_dict(random_good_list).to_csv(f'{FILE_DIR}/random_good_80.csv',encoding='utf-8',index=False)
+    # import pickle
+    # from sklearn.metrics import r2_score
+    # loaded_model = pickle.load(open('random_forest_model.pkl', 'rb'))
+    # y_pred = loaded_model.predict(x)
+    # print(y_pred)
+    random_list = []
+    for _ in range(80):
+        random_list.append(random_input(False))
+    random_good_list = []
+    for _ in range(80):
+        random_good_list.append(random_input(True))
+    pd.DataFrame.from_dict(random_list).to_csv(f'{FILE_DIR}/random80.csv',encoding='utf-8',index=False)
+    pd.DataFrame.from_dict(random_good_list).to_csv(f'{FILE_DIR}/random_good_80.csv',encoding='utf-8',index=False)
 
 
