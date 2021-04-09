@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block title %} Movie Rating Predictor {% endblock %}
+{% block content %}
+<br>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+            <div class="card">
+                <!-- First button -->
+                <div class="card-header">
+                    <button class="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                    Random Generate A Movie
+                    </button>
+                </div>
+                <div class="card-body collapse " id="collapseExample">
+                <p class="card-text">All the movie information will be randomly generated from our database such as movie name, release date, etc. </p>
+                <p>Note: We will pick casts,crews directors, writers from different movies rather than generating a random person</p>
+                <a href="/rdnrating" class="btn btn-primary">Make Prediction</a>
+                </div>
+            </div>
+      </div>
+      <div class="col-sm">
+          <!-- Second button -->
+        <div class="card">
+            <div class="card-header">
+                <button class="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2">
+                Random Generate A Good Movie
+                </button>
+            </div>
+            <div class="card-body collapse" id="collapseExample2">
+            <h5 class="card-title"></h5>
+            <p class="card-text">All the movie information will be randomly generated from our database such as movie name, release date, etc. </p>
+            <p>Note: We will pick casts,crews directors, writers from different movies rather than generating a random person</p>
+            <a href="/goodlist" class="btn btn-primary">Make Prediction</a>
+            </div>
+        </div>
+      </div>
+      <div class="col-sm">
+          <!-- Third button -->
+        <div class="card">
+            <div class="card-header">
+      
+                <button class="btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample3" aria-expanded="false" aria-controls="collapseExample3">
+                Make A Customize Prediction
+                </button>
+            </div>
+            <div class="card-body collapse" id="collapseExample3">
+            <h5 class="card-title">Special title treatment</h5>
+            <p class="card-text">All the movie information will be randomly generated from our database such as movie name, release date, etc. </p>
+            <p>Note: We will pick casts,crews directors, writers from different movies rather than generating a random person</p>
+            <a href="/customize" class="btn btn-primary">Make Prediction</a>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
