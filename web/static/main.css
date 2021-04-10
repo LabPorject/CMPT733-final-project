@@ -43,22 +43,3 @@ header .overlay {
 #mainPage  {
   background-color: #FFE4C4;
 }
-#gameForm{
-    width: 100%;
-    height: 150px;
-    margin: 0 auto;
-    overflow: hidden;
-    padding: 10px 0;
-    align-items: center;
-    justify-content: space-around;
-    display: flex;
-    float: none;
-}
-#game, #gameover, #gameover2, #notfound{
-    background-image: url("/images/05.jpg");
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    height: 600px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}

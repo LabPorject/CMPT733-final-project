@@ -1,1 +1,111 @@
 {% extends "base_nav.html" %}
+{% block content %}
+<br>
+<div class="container-md" style="font-family: 'Comic Sans MS', cursive, sans-serif;">
+    <h3 class="text-center">Predict a random movie</h3>
+    <h4 class="text-center fw-light font-monospace ">The predicted rating is <span class='text-danger text-center'>
+        {% for c in content.rating %}
+        {{ c }}
+        {% endfor %}</span> </h4>
+    <table class="table table-hover table-danger">
+        <thead>
+          <!-- <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Handle</th>
+          </tr> -->
+        </thead>
+        <tbody>
+            <!-- first cell -->
+          <tr>
+            <th scope="row">Primary Title</th>
+            <td>{{ content.primaryTitle }}</td>
+            <th scope="row">Original Title</th>
+            <td>{{ content.originalTitle }}</td>
+          </tr>
+          <!-- second cell -->
+          <tr>
+            <th scope="row">Release Date</th>
+            <td>{{ content.release_date }}</td>
+            <th scope="row">Runtime</th>
+            <td>{{ content.runtimeMinutes }}</td>
+          </tr>
+          <!-- third cell -->
+          <tr>
+            <th scope="row">Genres</th>
+            <td> 
+                {% for c in content.genres %}
+                {{ c }}
+                {{ ", " if not loop.last else "" }}
+                {% endfor %}
+            </td>
+            <th scope="row">Language</th>
+            <td>{{ content.original_language }}</td>
+          </tr>
+          <!-- forth cell -->
+          <tr>
+            <th scope="row">Directors</th>
+            <td> 
+                {% for c in content.Directors %}
+                {{ c }}
+                {{ ", " if not loop.last else "" }}
+                {% endfor %}
+            </td> 
+            <th scope="row">Writers</th>
+            <td> 
+                {% for c in content.Writers %}
+                {{ c }}
+                {{ ", " if not loop.last else "" }}
+                {% endfor %}
+            </td> 
+          </tr>
+          <tr>
+            <th scope="row">Keywords</th>
+            <td> 
+                {% for c in content.keywords_name %}
+                {{ c }}
+                {{ ", " if not loop.last else "" }}
+                {% endfor %}
+            </td> 
+            <th scope="row">Companies</th>
+            <td colspan="3"> {{ content.company_name }}</td>
+          </tr>
+          <tr>
+            <th scope="row">Collection</th>
+            <td>{{ content.belongs_to_collection }}</td>
+            <th scope="row">Homepage</th>
+            <td>{{ content.homepage }}  </td>
+          </tr>
+          <tr>
+            <th scope="row">Casts</th>
+            <!-- <td colspan="3"> {{ content.casts }}</td> -->
+            <td colspan="3"> 
+                {% for c in content.casts %} 
+                {{ c }}
+                {{ ", " if not loop.last else "" }}
+                {% endfor %}
+            </td> 
+          </tr>
+          <tr>
+            <th scope="row">Crews</th>
+            <td colspan="3"> 
+                {% for c in content.crews %} 
+                {{ c }}
+                {{ ", " if not loop.last else "" }}
+                {% endfor %}
+            </td> 
+          </tr>
+          <tr>
+            <th scope="row">Overview</th>
+            <td colspan="3"> {{ content.overview }}</td>
+          </tr>
+          <tr>
+            <th scope="row">Tagline</th>
+            <td colspan="3"> {{ content.tagline }}</td>
+          </tr>
+         
+        </tbody>
+      </table>
+</div>
+{% endblock %}

@@ -4,7 +4,7 @@ import random
 from datetime import date
 import requests
 from pandas.tseries.holiday import USFederalHolidayCalendar
-FILE_DIR = './pred_lists'
+FILE_DIR = '../pred_lists'
 API_KEYS = '4e480f0d8ec5b4d36580cf622b9b6953'
 
 def getPopularity(name):
@@ -95,7 +95,7 @@ def holiday_lists():
         hs.append(h.strftime("%Y/%m/%d"))
     return hs
 
-def top_low(field, name):
+def top_low(field, name, inputs):
     tops_dir = pd.read_csv(f"{FILE_DIR}/top_{name}_list.csv")
     lows_dir = pd.read_csv(f"{FILE_DIR}/low_{name}_list.csv")
     pd_set_h = set(tops_dir[field].tolist())
@@ -131,10 +131,10 @@ def processing_input(inputs):
             'Biography', 'Short', 'Drama', 'Music', 'Sci-Fi','Action']
     for g in gens:
         inputs['is'+g] = int(g in inputs['genres'] )
-    hdir, ldir = top_low('Directors', 'director')
+    hdir, ldir = top_low('Directors', 'director',inputs)
     inputs['topDirectors'] = hdir
     inputs['lowDirectors'] = ldir
-    hw, lw = top_low('Writers', 'Writers')
+    hw, lw = top_low('Writers', 'Writers',inputs)
     inputs['topWriters'] = hw
     inputs['lowWriters'] = lw
     langs = ['en', 'es', 'fr']
@@ -172,7 +172,7 @@ def processing_input(inputs):
        'is_CJ_Entertainment', 'is_ARTE', 'is_ZDF', 'is_Rai_Cinema', \
        'is_France_2_Cinéma', 'is_ARTE_France_Cinéma', 'tagline_len', 'tag_overview']
     output_dict = {k: inputs[k] for k in output_order}
-    print(output_dict)
+    # print(output_dict)
     return np.array(list(output_dict.values())).reshape(1, -1)
 
 
