@@ -1,15 +1,22 @@
 import pandas as pd
 import json
-import numpy as np
 import pymongo
 from pymongo import MongoClient
+from datetime import datetime
+import pickle
+import gridfs
 
-client = MongoClient('127.0.0.1', 27017)
+client = MongoClient('ec2-107-20-117-240.compute-1.amazonaws.com', 27017)
+# client = MongoClient('127.0.0.1', 27017)
+
 db = client.aoligei
 all_collection = db.all_movies
 reviews = db.reviews
 movielens_collection = db.movielens_movies
 reviewlens_collection = db.movielens_reviews
+trained_models = db.ml_models
+ml_models = gridfs.GridFS(db)
+
 
 # Note: movies that had reference from both imdb and tmdb
 # Note: _id refers to IMDB id
@@ -63,6 +70,56 @@ def get_movieLens_reviews():
     cursor = reviewlens_collection.find({}, {'_id': 0})
     df = pd.DataFrame(cursor)
     return df
+
+#model_type = "context", "collab", "rating"
+def store_model(trained_model, model_type, note=None):
+    if type(trained_model) != bytes:
+        print('trained model needs to be in bytes')
+        return -1
+
+    name_dict = {"context": "Context-based Recommendation System"
+    , "collab": "Collaborative Recommendation System"
+    , "rating": "New Film Rating Prediction"}
+
+    if model_type not in name_dict:
+        print('model_type = "context", "collab" OR "rating"')
+        return -1
+
+    result = ml_models.put(
+            trained_model,
+            model_type=name_dict[model_type],
+            Upload_time=datetime.now(),
+            Description=note
+        )
+    print(result)
+
+
+def get_model(model_type, Description=None):
+    fsCollection = db.fs.files
+
+    name_dict = {"context": "Context-based Recommendation System"
+    , "collab": "Collaborative Recommendation System"
+    , "rating": "New Film Rating Prediction"}
+
+    if model_type not in name_dict:
+        print('model_type = "context", "collab" OR "rating"')
+        return -1
+
+    if Description:
+        returned_dict = fsCollection.find({"model_type": name_dict[model_type]
+            , "Description": Description}).sort(  "uploadDate", -1  )[0]
+    else:
+        returned_dict = fsCollection.find({"model_type": name_dict[model_type]}) \
+        .sort(  "uploadDate", -1  )[0]
+    _id = returned_dict["_id"]
+    out = ml_models.get(_id)
+    returned_pickle = out.read()
+    model = pickle.loads(returned_pickle)
+
+    print('returned a ' + name_dict[model_type] + ' model, which was created at ' 
+        + returned_dict['uploadDate'].strftime("%m/%d/%Y, %H:%M:%S"))
+    print('Note on the model: ' + returned_dict['Description'])
+    return model
 
 def get_all_columns_name():
     return ['_id',
