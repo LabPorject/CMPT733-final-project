@@ -16,6 +16,7 @@ from sklearn.ensemble import AdaBoostRegressor
 from sklearn.ensemble import VotingRegressor
 import math
 import pickle
+import query_database as qd
 SAVE_MODEL = True
 
 def plot_pred_valid(name, y_valid, y_pred):
@@ -35,11 +36,11 @@ def define_models():
     reg_model = LinearRegression()
     xgb_model = XGBRegressor(colsample_bytree= 0.6, gamma= 0.7, max_depth= 4, objective='reg:squarederror')
     ada = AdaBoostRegressor(random_state=0, n_estimators=100)
-    # rf = make_pipeline(
-    #     MinMaxScaler(),
-    #     RandomForestRegressor(bootstrap=True, max_features=0.15000000000000002, min_samples_leaf=6, min_samples_split=16, n_estimators=100)
-    # )
-    rf = RandomForestRegressor(bootstrap=True, max_features=0.15000000000000002, min_samples_leaf=6, min_samples_split=16, n_estimators=100)
+    rf = make_pipeline(
+        MinMaxScaler(),
+        RandomForestRegressor(bootstrap=True, max_features=0.15000000000000002, min_samples_leaf=6, min_samples_split=16, n_estimators=100)
+    )
+    # rf = RandomForestRegressor(bootstrap=True, max_features=0.15000000000000002, min_samples_leaf=6, min_samples_split=16, n_estimators=100)
     # svr = SVR(C=1.0, epsilon=0.2)
     er = VotingRegressor([('rf', rf),('xgb_model', xgb_model)])
 
@@ -83,7 +84,11 @@ if __name__ == '__main__':
         print_statistics(y_valid, y_pred)
         plot_pred_valid(models_names[i], y_valid, y_pred)
     
-    plotFeaturesRanking(models[3],X_train.columns.tolist())
+    # plotFeaturesRanking(models[3],X_train.columns.tolist())
     if SAVE_MODEL:
         filename = 'random_forest_model.pkl'
         pickle.dump(models[3], open(filename, 'wb'))
+        dbfile = open(filename, 'rb')
+        model = pickle.load(dbfile)
+        p_model = pickle.dumps(model)
+        qd.store_model(p_model, 'rating', "Random Forest v2")
