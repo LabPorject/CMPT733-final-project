@@ -121,6 +121,22 @@ def get_model(model_type, Description=None):
     print('Note on the model: ' + returned_dict['Description'])
     return model
 
+
+def get_poster_path(tmdb_id):
+    if type(tmdb_id) != int:
+        print('type error')
+        return -1
+    c = all_collection.aggregate([
+        { '$project': {'_id':1,'tmdb_id':1, 'poster_path':1 } },
+        { '$match': { 'tmdb_id': { '$exists': 1 } } },
+        { '$match': { 'tmdb_id': tmdb_id } }
+    ])
+    returned_doc = list(c)[0]
+    if 'poster_path' in returned_doc:
+        return returned_doc['poster_path']
+    else:
+        return None
+
 def get_all_columns_name():
     return ['_id',
      'primaryTitle',
