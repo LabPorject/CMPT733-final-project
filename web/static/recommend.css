@@ -1,0 +1,143 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: poppins;
+  background-color: rgba(151, 151, 151, 0.03);
+}
+* {
+  box-sizing: border-box;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.logo img {
+  height: 35px;
+}
+
+.search {
+  width: 250px;
+  height: 40px;
+  background-color: rgba(245, 245, 245, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  padding: 0px 20px;
+}
+.search input {
+  width: 100%;
+  height: 30px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.search i {
+  color: #3a3a3a;
+}
+
+#main {
+  padding-top: 80px;
+  background-color: #ffffff;
+}
+.cs-hidden {
+  overflow: visible !important;
+}
+.movies-heading h2 {
+  font-weight: 400;
+  margin: 0px;
+  padding: 1px 20px;
+  background-color: rgba(0, 0, 0, 0.01);
+  letter-spacing: 1px;
+  width: 100%;
+}
+.movies-heading {
+  display: flex;
+  margin: 0px 2%;
+}
+.movies-box {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  border-radius: 5px;
+  overflow: hidden;
+  border-top: 3px solid #292929;
+}
+.movies-img {
+  width: 100%;
+  height: 400px;
+  position: relative;
+}
+.movies-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.movies-box a {
+  text-align: center;
+  display: block;
+  font-weight: 600;
+  display: -webkit-box;
+  max-width: 80%;
+  -webkit-line-clamp: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #3a3a3a;
+  margin: 20px;
+}
+.movies-box:hover {
+  transform: translateY(-10px);
+  transition: all ease 0.2s;
+}
+#movies-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+footer p {
+  color: #5e5e5e;
+  margin: 10px 0px;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 680px) {
+  .movies-box {
+    flex-direction: row;
+    width: 90%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+  }
+  .movies-box a {
+    width: 65%;
+  }
+  footer {
+    justify-content: space-between;
+    padding: 0px 20px;
+    text-align: center;
+  }
+}
+@media (max-width: 440px) {
+  .movies-box a,
+  .movies-box {
+    width: 100%;
+  }
+  .movies-box {
+    flex-direction: column;
+  }
+  .search {
+    width: 90%;
+    height: 40px;
+  }
+}
