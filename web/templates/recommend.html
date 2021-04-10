@@ -1,5 +1,5 @@
-{% extends "base.html" %} {% block title %} Movie Rating Predictor {% endblock
-%} {% block content %}
+{% extends "base.html" %} {% block title %} Movie Recommendation {% endblock %}
+{% block content %}
 
 <!--movies---------------------------->
 <div class="movies-heading">
@@ -7,103 +7,15 @@
 </div>
 <section id="movies-list">
   <!--box-1------------------------>
+  {% for movie in movies %}
   <div class="movies-box">
     <!--img------------>
     <div class="movies-img">
-      <img
-        src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg"
-      />
+      <img src="{{movie['poster_path']}}" />
     </div>
     <!--text--------->
-    <a href="#"> Tin (2018) Full Movie[In English] With English Subtitles </a>
+    <a href="#"> {{movie['primaryTitle']}}</a>
   </div>
-  <!--box-2------------------------>
-  <div class="movies-box">
-    <!--img------------>
-    <div class="movies-img">
-      <img
-        src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AmHGUjhgXnOYRYrF2ZYMtzfwxPe.jpg"
-      />
-    </div>
-    <!--text--------->
-    <a href="#"> Tin (2018) Full Movie[In English] With English Subtitles </a>
-  </div>
-  <!--box-3------------------------>
-  <div class="movies-box">
-    <!--img------------>
-    <div class="movies-img">
-      <img
-        src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p3nIrS9rkdVmMmgKAWtGsmAnhGV.jpg"
-      />
-    </div>
-    <!--text--------->
-    <a href="#"> Tin (2018) Full Movie[In English] With English Subtitles </a>
-  </div>
-  <!--box-4------------------------>
-  <div class="movies-box">
-    <!--img------------>
-    <div class="movies-img">
-      <img
-        src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttx4GQl0azO6NJFWj4XNZCQOY7S.jpg"
-      />
-    </div>
-    <!--text--------->
-    <a href="#"> Tin (2018) Full Movie[In English] With English Subtitles </a>
-  </div>
-  <!--box-5------------------------>
-  <div class="movies-box">
-    <!--img------------>
-    <div class="movies-img">
-      <img
-        src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/foOPCU5GMw3QT88iEfoTRrdWRFD.jpg"
-      />
-    </div>
-    <!--text--------->
-    <a href="#"> Tin (2018) Full Movie[In English] With English Subtitles </a>
-  </div>
-  <!--box-6------------------------>
-  <div class="movies-box">
-    <!--img------------>
-    <div class="movies-img">
-      <img
-        src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg"
-      />
-    </div>
-    <!--text--------->
-    <a href="#"> Tin (2018) Full Movie[In English] With English Subtitles </a>
-  </div>
-  <!--box-7------------------------>
-  <div class="movies-box">
-    <!--img------------>
-    <div class="movies-img">
-      <img
-        src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/donvVEgFpxo0YKEaowEa96jscEp.jpg"
-      />
-    </div>
-    <!--text--------->
-    <a href="#"> Full Movie[In English] With English Subtitles </a>
-  </div>
-  <!--box-8------------------------>
-  <div class="movies-box">
-    <!--img------------>
-    <div class="movies-img">
-      <img
-        src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r4FvRHW1J9FAOnCYchZ7QanQ04e.jpg"
-      />
-    </div>
-    <!--text--------->
-    <a href="#"> Full Movie[In English] With English Subtitles </a>
-  </div>
-  <!--box-9------------------------>
-  <div class="movies-box">
-    <!--img------------>
-    <div class="movies-img">
-      <img
-        src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
-      />
-    </div>
-    <!--text--------->
-    <a href="#"> Full Movie[In English] With English Subtitles </a>
-  </div>
+  {% endfor %}
 </section>
 {% endblock %}
