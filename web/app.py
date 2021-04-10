@@ -14,6 +14,10 @@ def predModelPage():
 def diyRatingPage():
     return render_template('random_rating.html')
 
+@app.route('/recommend')
+def recommendPage():
+    return render_template('recommend.html')
+
 @app.route('/<rdn>')
 def randomRatingPage(rdn):
     if rdn == 'rdnrating':
