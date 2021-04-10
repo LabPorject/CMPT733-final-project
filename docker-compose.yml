@@ -3,27 +3,27 @@ version: "3.6"
 
 services:
 
-  mongo:
-    image: mongo
-    restart: always
-    environment:
-      - PUID=1000
-      - PGID=1000
-    volumes:
-      - type: bind
-        source: '$PWD/Data'
-        target: /data/db
-    ports:
-      - 27017:27017
+  # mongo:
+  #   image: mongo
+  #   restart: always
+  #   environment:
+  #     - PUID=1000
+  #     - PGID=1000
+  #   volumes:
+  #     - type: bind
+  #       source: '$PWD/Data'
+  #       target: /data/db
+  #   ports:
+  #     - 27017:27017
 
-  mongo-express:
-    image: mongo-express
-    restart: always
-    ports:
-      - 8081:8081
-    environment:
-      - PUID=1000
-      - PGID=1000
+  # mongo-express:
+  #   image: mongo-express
+  #   restart: always
+  #   ports:
+  #     - 8081:8081
+  #   environment:
+  #     - PUID=1000
+  #     - PGID=1000
 
   web:
     build: .
