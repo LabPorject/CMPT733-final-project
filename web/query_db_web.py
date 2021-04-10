@@ -16,6 +16,8 @@ reviewlens_collection = db.movielens_reviews
 trained_models = db.ml_models
 ml_models = gridfs.GridFS(db)
 
+recomm_testset = db.recomm_testset
+pred_rating_random = db.pred_rating_testset
 
 
 def get_model(model_type, Description=None):
@@ -45,40 +47,59 @@ def get_model(model_type, Description=None):
     print('Note on the model: ' + returned_dict['Description'])
     return model
 
-def get_all_columns_name():
-    return ['_id',
-     'primaryTitle',
-     'originalTitle',
-     'isAdult',
-     'release_year',
-     'release_date',
-     'runtimeMinutes',
-     'genres',
-     'imdb_avgRating',
-     'imdb_numVotes',
-     'Directors',
-     'casts',
-     'tmdb_id',
-     'poster_path',
-     'original_language',
-     'popularity',
-     'budget',
-     'revenue',
-     'status',
-     'tagline',
-     'overview',
-     'company_name',
-     'keywords_name',
-     'num_of_cast',
-     'top_10_cast_popularity_mean',
-     'top_10_cast_popularity',
-     'num_of_crew',
-     'top_10_crew_popularity_mean',
-     'crews',
-     'top_10_crew_popularity',
-     'tmdb_avgRating',
-     'tmdb_numVotes',
-     'Writers',
-     'homepage',
-     'belongs_to_collection']
+
+def get_random_movies(n):
+    cursor = recomm_testset.aggregate([
+        { '$project': {'_id': 0 } },
+        { '$sample': { 'size': n } }
+    ])
+    return list(cursor)
+
+
+def get_random_movies_with_poster(n):
+    cursor = recomm_testset.aggregate([
+        { '$project': {'_id': 0 } },
+        { '$match': { 'poster_path': { '$exists': 1 } } },
+        { '$sample': { 'size': n } }
+    ])
+    return list(cursor)
+
+
+# return a python list
+def low_rating_random_movie():
+    cursor = pred_rating_random.aggregate([
+        { '$project': {'_id': 0, 'index': 0 } },
+        { '$match': { 'rating': 'low' } },
+        { '$sample': { 'size': 1 } }
+    ])
+    _dict = list(cursor)[0]
+    del _dict['rating']
+    return _dict
+
+
+# return a python list
+def high_rating_random_movie():
+    cursor = pred_rating_random.aggregate([
+        { '$project': {'_id': 0, 'index': 0 } },
+        { '$match': { 'rating': 'high' } },
+        { '$sample': { 'size': 1 } }
+    ])
+    _dict = list(cursor)[0]
+    del _dict['rating']
+    return _dict
+
+
+# return a python list
+def get_maxxu_list(which):
+    if which not in get_maxxu_all_lists_name():
+        print('incorrect list name')
+        return -1
+
+    returned_dict = pred_rating_random.find({'pred_rating_lists' : 1}, { which : 1})[0]
+    return list(returned_dict[which].values())[0]
+
+
+def get_maxxu_all_lists_name():
+    return ['high_casts', 'belongs_to_collection', 'low_crews', 'keywords_name', 'genres'
+    , 'high_Writers', 'high_crews', 'high_Directors', 'low_Directors', 'low_casts', 'low_Writers']
 
