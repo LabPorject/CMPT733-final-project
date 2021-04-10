@@ -9,3 +9,5 @@ Data.zip
 *.zip
 *.pkl
 .DS_Store
+pred_input.csv
+../pred_input.csv
