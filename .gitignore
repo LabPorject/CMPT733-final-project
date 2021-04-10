@@ -6,7 +6,7 @@ diagnostic.data/
 nohup.out
 Data/
 Data.zip
-*.zip
+# *.zip
 *.pkl
 .DS_Store
 pred_input.csv
