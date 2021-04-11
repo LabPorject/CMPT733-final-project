@@ -52,7 +52,7 @@ def recommendPage():
 
 @app.route('/recommend_collab')
 def recommendPageCollab():
-    return render_template('recommend.html', movies=get_random_movies_with_poster(20))
+    return render_template('recommend_collab.html', movies=get_random_movies_with_poster(20))
 
 @app.route('/update')
 def update_list():
@@ -66,9 +66,6 @@ def update_list_collab():
 
 @app.route('/recommend/<movie_id>', methods=['GET'])
 def recommend(movie_id):
-    # df = get_recs(int(movie_id), content_embeddings_v3)
-    # return render_template('recommend.html', movies=list(df.to_dict('index').values()))
-    # df = get_recs_with_model(int(movie_id), model_content_v3)
     df = get_ensemble_recs_with_model(int(movie_id), model_content_v1, model_content_v3)
     return render_template('recommend.html', movies=list(df.to_dict('index').values()))
 
