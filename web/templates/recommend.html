@@ -8,14 +8,20 @@
 <section id="movies-list">
   <!--box-1------------------------>
   {% for movie in movies %}
-  <div class="movies-box">
-    <!--img------------>
-    <div class="movies-img">
-      <img src="{{movie['poster_path']}}" />
+  <a href="{{ url_for('update_list', movieId = movie['movieId'] ) }}">
+    <div class="movies-box">
+      <!--img------------>
+      <div class="movies-img">
+        <img src="{{movie['poster_path']}}" />
+      </div>
+      <!--text--------->
+      <a href="{{ url_for('update_list', movieId = movie['movieId'] ) }}">{{movie['primaryTitle']}}</a>
     </div>
-    <!--text--------->
-    <a href="{{ url_for('update_list', movieId = movie['movieId'] ) }}">{{movie['primaryTitle']}}</a>
-  </div>
+  </a>
   {% endfor %}
+
+
 </section>
+
+
 {% endblock %}
