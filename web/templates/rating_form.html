@@ -1,0 +1,206 @@
+{% extends "base_nav.html" %}
+{% block content %}
+<br>
+<form action="/customize" method="post">
+  <!-- <section> -->
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 col-md-8 col-lg-8 col-xl-6">
+          <div class="row">
+            <div class="col text-center">
+              <h1>Rating Predictor</h1>
+              <p class="text-h3">Please fill in the basic movie information below</p>
+            </div>
+          </div>
+          <!-- first row -->
+          <div class="container">
+            <div class="col mt-4">
+                <div class="row">
+                    <div class="col">
+                      <input type="text" class="form-control" placeholder="Primary Title" aria-label="Primary Title" name='ptitle' required>
+                    </div>
+                    <div class="col">
+                      <input type="text" class="form-control" placeholder="Original Title" aria-label="Original Title" name='otitle' required>
+                    </div>
+                  </div>
+            </div>
+          </div>
+          <br>
+          <!-- 2nd row -->
+        <div class="container">
+            <div class="col">
+                <div class="row">
+                    <div class="col">
+                        <input type="radio" id="adult" name="isAdult" value="1">
+                        <label for="adult">Adult</label><br>
+                        <input type="radio" id="notAdult" name="isAdult" value="0">
+                        <label for="notAdult">For all ages</label>
+                    </div>
+                    <div class="col">
+                        <div class="form-floating">
+                            <input type="date" class="form-control" id="floatingInput" placeholder="release date" name='release_date' required>
+                            <label for="floatingInput">YYYY/MM/DD</label>
+                          </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-floating">
+                            <input type="number" class="form-control" id="floatingInput" placeholder="runtime" name='runtime' required>
+                            <label for="floatingInput">runtime</label>
+                          </div>
+                    </div>
+            </div>
+        </div>
+            </div>
+            <br>
+            <!-- 3rd row -->
+          <div class="container">
+            <div class="row">
+                <div class="col">
+                <select class="form-select" aria-label="Default select example" name='genres'>
+                    <option selected>Genres</option>
+                    {% for c in content.genres %}
+                    <option value={{ c }}>{{ c }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="col">
+                <select class="form-select" aria-label="Default select example" name='collection'>
+                    <option selected>Collection</option>
+                    {% for c in content.belongs_to_collection %}
+                    <option value={{ c }}>{{ c }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="col">
+                <select class="form-select" aria-label="Default select example" name='keywords'>
+                    <option selected>Keywords</option>
+                    {% for c in content.keywords_name %}
+                    <option value={{ c }}>{{ c }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+          </div>
+          </div>
+          <br>
+            <!--4th row  -->
+          <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                  <input type="url" class="form-control" placeholder="Home Page" aria-label="Home Page" name='homepage'>
+                </div>
+                <div class="col-md-7">
+                  <input type="text" class="form-control" placeholder="Tagline" aria-label="Tagline" name='tagline'>
+                </div>
+              </div>
+        </div>
+        <br>
+        <!-- 5th row -->
+        <div class="container">
+            <h5 class="text-center">Actors</h5>
+            <div class="row">
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="Lead Actor" aria-label="Lead Actor" name='fcast' required>
+                </div>
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="2nd actor" aria-label="2nd actor" name='scast'>
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="3rd actor" aria-label="3rd actor" name='tcast'>
+                  </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="4th Actor" aria-label="4th Actor" name='focast'>
+                </div>
+                <div class="col">
+                  <input type="text" class="form-control" placeholder="5th actor" aria-label="5th actor" name='ficast'>
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="6th actor" aria-label="6th actor" name='sixcast'>
+                  </div>
+            </div>
+        </div>
+
+        <!-- 6th row -->
+        <div class="container">
+            <h5 class="text-center">Crews</h5>
+            <div class="row">
+                <div class="col">
+                <input type="text" class="form-control" placeholder="Lead crew" aria-label="Lead crew" name='fcrew' required>
+                </div>
+                <div class="col">
+                <input type="text" class="form-control" placeholder="2nd crew" aria-label="2nd crew" name='screw'>
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="3rd crew" aria-label="3rd crew" name='tcrew'>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col">
+                <input type="text" class="form-control" placeholder="4th crew" aria-label="4th crew" name='focrew'>
+                </div>
+                <div class="col">
+                <input type="text" class="form-control" placeholder="5th crew" aria-label="5th crew" name='ficrew'>
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="6th crew" aria-label="6th crew" name='sixcrew'>
+                </div>
+            </div>
+        </div>
+
+        <!-- 7th row -->
+        <div class="container">
+            <h5 class="text-center">Director</h5>
+            <div class="row">
+                <div class="col">
+                <input type="text" class="form-control" placeholder="Lead director" aria-label="Lead director" name='fdirector' required>
+                </div>
+                <div class="col">
+                <input type="text" class="form-control" placeholder="2nd director" aria-label="2nd director" name='sdirector'>
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="3rd director" aria-label="3rd director" name='tdirector'>
+                </div>
+            </div>
+        </div>
+
+        <!-- 7th row -->
+        <div class="container">
+            <h5 class="text-center">Writer</h5>
+            <div class="row">
+                <div class="col">
+                <input type="text" class="form-control" placeholder="1st writer" aria-label="1st writer" name='fwriter' required>
+                </div>
+                <div class="col">
+                <input type="text" class="form-control" placeholder="2nd writer" aria-label="2nd writer" name='swriter'>
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="3rd writer" aria-label="3rd writer" name='twriter'>
+                </div>
+            </div>
+        </div>
+        <br>
+
+        <div class="container">
+            <label for="overview" class="form-label">Overview</label>
+            <textarea class="form-control" id="overview" rows="3" name='overview'></textarea>
+          </div>
+          <br>
+          <div class="container">
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </div>
+          <br>
+          <br>
+
+          </div>
+        </div>
+      </div>
+  <!-- </section> -->
+
+</form action="" method="post">
+  
+{% endblock %}
