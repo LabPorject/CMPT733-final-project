@@ -1,11 +1,7 @@
 import pickle
-import numpy as np
 import pandas as pd
 import os
 import sys
-module_path = os.path.abspath(os.path.join('../scripts'))
-if module_path not in sys.path:
-    sys.path.append(module_path)
 from similarity import SimilarityPredictions
 
 def get_recs_with_model(movie_id, sim_model):

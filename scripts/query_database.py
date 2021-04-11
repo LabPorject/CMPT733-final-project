@@ -6,8 +6,8 @@ from datetime import datetime
 import pickle
 import gridfs
 
-client = MongoClient('ec2-107-20-117-240.compute-1.amazonaws.com', 27017)
-# client = MongoClient('127.0.0.1', 27017)
+# client = MongoClient('ec2-107-20-117-240.compute-1.amazonaws.com', 27017)
+client = MongoClient('127.0.0.1', 27017)
 
 db = client.aoligei
 all_collection = db.all_movies

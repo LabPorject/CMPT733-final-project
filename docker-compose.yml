@@ -11,7 +11,7 @@ services:
       - PGID=1000
     volumes:
       - type: bind
-        source: '$PWD/Data'
+        source: ./Data
         target: /data/db
     ports:
       - 27017:27017
@@ -28,5 +28,9 @@ services:
   web:
     build: .
     restart: always
+    volumes:
+      - type: bind
+        source: ./web
+        target: /code
     ports:
       - "5000:5000"

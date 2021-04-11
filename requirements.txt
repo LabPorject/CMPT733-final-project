@@ -1,2 +1,5 @@
 flask
 pymongo
+pandas
+scikit-learn
+numpy
