@@ -6,7 +6,6 @@
   <h2>Click on the movie you like the most</h2>
 </div>
 <section id="movies-list">
-  <!--box-1------------------------>
   {% for movie in movies %}
   <a href="{{ url_for('update_list', movieId = movie['movieId'] ) }}">
     <div class="movies-box">
