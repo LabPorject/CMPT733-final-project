@@ -3,3 +3,4 @@ pymongo
 pandas
 scikit-learn
 numpy
+requests
