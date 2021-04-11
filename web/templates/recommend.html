@@ -14,7 +14,7 @@
       <img src="{{movie['poster_path']}}" />
     </div>
     <!--text--------->
-    <a href="#"> {{movie['primaryTitle']}}</a>
+    <a href="{{ url_for('update_list', movieId = movie['movieId'] ) }}">{{movie['primaryTitle']}}</a>
   </div>
   {% endfor %}
 </section>
