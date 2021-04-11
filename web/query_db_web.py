@@ -6,6 +6,7 @@ import pickle
 import gridfs
 
 # client = MongoClient('ec2-107-20-117-240.compute-1.amazonaws.com', 27017)
+
 # client = MongoClient('127.0.0.1', 27017)
 client = MongoClient('mongo', 27017)
 
@@ -67,7 +68,7 @@ def get_random_movies_with_poster(n):
 
 
 # return a python list
-def low_rating_random_movie():
+def high_rating_random_movie():
     cursor = pred_rating_random.aggregate([
         { '$project': {'_id': 0, 'index': 0 } },
         { '$match': { 'rating': 'low' } },
@@ -79,7 +80,7 @@ def low_rating_random_movie():
 
 
 # return a python list
-def high_rating_random_movie():
+def low_rating_random_movie():
     cursor = pred_rating_random.aggregate([
         { '$project': {'_id': 0, 'index': 0 } },
         { '$match': { 'rating': 'high' } },
@@ -103,4 +104,10 @@ def get_maxxu_list(which):
 def get_maxxu_all_lists_name():
     return ['high_casts', 'belongs_to_collection', 'low_crews', 'keywords_name', 'genres'
     , 'high_Writers', 'high_crews', 'high_Directors', 'low_Directors', 'low_casts', 'low_Writers']
+
+def get_all_movies():
+    cursor = recomm_testset.aggregate([
+        { '$project': {'_id': 0 } }
+    ])
+    return list(cursor)
 
