@@ -1,5 +1,5 @@
 from query_db_web import get_random_movies_with_poster
-from flask import Flask,render_template
+from flask import Flask,render_template, url_for, redirect
 from flask import request
 import json
 from recommend import get_recs_with_model, get_recs
@@ -31,7 +31,7 @@ def recommendPage():
 @app.route('/update')
 def update_list():
     clicked_movieId = request.args.get('movieId')
-    return clicked_movieId
+    return redirect(url_for('recommend', movie_id=clicked_movieId))
 
 @app.route('/recommend/<movie_id>', methods=['GET'])
 def recommend(movie_id):
