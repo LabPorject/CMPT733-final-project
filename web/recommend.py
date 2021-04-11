@@ -1,9 +1,6 @@
 import pandas as pd
 import os
 import sys
-module_path = os.path.abspath(os.path.join('../scripts'))
-if module_path not in sys.path:
-    sys.path.append(module_path)
 from similarity import SimilarityPredictions
 from query_db_web import get_all_movies
 def get_recs_with_model(movie_id, sim_model):
