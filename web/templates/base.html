@@ -23,6 +23,7 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
     />
+    <!--css file ----------------------------------------------->
     <link rel="stylesheet" href="../static/main.css" />
     <link rel="stylesheet" href="../static/recommend.css" />
     <link rel="stylesheet" href="../static/lightslider.css" />
@@ -58,10 +59,10 @@
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li>
-                <a class="dropdown-item" href="/recommend">Context based</a>
+                <a class="dropdown-item" href="{{ url_for('recommendPage')}}">Context based</a>
               </li>
               <li>
-                <a class="dropdown-item" href="/">Collaborative Filtering </a>
+                <a class="dropdown-item" href="{{ url_for('recommendPage')}}">Collaborative Filtering </a>
               </li>
             </ul>
           </li>
