@@ -66,7 +66,7 @@ def get_random_movies_with_poster(n):
 
 
 # return a python list
-def low_rating_random_movie():
+def high_rating_random_movie():
     cursor = pred_rating_random.aggregate([
         { '$project': {'_id': 0, 'index': 0 } },
         { '$match': { 'rating': 'low' } },
@@ -78,7 +78,7 @@ def low_rating_random_movie():
 
 
 # return a python list
-def high_rating_random_movie():
+def low_rating_random_movie():
     cursor = pred_rating_random.aggregate([
         { '$project': {'_id': 0, 'index': 0 } },
         { '$match': { 'rating': 'high' } },
