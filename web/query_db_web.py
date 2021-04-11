@@ -105,3 +105,9 @@ def get_maxxu_all_lists_name():
     return ['high_casts', 'belongs_to_collection', 'low_crews', 'keywords_name', 'genres'
     , 'high_Writers', 'high_crews', 'high_Directors', 'low_Directors', 'low_casts', 'low_Writers']
 
+def get_all_movies():
+    cursor = recomm_testset.aggregate([
+        { '$project': {'_id': 0 } }
+    ])
+    return list(cursor)
+

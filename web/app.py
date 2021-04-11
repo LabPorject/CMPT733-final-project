@@ -1,6 +1,6 @@
 
-from query_db_web import get_random_movies_with_poster
 from flask import Flask,render_template, url_for, redirect, current_app, request
+from query_db_web import get_random_movies_with_poster, get_model
 import json
 from recommend import get_recs_with_model, get_recs
 import pickle
@@ -9,11 +9,15 @@ import web_util as wu
 import query_db_web as qdw
 
 app = Flask(__name__)
-# with open('../model_content_v3.pkl', 'rb') as model:
-#     model_content_v3 = pickle.load(model)
-
-content_embeddings_v3 = pd.read_pickle("../final_models/autoencoder_embeddings-v3.pkl")
+content_embeddings_v3 = get_model(model_type="context", Description="Context-based: Chao Zhang Version 3")
 content_embeddings_v3 = pd.DataFrame(content_embeddings_v3)
+# model_content_v3 = pd.read_pickle("../model_content_v3.pkl")
+# content_embeddings_v2 = get_model(model_type="context", Description="Context-based: Chao Zhang Version 2 more weight on director")
+# content_embeddings_v2 = pd.DataFrame(content_embeddings_v2)
+# content_embeddings_v1 = get_model(model_type="context", Description="Context-based: Chao Zhang Version 1")
+# content_embeddings_v1 = pd.DataFrame(content_embeddings_v1)
+# collaborative_embeddings_v2 = get_model(model_type="collab", Description="Collaborative filtering: Chao Zhang Version 2")
+# collaborative_embeddings_v2 = pd.DataFrame(collaborative_embeddings_v2)
 @app.route('/')
 def mainPage():
     return render_template('home.html')
