@@ -3,6 +3,7 @@ import os
 import sys
 from similarity import SimilarityPredictions
 from query_db_web import get_all_movies
+# df = pd.DataFrame(get_all_movies())
 df = pd.DataFrame(get_all_movies())
 def get_recs_with_model(movie_id, sim_model):
     #get similar movies
