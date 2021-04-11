@@ -1,16 +1,16 @@
 from flask import Flask,render_template, url_for, redirect, current_app, request
 from query_db_web import get_random_movies_with_poster, get_model
 import json
-from recommend import get_recs_with_model, get_recs
+from recommend import get_recs_with_model, get_recs, get_ensemble_recs_with_model
 import pickle
 import pandas as pd
 import web_util as wu
 import query_db_web as qdw
 import copy
-
+from similarity import SimilarityPredictions
 app = Flask(__name__)
-content_embeddings_v3 = get_model(model_type="context", Description="Context-based: Chao Zhang Version 3")
-content_embeddings_v3 = pd.DataFrame(content_embeddings_v3)
+# content_embeddings_v3 = get_model(model_type="context", Description="Context-based: Chao Zhang Version 3")
+# content_embeddings_v3 = pd.DataFrame(content_embeddings_v3)
 # model_content_v3 = pd.read_pickle("../model_content_v3.pkl")
 # content_embeddings_v2 = get_model(model_type="context", Description="Context-based: Chao Zhang Version 2 more weight on director")
 # content_embeddings_v2 = pd.DataFrame(content_embeddings_v2)
@@ -18,7 +18,13 @@ content_embeddings_v3 = pd.DataFrame(content_embeddings_v3)
 # content_embeddings_v1 = pd.DataFrame(content_embeddings_v1)
 # collaborative_embeddings_v2 = get_model(model_type="collab", Description="Collaborative filtering: Chao Zhang Version 2")
 # collaborative_embeddings_v2 = pd.DataFrame(collaborative_embeddings_v2)
+content_embeddings_v3 = pd.read_pickle("../final_models/autoencoder_embeddings-v3.pkl")
+content_embeddings_v3 = pd.DataFrame(content_embeddings_v3)
+model_content_v3 = SimilarityPredictions(content_embeddings_v3, similarity_metric="cosine")
 
+content_embeddings_v1 = pd.read_pickle("../final_models/autoencoder_embeddings-v1.pkl")
+content_embeddings_v1 = pd.DataFrame(content_embeddings_v1)
+model_content_v1 = SimilarityPredictions(content_embeddings_v1, similarity_metric="cosine")
 rating_pred = qdw.get_model('rating',Description='Random Forest v2')
 
 
@@ -46,20 +52,34 @@ def diyRatingPage():
 
 @app.route('/recommend')
 def recommendPage():
-    return render_template('recommend.html', movies=get_random_movies_with_poster(10))
+    return render_template('recommend.html', movies=get_random_movies_with_poster(20))
 
+@app.route('/recommend_collab')
+def recommendPageCollab():
+    return render_template('recommend.html', movies=get_random_movies_with_poster(20))
 
 @app.route('/update')
 def update_list():
     clicked_movieId = request.args.get('movieId')
     return redirect(url_for('recommend', movie_id=clicked_movieId))
 
+@app.route('/update_collab')
+def update_list_collab():
+    clicked_movieId = request.args.get('movieId')
+    return redirect(url_for('recommend_collab', movie_id=clicked_movieId))
+
 @app.route('/recommend/<movie_id>', methods=['GET'])
 def recommend(movie_id):
-    df = get_recs(int(movie_id), content_embeddings_v3)
-    return render_template('recommend.html', movies=list(df.to_dict('index').values()))
-    # df = get_recs_with_model(int(movie_id), model_content_v3)
+    # df = get_recs(int(movie_id), content_embeddings_v3)
     # return render_template('recommend.html', movies=list(df.to_dict('index').values()))
+    # df = get_recs_with_model(int(movie_id), model_content_v3)
+    df = get_ensemble_recs_with_model(int(movie_id), model_content_v1, model_content_v3)
+    return render_template('recommend.html', movies=list(df.to_dict('index').values()))
+
+@app.route('/recommend_collab/<movie_id>', methods=['GET'])
+def recommend_collab(movie_id):
+    df = get_recs_with_model(int(movie_id), model_content_v3)
+    return render_template('recommend_collab.html', movies=list(df.to_dict('index').values()))
 
 @app.route('/test')
 def user():
