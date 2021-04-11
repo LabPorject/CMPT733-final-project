@@ -1,4 +1,3 @@
-
 from flask import Flask,render_template, url_for, redirect, current_app, request
 from query_db_web import get_random_movies_with_poster, get_model
 import json
@@ -7,6 +6,7 @@ import pickle
 import pandas as pd
 import web_util as wu
 import query_db_web as qdw
+import copy
 
 app = Flask(__name__)
 content_embeddings_v3 = get_model(model_type="context", Description="Context-based: Chao Zhang Version 3")
@@ -18,6 +18,10 @@ content_embeddings_v3 = pd.DataFrame(content_embeddings_v3)
 # content_embeddings_v1 = pd.DataFrame(content_embeddings_v1)
 # collaborative_embeddings_v2 = get_model(model_type="collab", Description="Collaborative filtering: Chao Zhang Version 2")
 # collaborative_embeddings_v2 = pd.DataFrame(collaborative_embeddings_v2)
+
+rating_pred = qdw.get_model('rating',Description='Random Forest v2')
+
+
 @app.route('/')
 def mainPage():
     return render_template('home.html')
@@ -36,7 +40,7 @@ def diyRatingPage():
         return render_template('rating_form.html',content=content)
     elif request.method == 'POST':
         content = wu.processing_cus_input(request.form)
-        y_pred = current_app.rating_pred.predict(wu.processing_input(copy.deepcopy(content)))
+        y_pred = rating_pred.predict(wu.processing_input(copy.deepcopy(content)))
         content['rating'] = y_pred
         return render_template('random_rating.html',content=content)
 
@@ -67,7 +71,7 @@ def randomRatingPage(rdn):
         content = qdw.low_rating_random_movie()
         # print(content)
         wu.str_to_list(content)
-        y_pred = current_app.rating_pred.predict(wu.processing_input(copy.deepcopy(content)))
+        y_pred = rating_pred.predict(wu.processing_input(copy.deepcopy(content)))
         content['rating'] = y_pred
         content['Directors'] = [d for d in content['Directors'] if d != 'None']
         return render_template('random_rating.html',content=content)
@@ -75,13 +79,13 @@ def randomRatingPage(rdn):
         # content = {}
         content = qdw.high_rating_random_movie()
         wu.str_to_list(content)
-        y_pred = current_app.rating_pred.predict(wu.processing_input(copy.deepcopy(content)))
+        y_pred = rating_pred.predict(wu.processing_input(copy.deepcopy(content)))
         content['rating'] = y_pred
         return render_template('random_rating.html',content=content)
     else:
         return """ <h1>Route Not Found</h1> """
 
 if __name__ == "__main__":
-    with app.app_context():
-        current_app.rating_pred = qdw.get_model('rating',Description='Random Forest v2')
+    # with app.app_context():
+    #     current_app.rating_pred = qdw.get_model('rating',Description='Random Forest v2')
     app.run(host='localhost', port=5000,debug=True)
