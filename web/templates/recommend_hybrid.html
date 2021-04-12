@@ -1,0 +1,26 @@
+{% extends "base.html" %} {% block title %} Movie Recommendation {% endblock %}
+{% block content %}
+
+<!--movies---------------------------->
+<div class="movies-heading">
+  <h2>Click on the movie you like the most</h2>
+</div>
+<section id="movies-list">
+  {% for movie in movies %}
+  <a href="{{ url_for('update_list_hybrid', movieId = movie['movieId'] ) }}">
+    <div class="movies-box">
+      <!--img------------>
+      <div class="movies-img">
+        <img src="{{movie['poster_path']}}" />
+      </div>
+      <!--text--------->
+      <a href="{{ url_for('update_list_hybrid', movieId = movie['movieId'] ) }}">{{movie['primaryTitle']}}</a>
+    </div>
+  </a>
+  {% endfor %}
+
+
+</section>
+
+
+{% endblock %}
