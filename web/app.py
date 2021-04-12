@@ -1,7 +1,7 @@
 from flask import Flask,render_template, url_for, redirect, current_app, request
 from query_db_web import get_random_movies_with_poster, get_model
 import json
-from recommend import get_recs_with_model, get_recs, get_ensemble_recs_with_model
+from recommend import get_recs_with_model, get_hybrid_recs_with_model, get_ensemble_recs_with_model
 import pickle
 import pandas as pd
 import web_util as wu
@@ -54,6 +54,10 @@ def recommendPage():
 def recommendPageCollab():
     return render_template('recommend_collab.html', movies=get_random_movies_with_poster(20))
 
+@app.route('/recommend_hybrid')
+def recommendPageHybrid():
+    return render_template('recommend_hybrid.html', movies=get_random_movies_with_poster(20))
+
 @app.route('/update')
 def update_list():
     clicked_movieId = request.args.get('movieId')
@@ -64,6 +68,11 @@ def update_list_collab():
     clicked_movieId = request.args.get('movieId')
     return redirect(url_for('recommend_collab', movie_id=clicked_movieId))
 
+@app.route('/update_hybrid')
+def update_list_hybrid():
+    clicked_movieId = request.args.get('movieId')
+    return redirect(url_for('recommend_hybrid', movie_id=clicked_movieId))
+
 @app.route('/recommend/<movie_id>', methods=['GET'])
 def recommend(movie_id):
     df = get_ensemble_recs_with_model(int(movie_id), model_content_v1, model_content_v3)
@@ -73,6 +82,11 @@ def recommend(movie_id):
 def recommend_collab(movie_id):
     df = get_recs_with_model(int(movie_id), model_collab_v2)
     return render_template('recommend_collab.html', movies=list(df.to_dict('index').values()))
+
+@app.route('/recommend_hybrid/<movie_id>', methods=['GET'])
+def recommend_hybrid(movie_id):
+    df = get_hybrid_recs_with_model(int(movie_id), model_content_v3, model_collab_v2)
+    return render_template('recommend_hybrid.html', movies=list(df.to_dict('index').values()))
 
 @app.route('/test')
 def user():
