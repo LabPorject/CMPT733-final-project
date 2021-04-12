@@ -7,7 +7,9 @@
     <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
     <!-- <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="static/main.css">
+    <link rel="stylesheet" href="../static/main.css">
+    <link rel="stylesheet" href="../static/recommend.css" />
+    <link rel="stylesheet" href="../static/lightslider.css" />
     <title>Movie Analyser</title>
 </head>
 <body id="mainPage">
@@ -23,8 +25,9 @@
                   Movie Recommendation
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="/">Context based</a></li>
-                  <li><a class="dropdown-item" href="/">Collaborative Filtering </a></li>
+                  <li><a class="dropdown-item" href="{{ url_for('recommendPage')}}">Context based</a></li>
+                  <li><a class="dropdown-item" href="{{ url_for('recommendPageCollab')}}">Collaborative Filtering </a></li>
+                  <li><a class="dropdown-item" href="{{ url_for('recommendPageHybrid')}}">Hybrid </a></li>
                 </ul>
               </li>
             <a class="nav-item nav-link" href="/rating">Rating Predictor</a>
