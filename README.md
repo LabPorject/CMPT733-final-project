@@ -58,6 +58,19 @@ http://localhost:5000/
 Main script to process movie information data for movie rating predictor model. 
 #### pred_lists.zip
 All the inputs and data needed for rating prediction and random generator. 
+#### similarity.py
+Script to calcualte the similarity matrix for each movie.
+#### autoencoder_script.py
+Autoencoder neural network.
+#### models/content_based.ipynb
+The neural network for content based recommendation system
+#### models/explict-movie-embedding.ipynb
+The neural network for explict collaborative filtering recommendation system
+#### models/implict_movie_embedding.ipynb
+The neural network for implict collaborative filtering recommendation system
+#### recommendation.ipynb
+Example notebook for recommendation
+
 ## Team Members
 #### Data source:
 https://grouplens.org/datasets/movielens/latest/
