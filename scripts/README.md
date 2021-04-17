@@ -24,14 +24,14 @@ This script was used as a helper function in data processing for rating predicto
 cd ..
 python script/pred_param_tuning.py
 ```
-This script will used Random Search method to tune the hyperparamters for rating predictor model.
+This script will use Random Search method to tune the Hyperparameters for rating predictor model.
 
 #### pred_model.py
 ```
 cd ..
 python script/pred_model.py
 ```
-This script will train 4 different regression modela and plot & print and accuracy results. 
+This script will train 4 different regression model and plot & print and accuracy results. 
 
 #### pred_feature_selection.py
 ```
