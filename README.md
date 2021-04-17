@@ -6,6 +6,7 @@
   <ol>
   <li><a href="#On-premise-deployment">On-premise Deployment</a></li>
     <li><a href="#cloud-deployment">Cloud Deployment</a></li>
+    <li><a href="#cloud-deployment">Scripts</a></li>
     <li><a href="#team-members">Team Members</a></li>
   </ol>
 </details>
@@ -51,6 +52,12 @@ see [dummy.py](/dummy.ipynb) as an example
 http://localhost:5000/
 ```
 ## Cloud Deployment
+
+## Scripts
+#### pred_processing.ipynb
+Main script to process movie information data for movie rating predictor model. 
+#### pred_lists.zip
+All the inputs and data needed for rating prediction and random generator. 
 ## Team Members
 #### Data source:
 https://grouplens.org/datasets/movielens/latest/
