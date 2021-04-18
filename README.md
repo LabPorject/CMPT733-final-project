@@ -16,8 +16,6 @@
 ##### Go to:  
 Web: http://ec2-52-5-131-199.compute-1.amazonaws.com:5000
 
-if you want to checkout our database, MongoDB Express: http://ec2-52-5-131-199.compute-1.amazonaws.com:8081
-
 ## Local deployment steps (Optional)
 ##### prerequisites 
 * docker & docker-compose
@@ -44,8 +42,6 @@ sudo docker-compose up -d
 
 Web: http://localhost:5000/  
 Please allow 3-5 mins to load trained models
-
-MongoDB Express: http://localhost:8081/
 
 ## Scripts
 #### scripts/query_database.py & web/query_db_web.py
