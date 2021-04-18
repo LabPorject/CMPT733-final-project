@@ -78,7 +78,11 @@ The neural network for implict collaborative filtering recommendation system
 Example notebook for recommendation
 
 ## Team Members
-#### Data source:
+#### Zhicheng Xu
+#### Rong Li
+#### Chao Zhang
+
+## Data source:
 https://grouplens.org/datasets/movielens/latest/
 
 https://developers.themoviedb.org/3/movies/get-movie-credits
