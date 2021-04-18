@@ -48,7 +48,18 @@ Please allow 3-5 mins to load trained models
 MongoDB Express: http://localhost:8081/
 
 ## Scripts
-
+#### scripts/query_database.py & web/query_db_web.py
+Python interfaces to encapsulate the MQL queries we often use into Python functions
+#### dummy.ipynb
+A demonstration of how to use above interfaces
+#### mongodb_integration/imdb_integration.ipynb
+Early stage of the data preparation procedure for IMDB tables
+#### mongodb_integration/movielens_integ.ipynb
+Early stage of the data preparation procedure for MovieLens tables
+#### mongodb_integration/tmdb_api.py & mongodb_integration/create_tmdb.py
+TMDB data preparations
+#### mongodb_integration/imtm_dbintegration.py
+Final data integration to combine all three sources data
 #### pred_processing.ipynb
 Main script to process movie information data for movie rating predictor model. 
 #### pred_lists.zip
@@ -71,3 +82,5 @@ Example notebook for recommendation
 https://grouplens.org/datasets/movielens/latest/
 
 https://developers.themoviedb.org/3/movies/get-movie-credits
+
+https://datasets.imdbws.com/
