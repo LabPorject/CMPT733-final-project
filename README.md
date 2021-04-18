@@ -4,8 +4,8 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-  <li><a href="#Cloud deployment">Cloud deployment</a></li>
-    <li><a href="#Local-deployment">Local deployment steps (Optional)</a></li>
+  <li><a href="#cloud-deployment">Cloud deployment</a></li>
+    <li><a href="#local-deployment">Local deployment steps (Optional)</a></li>
     <li><a href="#Scripts">Scripts</a></li>
     <li><a href="#team-members">Team Members</a></li>
   </ol>
